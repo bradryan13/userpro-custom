@@ -1,0 +1,585 @@
+Version 1.0.67 (5 Feb 2014)
+============================
+
+	- New feature: Facebook / Twitter Viral Marketing (Automatically publish a custom post to your user wall)
+	- New feature: Automatically post a custom message to your user's Facebook Wall (optional)
+
+Version 1.0.66 (2 Feb 2014)
+============================
+
+	- New feature: Datepicker field added!
+	- New feature: Auto post to users Twitter timeline when they connect (optional / custom message)
+	- New feature: Introducing Viral Social Marketing!
+	- Fixed conflict: UserPro avatars now work with BuddyPress!
+	- Fixed conflict: Fixed G+ connect conflict with other plugins
+
+Version 1.0.65 (1 Feb 2014)
+============================
+
+	- Language updated: fr_FR
+	- Added checks: prevent duplicate display names (when connecting with social network)
+	- Fixed bug: prevented special characters in display name
+
+Version 1.0.64 (30 Jan 2014)
+============================
+
+	- New feature: added VK integration support (Required for VK addon)
+	- Language updated: pt_BR
+	- Fixed conflict: Google+ now uses name to create unique username automatically
+	- Fixed bug: private activity showing only to logged in user (on his profile only)
+
+Version 1.0.63 (28 Jan 2014)
+============================
+
+	- New feature: Google+ social connect is now available!
+	- New option: turn off initial results on members search (optional)
+	- Improved: social login buttons redesigned and improved
+	- Fixed bug: online users count text fixed
+
+Version 1.0.62 (26 Jan 2014)
+============================
+
+	- New feature: display public activity for a specific user (or users)
+	- New feature: backend option to link backend edit to frontend profiles automatically
+	- New option: display verified account badge beside name (optional)
+	- Fixed bug: TwitterOauth bug has been fixed
+	- Fixed bug: deny special characters from display name
+	- Minor conflict: css conflict fixed with some themes
+
+Version 1.0.61 (25 Jan 2014)
+============================
+
+	- New language: Romanian
+	- Fixed possible conflict: file name under multi-forms was changed
+	- Fixed bug: fixed twitter social connect and auth
+	- Fixed bug: minor issue with empty badge showing
+	- Fixed bug: custom post type in frontend publisher
+
+Version 1.0.60 (22 Jan 2014)
+============================
+
+	- New feature: Twitter social connect
+	- New feature: Email Invitation to get verified
+	- New feature: Make an account verified / unverified with one click
+	- New option: use full name as display name
+	- New option: use any profile field as display name
+	- New option: Prevents wp-admin lock if accidently removed frontend login
+	- Fixed bug: Twitter profile image fixed
+	- Fixed bug: corrected country name / flag for Palestine country
+	- Updated language: Russian
+	- Security patch
+
+Version 1.0.59 (22 Jan 2014)
+============================
+
+	- New feature: lock entire site for guests
+	- New feature: lock homepage for guests (non logged in users)
+	- New feature: lock homepage for registered users
+	- New feature: added auto-paragraph support to user description in profiles
+	- New feature: show user country flag in profile (optional)
+	- New feature: show user country flag in badges (optional)
+	- New option: disable frontend publishing for certain user roles
+	- Added setting to allow/disallow dash in display names (feature request)
+	- Hides backend lost password page (optional)
+	- Fixed bug: Sorting multiple roles in memberlist
+	- Fixed conflict: changed 'administrator' ability to 'manage_options'
+	- Fixed css conflict: Sahifa wordpress theme
+	- New Dashboard Design!
+	- New dashboard elements: makes it easy to find plugin version, check latest version, and get support
+
+Version 1.0.58 (19 Jan 2014)
+============================
+
+	- New Feature! Setup different registration forms
+	- Added import/export for plugin settings
+	- Added import/export for plugin fields and field groups
+	- Speed up development by using instant plugin import/export features
+
+Version 1.0.57 (18 Jan 2014)
+============================
+
+	- Badges and Achievements feature: add badges to users plus achievement badges
+	- Frontend publisher: added options to set default post category (or categories)
+	- Frontend publisher: default post category supports all taxonomies
+	- Frontend publisher: added option to set allowed post types (or default post type)
+	- Frontend publisher: added option to set allowed taxonomies
+	- Activity stream: added button to refresh activity instantly with ajax
+	- Fixed minor php warning
+
+Version 1.0.56 (17 Jan 2014)
+============================
+
+	- Critical security and performance update (Please update your plugin!)
+
+Version 1.0.55 (15 Jan 2014)
+============================
+
+	- Added random filenames for image/file uploads
+	- Fixed bug with restrict content tab showing few posts only
+
+Version 1.0.54 (14 Jan 2014)
+============================
+
+	- Added support to use custom icons for fields (350+ FontAwesome icons to choose from)
+	- Added customizable email notification to admin when new user signs up (and waiting manual approval)
+	- UserPro 100% compatible with Genesis/Avada and more CSS compatibility proven
+	- Added possibility to lock posts as well as pages (Full posts/pages, or chosen content only)
+	- Fixed few minor bugs with custom user notices
+	
+Version 1.0.53 (7 Jan 2014)
+============================
+
+	- Manually approve new registration (optional)
+	- New Dashboard to accept verification requests/manually approve users
+	- Added display name as permalink option (Profile url based on display name)
+	- Added security option to disable verification badge when user changes name
+	- 2 New Email Notifications: When user gets verified/un-verified (optional)
+	- Upload folders for users are created on demand only
+	- Fixed bug with verification request when permalink setting is set to ID
+	- Fixed few bugs with memberlist search
+
+Version 1.0.52 (5 Jan 2014)
+============================
+
+	- Added option to set "Featured Image" via frontend (publisher)
+	- Added option to choose from square to rounded thumbnails via global option
+	- Fixed heading color field
+	- redirect_to works on all login pages now
+	- Minor fix with Facebook connect (if user already exists)
+	- Added option to hide admins activity from activity stream
+	- Added rule to hide deleted users activity from activity stream
+	- Fixed social activity stream (posts with empty title e.g. new forum reply)
+	- Minor bugfixes and css improvements
+
+Version 1.0.51 (1 Jan 2014)
+============================
+
+	- Added 3 New Skins!
+	- Added hooks to allow "unlimited" custom skins
+	- Added optional antispam question to password reset/change forms
+
+Version 1.0.50 (31 Dec 2013)
+============================
+
+	- Added Live status (online/offline) user (optional)
+	- Cleaned up css
+	- Removed recaptcha (many compatibility issues found)
+	- Replaced recaptcha with random and simple math question
+	- Fixed php notices
+	
+Version 1.0.49 (29 Dec 2013)
+============================
+
+	- Added Spanish language
+	- Added maintenance (quick options) to clean up your install
+	- Added option to clear un-assigned file uploads
+	- Added option to clear your deleted users stuff and uploads
+	- Fixed MailChimp duplicate class bug
+	- Fixed a bug with mail
+
+Version 1.0.48 (26 Dec 2013)
+============================
+
+	- MailChimp Integration is now available!
+	- Enable users to subscribe/unsubscribe to your mailing list(s) when registering/editing profile
+	- Show user his subscription status (If he is already subscribed to mailing list)
+	- Supports multiple MailChimp mailing lists
+
+Version 1.0.47 (25 Dec 2013)
+============================
+
+	- Added option to translate/edit "Upload picture/file" button
+	- Bug fixes
+
+Version 1.0.46 (22 Dec 2013)
+============================
+
+	- Added Envato purchase code integration (Validate user's purchase and show that he's customer with nice badge)
+	- Added ajax check to force unique display names (prevents duplicate display name)
+	- Added compatibility settings (relative path for files, url encoding)
+	- UserPro 100% compatible with CDN networks/domains
+	- Minor updates and fixes
+
+Version 1.0.45 (21 Dec 2013)
+============================
+
+	- Added ability to setup global redirection (using $_GET)
+	- ?redirect_to=custom_url on login pages to take user to page after login (overrides other redirection options)
+	- Important bug fixes
+	- Language strings updated
+
+Version 1.0.44 (17 Dec 2013)
+============================
+
+	- MAJOR UPDATE: Search filters are now available in member list directory besides enhanced member directory
+	- replaced search_filters option by memberlist_filters
+	- Custom search filters can be defined in memberlist e.g. search_country, search_gender (refer to docs)
+	
+Version 1.0.43 (16 Dec 2013)
+============================
+
+	- Added option to control profile picture size (profile_thumb_size)
+	- Fixed bug with no_style option
+	- CSS/Responsive bug fixes
+	- Minor bug fixes
+	
+Version 1.0.42 (14 Dec 2013)
+============================
+
+	- Added option to enable terms & conditions agreement before signup
+	- Added option to reinstall UserPro (reset factory settings)
+	- Custom link option for verified badge
+	- Fixed welcome e-mail being sent wrongly to pending users (awaiting validation)
+	- Minor bug fixes
+	
+Version 1.0.41 (13 Dec 2013)
+============================
+
+	- Added option to turn off/on social module
+	- Skins can be retrieved from child/parent themes
+	- Fixed bug with secret key reset password procedure
+	- Fixed possible conflict with a function
+
+Version 1.0.40 (11 Dec 2013)
+============================
+
+	- DELETE UserPro addons as they are now part of core
+	- MAJOR: Addons are now part of UserPro plugin
+	- Added WooCommerce auto-sync fields
+	- Improved header background image
+	- Added Russian language
+	
+Version 1.0.39 (10 Dec 2013)
+============================
+
+	- Unlimited Google Fonts support added
+	- You can now make UserPro use a Google font, your theme font or any installed font
+	- Added admin options to choose which font is used to display UserPro
+	- Fixed the appearance of logout layout
+	- Added option to enable/disable field icons
+	- Added option to hide/show top bar from non-admins
+
+Version 1.0.38 (10 Dec 2013)
+============================
+
+	- Added more options to the card view: show/hide social icons, show/hide user bio
+	- Custom skins in your_theme/userpro/skins/ are now recognized by UserPro and can be chosen
+	- User Profile can be displayed for author in his posts/pages (request)
+	- Added compact mode to posts by user (show posts in a simple list, show/hide thumbnail)
+	- Added French language
+	- Added Turkish language
+
+Version 1.0.37 (9 Dec 2013)
+============================
+
+	- Correction made to custom skins
+	- Required radio fields has been fixed
+	- Added translations
+	- Minor bugfixes
+	
+Version 1.0.36 (8 Dec 2013)
+============================
+
+	- Unique feature: Now you can allow users to upload a custom profile background!
+	- New Profile Design
+	- Allow users to customize their profile
+	
+Version 1.0.35 (7 Dec 2013)
+============================
+
+	- Overall design improvements
+	- Help text is now a nice tooltip (saves more form space)
+	- Added tooltips to account badges
+
+Version 1.0.34 (6 Dec 2013)
+============================
+
+	- MAJOR FEATURE INTRODUCTION: Frontend Post Publisher (Beta)
+
+Version 1.0.33 (5 Dec 2013)
+============================
+	
+	- Allowed registration without username (using e-mail address only)
+	- Enhanced error notifications and overall design
+	- Advanced: added option set ajax validation checks manually on any field
+
+Version 1.0.32 (4 Dec 2013)
+============================
+	
+	- Added a way to quickly edit fields "globally" from field lists (not required to add to group first)
+	- Added a way to remove existing fields (before) adding them to group in backend
+	- Social links can appear in profile view as well as on bar
+	- Improved backend field setup
+	- Enhanced default settings/fields
+	- Minor bugfix in backend fields
+
+Version 1.0.31 (3 Dec 2013)
+============================
+	
+	- Default skin has been redesigned to meet standards
+	- Added option to customize css without changing plugin files
+	- Optimised plugin css/js files (per users request)
+	
+Version 1.0.30 (2 Dec 2013)
+============================
+	
+	- MAJOR FEATURE: Display posts made by user in his profile
+	- Display posts made by any user you specify anywhere with shortcode
+	- Minor bug fixes
+	- Improved memberlist appearance
+
+Version 1.0.29 (2 Dec 2013)
+============================
+	
+	- MAJOR FEATURE: Display online users (2 templates available!)
+	- Greatly improved plugin responsiveness
+	- Added more options for compact/list view
+
+Version 1.0.28 (30 Nov 2013)
+============================
+	
+	- Added new memberlist layout (modern!)
+	- Old memberlist layout still supported
+	
+Version 1.0.27 (29 Nov 2013)
+============================
+	
+	- Enable "email validation" with activation link before account is active
+	- Fixed problem with auto-logging user
+	
+Version 1.0.26 (28 Nov 2013)
+============================
+	
+	- MAJOR UPDATE: Added Caching to member search/results to speed up memberlists
+	- MAJOR UPDATE: Profile permalinks can be made from IDs, first/last name, or Username
+	- profile permalink can be /profile/42, /profile/User, or /profile/Bob-Marley/
+	- Added option to include profile fields in the registration welcome email/notification
+	- Added 'align' option so you can control alignment of shortcodes left|right|center|none
+	- Added 'no_style' option to override plugin default style
+	- Added 'no_header' option to remove header from the shortcode you want
+	- New shortcodes to display personalized profile data anywhere!
+	- Customize and personalize profile pages e.g. Show custom welcome text
+
+Version 1.0.25 (25 Nov 2013)
+============================
+	
+	- Critical bugfix
+
+Version 1.0.24 (24 Nov 2013)
+============================
+	
+	- Added option to easily set the plugin width via global setting
+	- Display content to logged in users only using shortcode
+	- Display content to guests only using shortcode
+	- Extract profile data/information easily using [userpro_field data=""]
+	- 3 new shortcodes available! (check the plugin features for info)
+	- Added a "Logout" page with different redirect options
+	- Added possibility to logout users via logout page to a custom url
+	- Logout redirect can be overriden with /logout/?redirect_to=custom_url
+	- Fixed bug with making collapsible/collapsed sections
+	- Fixed minor css conflicts
+
+Version 1.0.23 (22 Nov 2013)
+============================
+	
+	- New shortcode: [userpro_fb] to display Facebook connect button only anywhere you want
+	- New shortcode option: show only members who specified a profile picture
+	- Added a redirect option for facebook (e.g. refresh after login, custom url, etc.)
+	- Added option to show only verified users in memberlist (compact or standard)
+	- Added option to customize logout redirection url
+	- General improvements to memberlist template
+	- Fixed bug with memberlist template
+	- Fixed bug with member search
+
+Version 1.0.22 (21 Nov 2013)
+============================
+
+	- Minor bug fixes
+
+Version 1.0.21 (20 Nov 2013)
+============================
+
+	- Added option to disable/enable new registration
+	- Added option where admins can set custom notice/warning to user profiles (optional)
+	- Optionally make the user notice visible to public or not
+	- Added hook that runs after new user registration
+
+Version 1.0.20 (18 Nov 2013)
+============================
+
+	- Added possibility to customize plugin templates from theme folder (you do not need to edit plugin templates anymore for update compatibility)
+	- Corrected bug with profile permalink slug
+
+Version 1.0.19 (17 Nov 2013)
+============================
+
+	- No more relying on plugin uploads folder
+	- Changed the uploads directory to WordPress uploads directory
+	- Added another way to load profile picture externally from facebook (increases compatibility)
+	- Improved API for User Uploads and saving profile pictures
+
+Version 1.0.18 (16 Nov 2013)
+============================
+
+	- Now you can show only specific fields or exclude specific fields
+	- Include/exclude fields by key (e.g. country)
+	- Include/exclude fields by field label (e.g. First Name)
+	- Include/exclude fields by type (e.g. Select/Radio, etc.)
+	- Added option to show/hide social icons via shortcode option
+	- Improved custom fields in backend by showing the field key beside its label
+	- Fixed Facebook login in modal popup
+	- Fixed possible conflict in plugin settings menu position
+
+Version 1.0.17 (15 Nov 2013)
+============================
+
+	- Fixed backend warnings/errors
+
+Version 1.0.16 (15 Nov 2013)
+============================
+
+	- Added option to disable "verification request"
+	- Added scroll to members box when using pagination
+	- Admin notification when user registers is fixed
+	- Default avatars bugfix
+
+Version 1.0.15 (14 Nov 2013)
+============================
+
+	- Improved custom filtering for members
+	- Overall plugin improvements and fixes
+	- Fixed Facebook profile picture issue for some hosts
+	- Fixed issues with saving settings in backend
+	- TimThumb updated to latest version
+
+Version 1.0.14 (13 Nov 2013)
+============================
+
+	- Now includes Shortcode Generator in the WP editor
+	- Option to use default gravatars (until user uploads custom avatar)
+	- Added option to disable password reset on admin accounts
+	- Added Dutch language
+	- List available/custom skins automatically in admin settings
+	- Added option to frontend users to request verification
+	- Added option for site admins to approve/reject verification requests
+	- Fixed permalinks slugs in special cases
+	- Fixed issue with empty usermeta table in some installations
+	- UserPro is now prepared for custom extensions (for developers)
+
+Version 1.0.13 (11 Nov 2013)
+============================
+
+	- Added a compact logout widget (also replaces login for logged in users)
+	- If user is logged in, replace login/register forms with logout
+	- Make fully restricted pages accessible to verified users (optional)
+	- Control if guests/users can view other user profiles
+	- Added option to turn off message notification when viewing profile and not logged in
+	- Optionally show/hide login/register forms if user is already logged in
+	- Fixed issue with profile permalinks
+	- Fixed minor css conflict Firefox/Chrome
+
+Version 1.0.12 (10 Nov 2013)
+============================
+
+	- Assign any fields to specific user roles
+	- Logged in users will not see Register/Login pages
+	- Added option to set Default Role via UserPro registration
+	- Made @ allowed in usernames during signup
+	- New action hook: userpro_after_profile_head
+	- New API methods!
+	- Fixed a bug with get_avatar
+	- Minor css fixes
+
+Version 1.0.11 (9 Nov 2013)
+============================
+
+	- Improved Responsiveness in very small resolutions
+	- Can use shortcodes inside UserPro private/restricted content
+	- Fixed issue with logout button after saving changes
+	- Fixed issue with Facebook account creation (if user with same email already exists)
+	- New filter hook: userpro_shortcode_args (For developer use)
+	- New action hook: userpro_custom_template_hook (For developer use)
+	- Language files updated
+	- Minor bugfixes
+
+Version 1.0.10 (8 Nov 2013)
+============================
+
+	- Automatically set profile picture for users logging via Facebook
+	- Admin receive email notification when profile is updated (optional)
+	- Admin receive email notification when profile is deleted (optional)
+	- Mass restrict / make any page(s) private or available to members only
+	- Make any page or multiple pages private/public by one click
+	- Show beautiful profile cards for your users (custom profile picture size)
+	- Fixed issue with dropdown menus
+
+Version 1.0.09 (7 Nov 2013)
+============================
+
+	- Customize New Account/Welcome E-mail (Hide WP-login URL)
+	- Customize e-mail headers for outgoing emails
+	- New API method to show Facebook login button anywhere!
+	- Improved CSS compatibility
+	- Fixed UTF-8 issue on multi-language translations
+	- Fixed conflict with wp-recaptcha
+
+Version 1.0.08 (6 Nov 2013)
+============================
+
+	- Private Content Shortcode (Content for members only)
+	- Restrict content to all members, specific roles, or verified accounts
+	- Minor bug fixes
+
+Version 1.0.07 (5 Nov 2013)
+============================
+
+	- Facebook social connect plus automatic profile sync/creation
+	- Facebook users can login with Facebook or standard WP access
+	- Fixed bug with avatars
+
+Version 1.0.06 (4 Nov 2013)
+============================
+
+	- Added phone number support to social icons
+	- New action hook: userpro_after_fields to add custom stuff after profile fields
+	- Introducing UserPro API for easy access - still beta/basic
+
+Version 1.0.05 (3 Nov 2013)
+============================
+
+	- Mark any users you want as Verified Account
+	- Verified accounts get a nice badge beside name like on Twitter!
+	- Admins are Verified by default
+	- Backend users column to immediately mark account as Verified or Unverified
+	- Show compact users list for users who are verified accounts only - optional
+
+Version 1.0.04 (1 Nov 2013)
+============================
+
+	- Added responsive reCAPTCHA support
+	- New plugin skin is added - flat
+	- Show latest users
+	- Show compact user profiles
+	- Show specific user profile or profiles, or author contact card
+	- Users/admins can remove profiles from frontend
+	- Custom e-mail message sent to user after profile removal
+	- Important bugfixes
+
+Version 1.0.03 (30 Oct 2013)
+============================
+
+	- Added support for file uploads besides images
+	- You can allow users to upload files e.g. pdf, text, etc.
+	- Important bugfixes
+	
+Version 1.0.02 (28 Oct 2013)
+============================
+
+	- Added support for custom fields in Member Search
+
+Version 1.0.01 (27 Oct 2013)
+============================
+
+	- Password reset / change shortcodes
+	- Customize Password Reset E-mail
+	- Important bugfixes

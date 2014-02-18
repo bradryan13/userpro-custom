@@ -1,0 +1,1848 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-08 20:00+0200\n"
+"PO-Revision-Date: 2013-12-09 05:17+0100\n"
+"Last-Translator: Vincent <support@wp-member.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-functions.php:8
+msgid ""
+"Displays the admin email that users can contact you at. You can configure it "
+"under Mail settings."
+msgstr ""
+"Zeigt die Admin-E-Mail, über die Dich Deine Benutzer kontaktieren können. "
+"Diese kann unter den E-Mail Einstellungen konfiguriert werden."
+
+#: admin/admin-functions.php:9
+msgid "Displays blog name"
+msgstr "Zeigt den Blog Namen"
+
+#: admin/admin-functions.php:10
+msgid "Displays the UserPro login page"
+msgstr "Zeigt die UserPro Anmelde Seite"
+
+#: admin/admin-functions.php:11
+msgid "Displays the Username of user"
+msgstr "Zeigt den Benutzernamen eines Mitglieds"
+
+#: admin/admin-functions.php:12
+msgid "Displays the E-mail address of user"
+msgstr "Zeigt die E-Mail Adresse eines Mitglieds"
+
+#: admin/admin-functions.php:13
+msgid "Displays the User Profile address"
+msgstr "Zeigt die Profil Adresse eines Mitglieds"
+
+#: admin/admin-functions.php:14
+msgid "Outputs all profile fields in the e-mail"
+msgstr "Zeigt alle Profilfelder in der E-Mail"
+
+#: admin/admin-functions.php:15
+msgid ""
+"The account validation URL that user receives after signing up (If you "
+"enable e-mail validation feature)"
+msgstr ""
+"Die Benutzerkonto Validierungs-URL, die ein Mitglied nach der Registrierung "
+"erhält (falls Du eine E-Mail-Validierung ermöglichst)"
+
+#: admin/admin-functions.php:19
+msgid "Custom Variable 1"
+msgstr "Standard Variable 1"
+
+#: admin/admin-functions.php:32
+#, php-format
+msgid "%s fields available"
+msgstr "%s Felder möglich"
+
+#: admin/admin-functions.php:65
+msgid "Edit Field"
+msgstr "Feld bearbeiten"
+
+#: admin/admin-functions.php:67
+msgid "Delete Field"
+msgstr "Feld löschen"
+
+#: admin/admin-functions.php:192 admin/admin-functions.php:234
+msgid "Registration Fields"
+msgstr "Registrierungsfelder"
+
+#: admin/admin-functions.php:193 admin/admin-functions.php:235
+msgid "Edit Profile Fields"
+msgstr "Profilfelder bearbeiten"
+
+#: admin/admin-functions.php:194 admin/admin-functions.php:236
+msgid "Login Fields"
+msgstr "Anmeldefelder"
+
+#: admin/admin-functions.php:195 admin/admin-functions.php:237
+msgid "Social Fields"
+msgstr "Soziale Felder"
+
+#: admin/admin-functions.php:214 admin/admin-functions.php:248
+#: admin/panels/pages.php:55 admin/panels/pages.php:68
+#: admin/panels/pages.php:81 admin/panels/pages.php:94
+#: admin/panels/pages.php:107 admin/panels/pages.php:120
+msgid "View Page"
+msgstr "Seite betrachten"
+
+#: admin/admin-functions.php:216 admin/admin-functions.php:251
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: admin/admin-functions.php:217 admin/admin-functions.php:252
+#: functions/custom-alerts.php:24 functions/custom-alerts.php:33
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/admin-functions.php:269
+msgid "Label"
+msgstr "Beschreibung"
+
+#: admin/admin-functions.php:270 admin/panels/fields.php:104
+msgid "Help Text"
+msgstr "Hilfe Text"
+
+#: admin/admin-functions.php:271
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+#: admin/admin-functions.php:272
+msgid "Ajax Check Callback (advanced)"
+msgstr "Ajax Check Rückruf (fortgeschritten)"
+
+#: admin/admin-functions.php:273
+msgid "Heading Text"
+msgstr "Überschrift"
+
+#: admin/admin-functions.php:274
+msgid "Collapsible Section"
+msgstr "Verkleinerbarer Bereich"
+
+#: admin/admin-functions.php:275
+msgid "Collapsed"
+msgstr "Verkleinert"
+
+#: admin/admin-functions.php:283
+msgid "Drag fields / sections into this area"
+msgstr "Ziehe Felder / Sektionen hinein in diesen Bereich"
+
+#: admin/admin-functions.php:304 admin/admin-functions.php:397
+#: admin/panels/mail.php:25 admin/panels/mail.php:35
+#: admin/panels/settings.php:101 admin/panels/settings.php:111
+#: admin/panels/settings.php:121 admin/panels/settings.php:131
+#: admin/panels/settings.php:141 admin/panels/settings.php:151
+#: admin/panels/settings.php:162 admin/panels/settings.php:172
+#: admin/panels/settings.php:242 admin/panels/settings.php:263
+#: admin/panels/settings.php:278 admin/panels/settings.php:288
+#: admin/panels/settings.php:370 admin/panels/settings.php:393
+#: admin/panels/settings.php:424 admin/panels/settings.php:434
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/admin-functions.php:305 admin/admin-functions.php:398
+#: admin/panels/mail.php:26 admin/panels/mail.php:36
+#: admin/panels/settings.php:102 admin/panels/settings.php:112
+#: admin/panels/settings.php:122 admin/panels/settings.php:132
+#: admin/panels/settings.php:142 admin/panels/settings.php:152
+#: admin/panels/settings.php:163 admin/panels/settings.php:173
+#: admin/panels/settings.php:243 admin/panels/settings.php:264
+#: admin/panels/settings.php:279 admin/panels/settings.php:289
+#: admin/panels/settings.php:371 admin/panels/settings.php:394
+#: admin/panels/settings.php:425 admin/panels/settings.php:435
+msgid "No"
+msgstr "Nein"
+
+#: admin/admin-functions.php:380
+msgid "Add Seperator / Section"
+msgstr "Füge eine Trennung / Sektion hinzu"
+
+#: admin/admin-functions.php:383
+msgid "My Custom Heading"
+msgstr "Meine eigene Überschrift"
+
+#: admin/admin-functions.php:433
+msgid "Broken page. Please rebuild plugin pages."
+msgstr "Zusammengebrochene Seite. Bitte erschaffe die Plugin-Seiten neu."
+
+#: admin/admin-functions.php:439
+msgid "Text Input"
+msgstr "Text Eingabe"
+
+#: admin/admin-functions.php:440
+msgid "Photo Upload"
+msgstr "Foto Upload"
+
+#: admin/admin-functions.php:441
+msgid "File Upload"
+msgstr "Dokument Upload"
+
+#: admin/admin-functions.php:442
+msgid "Textarea"
+msgstr "Textfeld"
+
+#: admin/admin-functions.php:443
+msgid "Select Dropdown"
+msgstr "Auswahl Dropdown"
+
+#: admin/admin-functions.php:444
+msgid "Multiselect Box"
+msgstr "Mehrige Auswahl Box"
+
+#: admin/admin-functions.php:445
+msgid "Checkbox (floating)"
+msgstr "Auswahlbox (floating)"
+
+#: admin/admin-functions.php:446
+msgid "Checkbox (full width)"
+msgstr "Auswahlbox (volle Weite)"
+
+#: admin/admin-functions.php:447
+msgid "Radio Choice (floating)"
+msgstr "Radio-Auswahl (floating)"
+
+#: admin/admin-functions.php:448
+msgid "Radio Choice (full width)"
+msgstr "Radio-Auswahl (volle Weite)"
+
+#: admin/admin-functions.php:449
+msgid "Password Field"
+msgstr "Passwort Feld"
+
+#: admin/admin-functions.php:450
+msgid "Password Strength Meter"
+msgstr "Passwort Stärke Messer"
+
+#: admin/admin-functions.php:504
+msgid "Each field must have a title."
+msgstr "Jedes einzelne Feld muss über einen Titel verfügen."
+
+#: admin/admin-functions.php:506
+msgid "Please enter a unique key or choose an existing usermeta."
+msgstr ""
+"Bitte gib einen einzigartigen Schlüssel ein oder wähle ein bereits "
+"existierendes Benutzer-Meta."
+
+#: admin/admin-functions.php:518
+msgid "This existing usermeta already exists in your fields list below."
+msgstr ""
+"Dieses existierende Benutzer-Meta ist bereits in Deiner Felder-Liste unten "
+"vorhanden."
+
+#: admin/admin-functions.php:520
+msgid "This unique key already exists in your fields list below."
+msgstr ""
+"Dieser einzigartige Schlüssel existiert bereits in Deiner Felder-Liste unten."
+
+#: admin/admin-users.php:6
+msgid "Verified"
+msgstr "Verifiziert"
+
+#: admin/admin.php:26
+msgid "Customize Fields"
+msgstr "Felder nach belieben bearbeiten"
+
+#: admin/admin.php:27
+msgid "Global Options"
+msgstr "Globale Optionen"
+
+#: admin/admin.php:28
+msgid "Restrict Content"
+msgstr "Eingeschränkter Inhalt"
+
+#: admin/admin.php:29
+msgid "Role-based Fields"
+msgstr "Rollen-basierte Felder"
+
+#: admin/admin.php:30
+msgid "Emails & Notifications"
+msgstr "E-Mails & Benachrichtigungen"
+
+#: admin/admin.php:31
+msgid "Page Setup"
+msgstr "Seiten Ein- bzw. Erstellung"
+
+#: admin/admin.php:32
+#, php-format
+msgid "%s Pending Verification"
+msgstr "%s anstehende Verifizierungen"
+
+#: admin/admin.php:104
+#, php-format
+msgid "%d new verification requests"
+msgstr "%d neue Verifizierungs-Anträge."
+
+#: admin/admin.php:106
+#, php-format
+msgid "UserPro %s"
+msgstr "UserPro %s"
+
+#: admin/admin.php:108 admin/admin.php:111
+msgid "UserPro"
+msgstr "UserPro"
+
+#: admin/admin.php:173
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: admin/admin.php:179
+msgid "Settings are reset to default."
+msgstr "Einstellungen auf ihren ursprünglichen Zustand zurückgesetzt."
+
+#: admin/admin.php:184
+msgid "Your plugin pages have been rebuilt successfully."
+msgstr "Deine Plugin Seiten wurden erfolgreich erneuert."
+
+#: admin/admin.php:191
+msgid "You did not specify a group name."
+msgstr "Du hast noch keinen Gruppen Namen festgelegt."
+
+#: admin/admin.php:198
+msgid "This group exists already."
+msgstr "Diese Gruppe existiert bereits"
+
+#: admin/admin.php:202
+msgid "Group created."
+msgstr "Gruppe erstellt."
+
+#: admin/panels/fieldroles.php:3
+msgid ""
+"Here you can set fields to be available for certain role(s) only. For "
+"example, If you wish to make a set of fields not visible to Subscriber role, "
+"or want to make other fields available only to a Customer role. This does "
+"the job for you."
+msgstr ""
+"Here kannst Du einstellen, dass Felder nur für bestimmte Rollen zugänglich "
+"sind. Zum Beispiel, wenn Du wünschst, dass ein bestimmtes Set an Feldern "
+"nicht für Abonennten sichtbar ist oder bestimmte Felder nur für "
+"Administratoren einsehbar sind. Dies hier übernimmt den Job für Dich."
+
+#: admin/panels/fieldroles.php:28 admin/panels/mail.php:97
+#: admin/panels/pages.php:42 admin/panels/restrict.php:76
+#: admin/panels/settings.php:443 functions/shortcode-main.php:104
+#: functions/shortcode-private-content.php:84
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: admin/panels/fieldroles.php:29 admin/panels/mail.php:98
+#: admin/panels/pages.php:43 admin/panels/restrict.php:77
+#: admin/panels/settings.php:444
+msgid "Reset Options"
+msgstr "Optionen zurücksetzen."
+
+#: admin/panels/fields.php:6
+msgid "How to edit the field settings?"
+msgstr "WIe ändere ich die Feld Einstellungen?"
+
+#: admin/panels/fields.php:7
+msgid ""
+"This plugin uses small icons for quick ajax editing for a field. Each icon "
+"means something, this little guide will show you how to control each field "
+"quickly and instantly."
+msgstr ""
+"Dieses Plugin nutzt kleine Icons für die schnelle Ajax Bearbeitung eines "
+"Felds. Jedes Icon bedeutet etwas und diese kleine Anleitung wird Dir zeigen, "
+"wie jedes einzelne Feld schnell und direkt kontrolliert werden kann."
+
+#: admin/panels/fields.php:8
+msgid ""
+"A transparent icon means the setting is turned off. A full-color icon means "
+"the setting is turned on. Click on any icon to switch the state of it on and "
+"off."
+msgstr ""
+"Ein transparentes Icon besagt, dass die Einstellung deaktiviert ist. Ein "
+"farbiges Icon wiederum besagt, dass die Einstellung aktiv ist. Klicke "
+"einfach auf ein bestimmtes Icon und aktiviere oder deaktiviere es so."
+
+#: admin/panels/fields.php:11
+msgid "This removes the field from a selected group"
+msgstr "Dies entfernt das Feld aus einer ausgewählten Gruppe."
+
+#: admin/panels/fields.php:12
+msgid "Click that icon to edit field label and help text or other misc options"
+msgstr ""
+"Klicke auf dieses Icon um die Feld Beschreibung zu bearbeiten sowie den "
+"Hilfe Text und andere sonstige Optionen"
+
+#: admin/panels/fields.php:13
+msgid "Make a field hideable from public by user"
+msgstr ""
+"Mache ein Feld unsichtbar für die Öffentlichkeit allein durch das Mitglied"
+
+#: admin/panels/fields.php:14
+msgid "Make a field hidden from public by default if field is hideable"
+msgstr ""
+"Mache ein Feld direkt unsichtbar für die Öffentlichkeit wenn dieses "
+"unsichtbar gemacht werden kann"
+
+#: admin/panels/fields.php:15
+msgid ""
+"Lock a field so that user cannot edit, but admins can still edit all fields"
+msgstr ""
+"Schließe ein Feld, damit Benutzer es nicht bearbeiten können, Admins aber "
+"dennoch"
+
+#: admin/panels/fields.php:16
+msgid ""
+"Make a field private so that users cannot view or edit it, but admins will "
+"be able to view it"
+msgstr ""
+"Mache ein Feld privat, damit Benutzer es nicht sehen oder bearbeiten können, "
+"Admins aber schon"
+
+#: admin/panels/fields.php:17
+msgid "Make a field required"
+msgstr "Mache ein Feld erforderlich."
+
+#: admin/panels/fields.php:18
+msgid "Allow HTML in a field. e.g. If the field is textarea"
+msgstr "Erlaube HTML in einem Feld. Z.B. wenn das Feld ein Textfeld ist."
+
+#: admin/panels/fields.php:29
+msgid "Groups & Fields"
+msgstr "Gruppen & Felder"
+
+#: admin/panels/fields.php:29
+msgid "Reset All Groups"
+msgstr "Setze alle Gruppen zurück"
+
+#: admin/panels/fields.php:54
+msgid "Drag & Drop your fields into Forms"
+msgstr "Ziehe Deine Felder in die Bereiche hinein oder aus ihnen heraus."
+
+#: admin/panels/fields.php:55
+msgid ""
+"Each field presents a bit of data or a meta key about the user. This allow "
+"you to drag any field to any form you want but be careful, not every field "
+"is suitable for any form. e.g. It makes no sense to add Country to your "
+"login shortcode."
+msgstr ""
+"Jedes Feld repräsentiert einen Teil der Informationen oder einen Meta-"
+"Schlüssel über das jeweilige Mitglied. Dies erlaubt Dir, jedes Feld in jeden "
+"Bereich hineinzuziehen aber sei achtsam, denn nicht jedes Feld passt in "
+"jeden Bereich. Z.B. macht es keinen Sinn, eine Ortsangabe zu Deinem Anmelde-"
+"Shortcode hinzuzufügen."
+
+#: admin/panels/fields.php:60
+msgid "Add New Field / Add or Sync Existing Data"
+msgstr ""
+"Füge ein neues Feld hinzu / Füge bereits bestehende Daten hinzu oder "
+"synchronisiere diese"
+
+#: admin/panels/fields.php:61
+msgid ""
+"You can add any field to your forms such as City, Address, or anything else "
+"by clicking on <strong>Add New Field</strong> The plugin will automatically "
+"sync/recognize any meta key stored in your user database, so you could "
+"display the value of any existing meta data."
+msgstr ""
+"Du kannst jedes erdenkliche Feld zu den Bereichen hinzufügen, wie z.B. "
+"Stadt, Adresse aber auch alles andere durch das Klicken auf <strong>Neues "
+"Feld hinzufügen</strong>. Das Plugin wird automatisch jeden Meta-Schlüssel "
+"bemerken/synchronisieren, der sich in Der Benutzer Datenbank befindet, "
+"weshalb Du auch die Werte aller existierenden Meta-Daten anzeigen lassen "
+"kannst."
+
+#: admin/panels/fields.php:62
+msgid "Add New Field"
+msgstr "Neues Feld hinzufügen"
+
+#: admin/panels/fields.php:71
+msgid "Field Title"
+msgstr "Feld Titel"
+
+#: admin/panels/fields.php:73
+msgid ""
+"Enter title for this data. example: City, How did you hear about us, "
+"Twitter, Personal Website, etc."
+msgstr ""
+"Gib einen Titel ein. Zum Beispiel: Stadt, wie bist Du auf uns aufmerksam "
+"geworden, Twitter, Eigene Webseite etc."
+
+#: admin/panels/fields.php:77
+msgid "Field Type"
+msgstr "Feld Typ"
+
+#: admin/panels/fields.php:79
+msgid ""
+"The type of field or how a user is going to enter this data (via text, "
+"selecting a choice from dropdown, etc)"
+msgstr ""
+"Der Feld-Typ oder auch wie ein Benutzer seine Daten eingibt (durch einen "
+"Text, durch die Auswahl eines Dropdowns, etc.)"
+
+#: admin/panels/fields.php:83
+msgid "Allowed file extensions"
+msgstr "Erlaubte Dokumenten Erweiterungen"
+
+#: admin/panels/fields.php:85
+msgid ""
+"A comma seperated list of allowed file types. If blank, default will be to "
+"zip, pdf, txt."
+msgstr ""
+"Eine durch Kommas getrennte Liste der erlaubten Dateien Typen. Falls leer "
+"fällt die Standard-Einstellung auf zip, pdf, txt."
+
+#: admin/panels/fields.php:89
+msgid "Builtin Choice List"
+msgstr "Eingebaute Auswahl Liste"
+
+#: admin/panels/fields.php:92
+msgid "Countries List"
+msgstr "Länder Liste"
+
+#: admin/panels/fields.php:93
+msgid "Roles"
+msgstr "Rollen"
+
+#: admin/panels/fields.php:94
+msgid "You can also enter choices for this field manually below."
+msgstr ""
+"Du kannst unten außerdem eine Auswahl für dieses Feld manuell eingeben."
+
+#: admin/panels/fields.php:98
+msgid "Manual Choices / Options"
+msgstr "Manuelle Auswahlen / Optionen"
+
+#: admin/panels/fields.php:100
+msgid "Please enter one choice per line!"
+msgstr "Bitte gib eine Auswahl pro Reihe ein."
+
+#: admin/panels/fields.php:106
+msgid ""
+"Help text will be displayed below field to guide users what to put in that "
+"field or show any relevant info."
+msgstr ""
+"Der Hilfe Text wird unter den Feldern angezeigt, damit die Benutzer wissen, "
+"was sie dort eingeben müssen oder um zusätzliche Informationen zu erhalten."
+
+#: admin/panels/fields.php:110
+msgid "Custom Placeholder"
+msgstr "Spezifischer Platzhalter"
+
+#: admin/panels/fields.php:116
+msgid "Setting up the user meta key"
+msgstr "Stelle den Benutzer-Meta-Schlüssel ein"
+
+#: admin/panels/fields.php:119
+msgid "Unique Field Key"
+msgstr "Einzigartiger Feld Schlüssel"
+
+#: admin/panels/fields.php:121
+msgid ""
+"Your field key must be unique for each field. It must be letters only with "
+"only underscore allowd between them."
+msgstr ""
+"Dein Feld Schlüssel muss für jedes einzelne Feld einzigartig sein. Dieser "
+"darf nur aus Buchstaben und wenn überhaupt nur mit Unterstrichen dazwischen "
+"bestehen."
+
+#: admin/panels/fields.php:124
+msgid "Or select/sync an existing meta field key"
+msgstr ""
+"Oder wähle aus / synchronisiere einen bereits bestehenden Meta-Feld-Schlüssel"
+
+#: admin/panels/fields.php:126
+msgid ""
+"You can sync or use user meta from any other plugin directly and integrate "
+"it with UserPro. Unique key is not needed If you sync with existing field."
+msgstr ""
+"Du kannst Benutzer-Meta von jedem anderen Plugin direkt mit UserPro "
+"synchronisieren und benutzen. Ein einzigartiger Schlüssel wird nicht "
+"benötigt, falls Du mit bereits existierenden Feldern synchronisierst."
+
+#: admin/panels/fields.php:131 functions/shortcode-main.php:160
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: admin/panels/fields.php:132
+msgid "Cancel"
+msgstr "Entfernen"
+
+#: admin/panels/fields.php:145
+msgid "Restore Default Fields"
+msgstr "Stelle die ursprünglichen Felder wieder her"
+
+#: admin/panels/mail.php:3
+msgid "Outgoing Mail Settings"
+msgstr "Einstellung der ausgehenden E-Mails"
+
+#: admin/panels/mail.php:7
+msgid "The name that appears on mails sent by UserPro"
+msgstr ""
+"Der Name, der in den E-Mails erscheint, die von UserPro gesendet werden"
+
+#: admin/panels/mail.php:12
+msgid "The address that appears on mails sent by UserPro"
+msgstr ""
+"Die Adresse, die in den E-Mails erscheint, die von UserPro gesendet werden"
+
+#: admin/panels/mail.php:18
+msgid "Email Notifications"
+msgstr "E-Mail Benachrichtigung"
+
+#: admin/panels/mail.php:22
+msgid "Send admin an e-mail when user updates profile"
+msgstr "Sende den Admin eine E-Mail, wenn ein Benutzer ein Profil erneuert"
+
+#: admin/panels/mail.php:32
+msgid "Send admin an e-mail when profile gets removed"
+msgstr "Sende den Admin eine E-Mail, wenn ein Benutzer ein Profil löscht"
+
+#: admin/panels/mail.php:43
+msgid "Variables you can use to build your mail templates"
+msgstr "Variablen die Du nutzen kannst, um Deine E-Mail Vorlagen zu erstellen"
+
+#: admin/panels/mail.php:44
+msgid ""
+"The variables in {CURLY BRACKETS} are used to present data and info in "
+"email. You can use them to customize your email template."
+msgstr ""
+"Die Variablen in {Geschwungenen Klammern} werden dafür genutzt, um bestimmte "
+"Daten oder Informationen in E-Mails darzustellen. Du kannst sie nutzen und "
+"damit Deine Muster E-Mails anpassen."
+
+#: admin/panels/mail.php:46
+msgid "Customize the New Registration e-mail sent to Admin"
+msgstr "Passe die Neue Registrierung E-Mail an, die an den Admin gesendet wird"
+
+#: admin/panels/mail.php:50 admin/panels/mail.php:60 admin/panels/mail.php:70
+#: admin/panels/mail.php:80 admin/panels/mail.php:90
+msgid "Email Content"
+msgstr "E-Mail Inhalt"
+
+#: admin/panels/mail.php:56
+msgid "Customize \"Email Validation\" Mail"
+msgstr "Anpassung der  \"E-Mail Validierungs\" E-Mail"
+
+#: admin/panels/mail.php:66
+msgid "Customize \"New Account/Welcome\" Mail"
+msgstr "Anpassung der  \"Neues Benutzerkonto / Willkommens\" E-Mail"
+
+#: admin/panels/mail.php:76
+msgid "Customize \"Reset Password\" Mail"
+msgstr "Anpassung der  \"Passwort zurücksetzen\" E-Mail"
+
+#: admin/panels/mail.php:86
+msgid "Customize \"Account Removal\" Mail"
+msgstr "Anpassung der  \"Benutzerkonto löschen\" E-Mail"
+
+#: admin/panels/pages.php:3
+msgid ""
+"You must update your permalinks or Save Changes on your permalinks setup for "
+"the nice URLs to work fine."
+msgstr ""
+"Du musst Deine Permalink-Struktur erneuern oder die Einstellungen Deiner "
+"Permalinks speichern, damit die URLs auch richtig funktionieren."
+
+#: admin/panels/pages.php:5
+msgid "Manage Page Slugs"
+msgstr "Link-Name festlegen"
+
+#: admin/panels/pages.php:6
+msgid ""
+"For a better multi-language experience, UserPro allow you to edit the slugs "
+"of the official registration/profile pages here. You must rebuild pages If "
+"you changed your slugs for the new slugs to take effect."
+msgstr ""
+"Für eine bessere Multi-Sprachen Erfahrung erlaubt Dir UserPro, die Link-"
+"Bezeichnungen der Registrierung- und Profil Seiten direkt hier zu "
+"bearbeiten. Du musst jedoch Deine Seiten erneuern, wenn Du diese "
+"Bezeichnungen auch wirksam ändern willst. (Button unten)"
+
+#: admin/panels/pages.php:10
+msgid "\"Profile\" Slug"
+msgstr "\"Profil\" Link-Name"
+
+#: admin/panels/pages.php:15
+msgid "\"Register\" Slug"
+msgstr "\"Registrierung\" Link-Name"
+
+#: admin/panels/pages.php:20
+msgid "\"Edit Profile\" Slug"
+msgstr "\"Profil bearbeiten\" Link-Name"
+
+#: admin/panels/pages.php:25
+msgid "\"Login\" Slug"
+msgstr "\"Anmelde\" Slug"
+
+#: admin/panels/pages.php:30
+msgid "\"Member Directory\" Slug"
+msgstr "\"Mitglieder Verzeichnis\" Link-Name"
+
+#: admin/panels/pages.php:35
+msgid "\"Logout\" Slug"
+msgstr "\"Abmelden\" Link-Name"
+
+#: admin/panels/pages.php:46
+msgid "Check / Rebuild Profile Pages"
+msgstr "Profil Seite checken / erneuern"
+
+#: admin/panels/pages.php:47
+msgid ""
+"By default, UserPro creates profile pages and front-end registration/login "
+"pages automatically. However if for some reason, these pages were removed or "
+"deleted you can rebuild them here."
+msgstr ""
+"Normalerweise erstellt UserPro Profil-Seiten und Frontend Registrierungs / "
+"Anmelde Seiten automatisch. Doch falls diese aus welchem Grund auch immer "
+"gelöscht oder verschoben wurden, kannst Du sie direkt hier erneuern."
+
+#: admin/panels/pages.php:51
+msgid "Profile Page"
+msgstr "Profil Seite"
+
+#: admin/panels/pages.php:64
+msgid "Registration Page"
+msgstr "Registrierungs Seite"
+
+#: admin/panels/pages.php:77
+msgid "Edit Profile Page"
+msgstr "Profil bearbeiten Seite"
+
+#: admin/panels/pages.php:90
+msgid "Login Page"
+msgstr "Anmelde Seite"
+
+#: admin/panels/pages.php:103
+msgid "Member Directory Page"
+msgstr "Mitglieder Verzeichnis Seite"
+
+#: admin/panels/pages.php:116
+msgid "Logout Page"
+msgstr "Abmelde Seite"
+
+#: admin/panels/pages.php:131
+msgid "Rebuild UserPro Pages"
+msgstr "Neuerschaffung aller UserPro Seiten"
+
+#: admin/panels/restrict.php:3
+msgid ""
+"Mass restrict pages by allowing access to members only for full-content. "
+"Unlike the UserPro shortcode which hides the content you specify only. This "
+"will lock all content page until the user is logged in. You can also bulk "
+"block/allow any pages you want."
+msgstr ""
+"Beschränke die Seiten, indem Du es nur Benutzern erlaubst, diese bzw. deren "
+"vollen Inhalt zu erreichen. Nicht so wie bei den UserPro Shortcodes, die nur "
+"einen bestimmten Bereich einer Seite, den Du auswählst, verstecken. Dies "
+"hier wird eine komplette Seite verschließen, bis sich ein Nutzer anmeldet um "
+"diese zu sehen. Hier kannst Du jede einzelne Seite zeigen oder verschließen."
+
+#: admin/panels/restrict.php:8
+msgid "Make Restricted Pages accessible to"
+msgstr "Mache eingeschränkte Seiten erreichbar für"
+
+#: admin/panels/restrict.php:11
+msgid "Only Verified Members"
+msgstr "Nut verifizierte Mitglieder"
+
+#: admin/panels/restrict.php:12
+msgid "All Registered Members"
+msgstr "Alle registrierten Mitglieder"
+
+#: admin/panels/restrict.php:18
+msgid "Choose one or more pages to restrict"
+msgstr "Wähle eine oder mehrere Seiten, um diese einzuschränken"
+
+#: admin/panels/settings.php:3
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/panels/settings.php:7
+msgid "Membership"
+msgstr "Mitgliedschaft"
+
+#: admin/panels/settings.php:10
+msgid "Anyone can register"
+msgstr "Jeder kann sich registrieren"
+
+#: admin/panels/settings.php:11
+msgid "Disable registration"
+msgstr "Registrierung deaktivieren"
+
+#: admin/panels/settings.php:17
+msgid "New User Approval"
+msgstr "Neue Mitgliedsannahme"
+
+#: admin/panels/settings.php:20
+msgid "Auto Approve"
+msgstr "Automatische Annahme"
+
+#: admin/panels/settings.php:21
+msgid "Require E-mail Activation"
+msgstr "Voraussetzung einer E-Mail-Aktivierung"
+
+#: admin/panels/settings.php:27
+msgid "Profile Permalink Structure"
+msgstr "Profil Permalink Struktur"
+
+#: admin/panels/settings.php:30
+msgid "User ID"
+msgstr "Benutzer ID"
+
+#: admin/panels/settings.php:31
+msgid "Username"
+msgstr "Benutzername"
+
+#: admin/panels/settings.php:32
+msgid "Full Name"
+msgstr "Gesamter Name"
+
+#: admin/panels/settings.php:34
+msgid ""
+"User profiles permalink structure setting e.g. /profile/34 or /profile/"
+"Username or /profile/FirstName+LastName If you have a problem with permalink "
+"structure, you can try to change this setting."
+msgstr ""
+"Benutzerprofile Permalink Struktur Einstellung, z.B.  /profil/34 oder /"
+"profil/Benutzername oder /profil/ErsterName+LetzterName - Falls es Probleme "
+"mit der Permalink-Struktur gibt, kannst Du versuchen, diese Einstellung "
+"wirksam zu verändern."
+
+#: admin/panels/settings.php:39
+msgid "External Profile Pictures"
+msgstr "Externe Profil Bilder"
+
+#: admin/panels/settings.php:42
+msgid "Save the picture internally"
+msgstr "Speichere das Bild intern"
+
+#: admin/panels/settings.php:43
+msgid "Use External Image"
+msgstr "Benutze ein externes Bild"
+
+#: admin/panels/settings.php:45
+msgid ""
+"If your host experience some problems when saving an external picture, try "
+"to use the external method."
+msgstr ""
+"Falls wegen Deines Anbieters Probleme beim Speichern von externen Bildern "
+"auftreten, versuche die Extern-Methode zu verwenden."
+
+#: admin/panels/settings.php:50
+msgid "Fields to hide completely from profile view"
+msgstr "Felder, die in der Profilansicht komplett verborgen bleiben sollen"
+
+#: admin/panels/settings.php:53
+msgid ""
+"A comma seperated list of custom fields to hide from profile view anyway."
+msgstr ""
+"Eine durch Kommas getrennte Liste von eigens angefertigten Feldern, die in "
+"der Profil Ansicht komplett verborgen bleiben sollen."
+
+#: admin/panels/settings.php:59
+msgid "Appearance and Look"
+msgstr "Erscheinung und Aussehen"
+
+#: admin/panels/settings.php:63
+msgid "Plugin Default Width"
+msgstr "Plugin standard Weite"
+
+#: admin/panels/settings.php:66
+msgid ""
+"A pixel or % width. If you want to make the plugin default width take 100% "
+"of its parent, just change this setting to 100% (It will take as much space "
+"as possible from the parent element). This option can be customized also via "
+"shortcode option <code>max_width</code>."
+msgstr ""
+"In Pixel oder % Weite. Soll eine allgemeine Weite von 100% gelten, dann "
+"stell diese Einstellung einfach auf 100% (dies wird so viel Platz wie nur "
+"möglich von dem umgebenen Container einnehmen). Diese Option kann aber auch "
+"via Shortcode Option <code>max_width</code> eingestellt werden."
+
+#: admin/panels/settings.php:71
+msgid "Default Skin"
+msgstr "Standard"
+
+#: admin/panels/settings.php:83
+msgid "Fields Layout"
+msgstr "Felder Layout"
+
+#: admin/panels/settings.php:86
+msgid "Float (field label on same line)"
+msgstr "Float (Feld Beschreibung auf gleicher Linie)"
+
+#: admin/panels/settings.php:87
+msgid "Block (field label on seperate line)"
+msgstr "Block (Feld Beschreibung auf seperater Linie)"
+
+#: admin/panels/settings.php:94
+msgid "Profile Settings"
+msgstr "Profil-Einstellungen"
+
+#: admin/panels/settings.php:98
+msgid "Allow guests to view other profiles"
+msgstr "Erlaube Gästen, Profile anderer Mitglieder einsehen zu können"
+
+#: admin/panels/settings.php:108
+msgid "Allow members to view other member profiles"
+msgstr "Erlaube Mitgliedern, Profile anderer Mitglieder einsehen zu können"
+
+#: admin/panels/settings.php:118
+msgid "Allow users to request verified status"
+msgstr ""
+"Erlaube Mitgliedern, eine Verifizierung ihres Benutzerkontos zu beantragen"
+
+#: admin/panels/settings.php:128
+msgid "Allow users to delete their profiles"
+msgstr "Erlaube Benutzern, ihr Konto zu löschen"
+
+#: admin/panels/settings.php:138
+msgid "Use default gravatars until users upload a custom avatar for this site"
+msgstr ""
+"Benutzer Gravatar-Bilder, solange der Benutzer noch kein eigenes Profilbild "
+"hochgeladen hat"
+
+#: admin/panels/settings.php:148
+msgid "Allow admins to set custom notice on user accounts"
+msgstr "Erlaube Admins, Benuterkonten persönliche Notizen zu verpassen."
+
+#: admin/panels/settings.php:154
+msgid ""
+"e.g. Set a custom warning to any user profile for example: This account is "
+"for test purposes only, etc."
+msgstr ""
+"Z.B. erstelle eine bestimmte Warnung für alle anderen Mitglieder: Dieses "
+"Benutzerkonto ist nur für Testzwecke erschaffen worden."
+
+#: admin/panels/settings.php:159
+msgid "Show custom user notice to the logged-in user"
+msgstr "Zeige eine eigens gewählte Nutzer-Nachricht für angemeldete Mitglieder"
+
+#: admin/panels/settings.php:169
+msgid "Show custom user notice to the public"
+msgstr "Zeige eine eigens gewählte Nachricht für die Öffentlichkeit"
+
+#: admin/panels/settings.php:180
+msgid "Redirection Settings (Hiding Dashboard)"
+msgstr "Weiterleitungs-Einstellungen (Verstecke Dashobard)"
+
+#: admin/panels/settings.php:181
+msgid ""
+"These settings help you hide the backend from normal users. You can control "
+"backend redirection precisely, these settings will not affect administrators."
+msgstr ""
+"Diese Einstellungen helfen Dir dabei, das Backend von normalen Benutzern "
+"(Nicht-Admins) zu verbergen. So kannst Du die Backend Weiterleitung präzise "
+"kontrollieren, ohne dass die Einstellungen auf Admin-Konten übergreifen."
+
+#: admin/panels/settings.php:185
+msgid "Redirect backend to front-end"
+msgstr "Backend weiterleiten zum Frontend"
+
+#: admin/panels/settings.php:188
+msgid "Redirect to front-end profile view"
+msgstr "Weiterleiten zur Frontend Profil Ansicht"
+
+#: admin/panels/settings.php:189 admin/panels/settings.php:202
+#: admin/panels/settings.php:214 admin/panels/settings.php:226
+msgid "Redirect to custom URL"
+msgstr "Weiterleiten zu einer bestimmten URL"
+
+#: admin/panels/settings.php:190 admin/panels/settings.php:203
+#: admin/panels/settings.php:215 admin/panels/settings.php:227
+msgid "Do not redirect"
+msgstr "Nicht weiterleiten"
+
+#: admin/panels/settings.php:192
+msgid "If you choose cutom URL for this redirect"
+msgstr "Falls Du eine bestimmte URL für die Weiterleitung wählst"
+
+#: admin/panels/settings.php:193
+msgid ""
+"You can redirect users to the built-in front-end pages by the plugin to hide "
+"backend access from them."
+msgstr ""
+"Du kannst Benutzer zu in das Plugin eingebaute Frontend Seiten weiterleiten, "
+"um das Backend vollständig vor ihnen zu verbergen."
+
+#: admin/panels/settings.php:198
+msgid "Redirect backend profile to front-end"
+msgstr "Leite Backend Profil weiter zum Frontend Profil"
+
+#: admin/panels/settings.php:201
+msgid "Redirect to front-end profile edit"
+msgstr "Leite weiter zur Frontend Profil-Bearbeitung"
+
+#: admin/panels/settings.php:205 admin/panels/settings.php:217
+#: admin/panels/settings.php:229
+msgid "If you choose custom URL for this redirect"
+msgstr "Falls Du eine bestimmte URL für die Weiterleitung wählst"
+
+#: admin/panels/settings.php:210
+msgid "Redirect backend registration to front-end"
+msgstr ""
+"Leite Backend-Registrierung weiter zum Registrierungsformular im Frontend"
+
+#: admin/panels/settings.php:213
+msgid "Redirect to front-end registration"
+msgstr "Leite weiter zum Registrierungsformular im Frontend"
+
+#: admin/panels/settings.php:222
+msgid "Redirect backend login to front-end"
+msgstr "Leite Backend-Anmeldung weiter zum Anmeldungsformular im Frontend"
+
+#: admin/panels/settings.php:225
+msgid "Redirect to front-end login"
+msgstr "Leite weiter zum Anmeldungsformular im Frontend"
+
+#: admin/panels/settings.php:235
+msgid "Login Settings"
+msgstr "Anmelde Einstellungen"
+
+#: admin/panels/settings.php:239 admin/panels/settings.php:275
+msgid "Show logout If user is logged in already"
+msgstr "Zeige Abmelden, falls ein Mitglied bereits angemeldet ist"
+
+#: admin/panels/settings.php:249
+msgid "After a successful login"
+msgstr "Nach einer erfolgreichen Anmeldung"
+
+#: admin/panels/settings.php:252 admin/panels/settings.php:298
+msgid "Refresh page only"
+msgstr "Aktualisiere diese Seite nur"
+
+#: admin/panels/settings.php:253 admin/panels/settings.php:299
+msgid "Redirect user to front-end profile"
+msgstr "Leite das Mitglied zu seinem Profil weiter"
+
+#: admin/panels/settings.php:255
+msgid ""
+"You can also redirect users to custom URL by passing <code>login_redirect</"
+"code> valid URL in your shortcode."
+msgstr ""
+"Du kannst Mitglieder außerdem zu einer eigens gewählten URL weiterleiten, "
+"indem Du in <code>register_redirect</code> eine zulässige URL in Deinem "
+"Shortcode einfügst."
+
+#: admin/panels/settings.php:260
+msgid "Redirect admins to dashboard always"
+msgstr "Leite Admins immer zum Dashboard weiter"
+
+#: admin/panels/settings.php:271
+msgid "Registration Settings"
+msgstr "Registrierungs-Einstellungen"
+
+#: admin/panels/settings.php:285
+msgid "Auto-Login users after registration"
+msgstr "Automatische Anmeldung der Mitglieder nach der Registrierung"
+
+#: admin/panels/settings.php:295
+msgid "After a successful registration"
+msgstr "Nach einer erfolgreichen Registrierung"
+
+#: admin/panels/settings.php:301
+msgid ""
+"You can also redirect users to custom URL by passing "
+"<code>register_redirect</code> valid URL in your shortcode."
+msgstr ""
+"Du kannst Mitglieder außerdem zu einer eigens gewählten URL weiterleiten, "
+"indem Du in <code>register_redirect</code> eine zulässige URL in Deinem "
+"Shortcode einfügst."
+
+#: admin/panels/settings.php:306
+msgid "Default Role for New Users"
+msgstr "Standard Rolle für neue Mitglieder"
+
+#: admin/panels/settings.php:308 admin/panels/settings.php:309
+msgid "No Role"
+msgstr "Keine Rolle"
+
+#: admin/panels/settings.php:318
+msgid ""
+"New users will be assigned to this role automatically If you do not allow "
+"them to choose role."
+msgstr ""
+"Neue Mitglieder werden der folgenden Rolle automatisch zugeteilt, wenn Du "
+"ihnen nicht erlaubst, ihre Rolle selbst zu wählen."
+
+#: admin/panels/settings.php:323
+msgid "Allowed Roles during Registration"
+msgstr "Erlaubte Rollen während der Registrierung"
+
+#: admin/panels/settings.php:325
+msgid "Select roles"
+msgstr "Wähle Rollen"
+
+#: admin/panels/settings.php:334
+msgid ""
+"If you enable users to select their role, this option can limit allowed "
+"roles for user."
+msgstr ""
+"Falls Du Mitgliedern erlaubst, ihre Rolle frei zu wählen, kann diese Option "
+"die möglichen Rollen festlegen."
+
+#: admin/panels/settings.php:340
+msgid "Logout Page Settings"
+msgstr "Abmelde-Seite Einstellungen"
+
+#: admin/panels/settings.php:344
+msgid "After User Logout"
+msgstr "Nach der Benutzerabmeldung"
+
+#: admin/panels/settings.php:347
+msgid "Redirect to Homepage"
+msgstr "Zur Startseite weiterleiten"
+
+#: admin/panels/settings.php:348
+msgid "Redirect to Login Page"
+msgstr "Zur Anmeldeseite weiterleiten"
+
+#: admin/panels/settings.php:349
+msgid "Redirect to Custom Page (enter below)"
+msgstr "Zu einer bestimmten Seite weiterleiten (unten eingeben)"
+
+#: admin/panels/settings.php:355
+msgid "Custom Logout Redirect"
+msgstr "Eigene Abmelde-Weiterleitung"
+
+#: admin/panels/settings.php:363
+msgid "Password Settings"
+msgstr "Passwort Einstellungen"
+
+#: admin/panels/settings.php:367
+msgid "Allow password to be reset for Admin Accounts"
+msgstr "Erlaube das Zurücksetzen der Admin-Benutzerkonto-Passwörter"
+
+#: admin/panels/settings.php:378
+msgid "Facebook Integration"
+msgstr "Facebook Integration"
+
+#: admin/panels/settings.php:382
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: admin/panels/settings.php:385
+msgid ""
+"Open <a href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a> create a new app and edit its settings to make it work "
+"on your domain. In App Settings, please paste the App ID or API Key into "
+"this field."
+msgstr ""
+"Öffne <a href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a> und erstelle sowie passe eine neue App an. Die in den "
+"App-Einstellungen zu findene App ID oder den API Schlüssel dann bitte hier "
+"in das Feld einfügen."
+
+#: admin/panels/settings.php:390
+msgid "Allow Facebook Social Connect"
+msgstr "Erlaube die Facebook-Soziale-Verbindung"
+
+#: admin/panels/settings.php:401
+msgid "reCAPTCHA Settings"
+msgstr "reCAPTCHA Einstellungen"
+
+#: admin/panels/settings.php:405
+msgid "reCAPTCHA Public API Key"
+msgstr "Öffentlicher reCAPTCHA API Schlüssel"
+
+#: admin/panels/settings.php:408 admin/panels/settings.php:416
+msgid ""
+"You can obtain reCAPTCHA API keys from <a href=\"http://www.google.com/"
+"recaptcha\">http://www.google.com/recaptcha</a> they are required to "
+"activate reCAPTCHA verification on your forms."
+msgstr ""
+"Du kannst die reCAPTCHA API Schlüssel auf <a href=\"http://www.google.com/"
+"recaptcha\">http://www.google.com/recaptcha</a> beziehen. Diese werden für "
+"die Aktivierung von reCAPTCHA benötigt!"
+
+#: admin/panels/settings.php:413
+msgid "reCAPTCHA Private API Key"
+msgstr "Privater reCAPTCHA API Schlüssel"
+
+#: admin/panels/settings.php:421
+msgid "Enable reCAPTCHA on login by default"
+msgstr "Aktiviere reCAPTCHA bei der Anmeldung"
+
+#: admin/panels/settings.php:431
+msgid "Enable reCAPTCHA on registration by default"
+msgstr "Aktiviere reCAPTCHA bei der Registrierung"
+
+#: functions/ajax.php:40
+msgid "You must enter a post title."
+msgstr "Du musst einen Beitrags-Titel eingeben."
+
+#: functions/ajax.php:44
+msgid "You must enter some content."
+msgstr "Du musst einen Inhalt eingeben."
+
+#: functions/ajax.php:65
+#, php-format
+msgid "Your post has been published. You can view it %s."
+msgstr "Dein Beitrag wurde veröffentlicht. Dieser kann betrachtet werden %s."
+
+#: functions/ajax.php:72
+msgid "Your post has been sent for review. It will be checked by our staff."
+msgstr ""
+"Dein Beitrag wurde zur Überprüfung eingereicht. Dieser wird umgehend geprüft "
+"und freigeschaltet."
+
+#: functions/ajax.php:107
+msgid "Nothing was deleted. You must choose yes to confirm deletion."
+msgstr ""
+"Noch wurde nichts gelöscht. Du musst Ja auswählen um den Löschvorgang zu "
+"bestätigen."
+
+#: functions/ajax.php:109
+msgid "For security reasons, admin accounts cannot be deleted."
+msgstr ""
+"Aus Sicherheitsgründen können Admin-Benutzerkonten nicht gelöscht werden."
+
+#: functions/ajax.php:111
+msgid "You cannot remove test accounts from frontend!"
+msgstr "Du kannst keinen Test-Benutzer entfernen."
+
+#: functions/ajax.php:117
+msgid "This account has been deleted successfully."
+msgstr "Dieses Benutzerkonto wurde erfolgreich gelöscht."
+
+#: functions/ajax.php:129
+msgid "You did not provide a secret key."
+msgstr "Du hast keinen Sicherheits-Schlüssel angegeben."
+
+#: functions/ajax.php:131 functions/ajax.php:426
+msgid "The secret key you entered is invalid."
+msgstr "Der eingegebene Sicherheits-Schlüssel ist unzulässig."
+
+#: functions/ajax.php:139 functions/ajax.php:434
+msgid "The secret key is invalid or expired."
+msgstr "Dieser Sicherheits-Schlüssel ist unzulässig oder abgelaufen."
+
+#: functions/ajax.php:159 functions/ajax.php:196
+msgid "You should provide your email or username."
+msgstr "Du musst Deine E-Mail oder Deinen Benutzernamen angeben."
+
+#: functions/ajax.php:168
+msgid "There is not such user in our system."
+msgstr "Solch ein Benutzer exisitiert nicht in unserem System."
+
+#: functions/ajax.php:170
+msgid "Resetting admin password is not permitted!"
+msgstr "Das Zurücksetzen des Admin-Passworts ist nicht erlaubt."
+
+#: functions/ajax.php:199
+msgid "You should provide your password."
+msgstr "Du musst Dein Passwort angeben."
+
+#: functions/ajax.php:215 functions/ajax.php:314
+msgid "The reCAPTCHA wasn't entered correctly. Please try again."
+msgstr ""
+"Das angegebene reCAPTCHA ist nicht korrekt. Bitte versuche es noch einmal."
+
+#: functions/ajax.php:228
+msgid "Invalid email or username entered"
+msgstr "Unzulässige E-Mail oder Benutername angegeben"
+
+#: functions/ajax.php:230
+msgid "The password you entered is incorrect"
+msgstr "Das eingegebene Passwort ist falsch."
+
+#: functions/ajax.php:237 functions/msg-functions.php:12
+msgid "Your email is pending verification. Please activate your account."
+msgstr ""
+"Deine E-Mail erwartet ihre Verifizierung. Bitte aktiviere Dein Benutzerkonto."
+
+#: functions/ajax.php:412
+msgid "Username already taken."
+msgstr "Benutzername bereits vergeben."
+
+#: functions/ajax.php:414
+msgid "Dashes not allowed in username."
+msgstr "Querstriche sind nicht erlaubt im Benutzernamen."
+
+#: functions/ajax.php:419
+msgid "Please enter a valid email."
+msgstr "Bitte gib eine gültige E-Mail an."
+
+#: functions/ajax.php:421
+msgid ""
+"Email is taken. Is that you? Try to <a href=\"#\" data-template=\"login"
+"\">login</a>"
+msgstr ""
+"E-Mail bereits vergeben. Ist dies Deine? Dann versuche doch Dich <a href=\"#"
+"\" data-template=\"login\">anzumelden</a>"
+
+#: functions/ajax.php:477
+msgid "No custom notice is set for this account."
+msgstr "Für dieses Benutzerkonto wurde keine persönliche Notiz hinugefügt."
+
+#: functions/api.php:194
+msgid "Found <span>1</span> Member"
+msgstr "<span>1</span> Mitglied gefunden"
+
+#: functions/api.php:196
+#, php-format
+msgid "Found <span>%s</span> Members"
+msgstr "<span>%s</span> Mitglieder gefunden"
+
+#: functions/api.php:737
+msgid "No available information"
+msgstr "Keine Information verfügbar"
+
+#: functions/badge-functions.php:38 functions/badge-functions.php:65
+msgid "Verified Account"
+msgstr "Verifiziertes Mitglied"
+
+#: functions/badge-functions.php:41
+msgid "Facebook Linked"
+msgstr "Facebook verlinkt"
+
+#: functions/badge-functions.php:65
+msgid "Click to unverify"
+msgstr "Klicke zur Unverifizierung"
+
+#: functions/badge-functions.php:68
+msgid "Unverified Account"
+msgstr "Unverifiziertes Mitglied"
+
+#: functions/badge-functions.php:68
+msgid "Click to verify"
+msgstr "Klicke zur Verifizierung"
+
+#: functions/custom-alerts.php:23 functions/custom-alerts.php:32
+msgid "Set custom note..."
+msgstr "Eine persönliche Notiz hinzufügen ..."
+
+#: functions/defaults.php:48 functions/defaults.php:55
+#: functions/defaults.php:62 functions/defaults.php:72
+#: functions/defaults.php:77 functions/defaults.php:83
+#: functions/defaults.php:87
+msgid "Hi there,"
+msgstr "Hallo,"
+
+#: functions/defaults.php:49
+msgid "You or someone else has requested to change password for this account."
+msgstr ""
+"Du oder jemand anderes hat angefragt, das Passwort dieses Benutzerkontos zu "
+"ändern."
+
+#: functions/defaults.php:50
+msgid ""
+"The following key was generated to you to be able to change your passsword. "
+"Login to our site and attempt to Change your Password and use that key to "
+"change your password successfully."
+msgstr ""
+"Der folgende Schlüssel wurde für Dich generiert, damit Du Dein Passwort "
+"erfolgreich erneuern kannst. Melde Dich einfach auf der Seite an und ändere "
+"damit Dein Passwort."
+
+#: functions/defaults.php:51
+msgid "Secret Key: {VAR1}"
+msgstr "Sicherheits-Schlüssel: {VAR1}"
+
+#: functions/defaults.php:52 functions/defaults.php:59
+#: functions/defaults.php:69
+msgid "If you have any problems, please contact us at {USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Falls irgendwelche Probleme auftreten sollten, so kontaktiere uns bitte "
+"unter {USERPRO_ADMIN_EMAIL}."
+
+#: functions/defaults.php:53 functions/defaults.php:60
+#: functions/defaults.php:70 functions/defaults.php:75
+msgid "Best Regards!"
+msgstr "Beste Grüße!"
+
+#: functions/defaults.php:56
+msgid ""
+"Thanks for signing up at {USERPRO_BLOGNAME}. You must confirm/validate your "
+"account before logging in."
+msgstr ""
+"Vielen Dank für die Registrierung auf {USERPRO_BLOGNAME}. Du musst nur noch "
+"Dein Benutzerkonto bestätigen/validieren, bevor Du Dich anmelden kannst."
+
+#: functions/defaults.php:57
+msgid ""
+"Please click on the following link to successfully activate your account:"
+msgstr ""
+"Bitte klicke auf den folgenden Link für eine erfolgreiche Aktivierung Deines "
+"Benutzerkontos:"
+
+#: functions/defaults.php:63
+msgid "Thanks for registering. Your account is now active."
+msgstr "Vielen Dank für's Registrieren. Dein Benutzerkonto ist nun aktiviert."
+
+#: functions/defaults.php:64
+msgid "To login please visit the following URL:"
+msgstr "Um Dich anzumelden besuche bitte folgende URL:"
+
+#: functions/defaults.php:66
+msgid "Your account e-mail: {USERPRO_EMAIL}"
+msgstr "Deine Benutzerkonto E-Mail: {USERPRO_EMAIL}"
+
+#: functions/defaults.php:67
+msgid "Your account username: {USERPRO_USERNAME}"
+msgstr "Dein Benutzerkonto Benutzername: {USERPRO_USERNAME}"
+
+#: functions/defaults.php:68
+msgid "Your account password: {VAR1}"
+msgstr "Dein Benutzerkonto Passwort: {VAR1}"
+
+#: functions/defaults.php:73
+msgid "Your account has been deleted from {USERPRO_BLOGNAME}."
+msgstr "Dein Benutzerkonto auf {USERPRO_BLOGNAME} wurde gelöscht."
+
+#: functions/defaults.php:74
+msgid ""
+"If you have any further questions, please contact us at "
+"{USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Falls Du weitere Fragen haben solltest, so kontaktiere uns bitte unter "
+"{USERPRO_ADMIN_EMAIL}."
+
+#: functions/defaults.php:78
+msgid ""
+"{USERPRO_USERNAME} has just created a new account at {USERPRO_BLOGNAME}."
+msgstr ""
+"{USERPRO_USERNAME} hat soeben ein neues Benutzerkonto auf {USERPRO_BLOGNAME} "
+"erstellt."
+
+#: functions/defaults.php:79
+msgid "You can check his profile via the following link:"
+msgstr "Du kannst das Profil über folgenden Link einsehen:"
+
+#: functions/defaults.php:81 functions/defaults.php:85
+#: functions/defaults.php:91
+msgid ""
+"This is an automated notification that was sent to you by UserPro. No "
+"further action is needed."
+msgstr ""
+"Dies ist eine automatische Benachrichtigung, die durch UserPro an Dich "
+"gesendet wurde. Eine weitere Aktion wird nicht benötigt."
+
+#: functions/defaults.php:84
+msgid ""
+"{USERPRO_USERNAME}'s profile has been just deleted from {USERPRO_BLOGNAME}."
+msgstr ""
+"Das Profil von {USERPRO_USERNAME} auf {USERPRO_BLOGNAME} wurde soeben "
+"gelöscht."
+
+#: functions/defaults.php:88
+msgid ""
+"{USERPRO_USERNAME} has just updated their profile at {USERPRO_BLOGNAME}."
+msgstr ""
+"{USERPRO_USERNAME} hat soeben das Profil auf {USERPRO_BLOGNAME} erneuert."
+
+#: functions/defaults.php:89
+msgid "To view his/her profile:"
+msgstr "Um sein/ihr Profil zu betrachten:"
+
+#: functions/defaults.php:167
+msgid "&mdash; Select account role &mdash;"
+msgstr "&mdash; Wähle Benutzer-Rolle &mdash;"
+
+#: functions/fields-functions.php:302 functions/fields-functions.php:310
+msgid "No file has been uploaded."
+msgstr "Es wurde kein Dokument hochgeladen."
+
+#: functions/fields-functions.php:373
+msgid "Upload photo"
+msgstr "Foto hochladen"
+
+#: functions/fields-functions.php:374 functions/fields-functions.php:377
+#: functions/fields-functions.php:384 functions/fields-functions.php:387
+msgid "Remove"
+msgstr "Entfernen"
+
+#: functions/fields-functions.php:383
+msgid "Upload file"
+msgstr "Dokument hochladen"
+
+#: functions/fields-functions.php:402 functions/fields-functions.php:421
+#: functions/fields-functions.php:475
+msgid "Make this field hidden from public"
+msgstr "Mache dieses Feld unsichtbar für die Öffentlichkeit"
+
+#: functions/fields-functions.php:431
+msgid "Password Strength"
+msgstr "Passwort Stärke"
+
+#: functions/fields-functions.php:671
+#, php-format
+msgid "(Your %s will not be visible to public)"
+msgstr "(Dein %s wird für die Öffentlichkeit nicht sichtbar sein)"
+
+#: functions/fields-setup.php:129 functions/fields-setup.php:172
+msgid "Account Details"
+msgstr "Benutzerkonto Details"
+
+#: functions/fields-setup.php:136 functions/fields-setup.php:157
+msgid "Profile Details"
+msgstr "Profil Details"
+
+#: functions/fields-setup.php:142 functions/fields-setup.php:166
+msgid "Social Profiles"
+msgstr "Soziale Profile"
+
+#: functions/initial-setup.php:23 functions/user-functions.php:26
+#: templates/logout.php:15 updates/userpro_1.0.24.php:15
+msgid "Logout"
+msgstr "Abmelden"
+
+#: functions/initial-setup.php:37
+msgid "Member Directory"
+msgstr "Mitglieder Verzeichnis"
+
+#: functions/initial-setup.php:51
+msgid "My Profile"
+msgstr "Mein Profil"
+
+#: functions/initial-setup.php:65 templates/view.php:16 templates/view.php:18
+msgid "Edit Profile"
+msgstr "Profil bearbeiten"
+
+#: functions/initial-setup.php:80 functions/shortcode-main.php:43
+#: functions/shortcode-private-content.php:32
+msgid "Register"
+msgstr "Registrieren"
+
+#: functions/initial-setup.php:95 functions/shortcode-main.php:44
+#: functions/shortcode-main.php:49 functions/shortcode-main.php:53
+#: functions/shortcode-private-content.php:33
+#: functions/shortcode-private-content.php:38
+#: functions/shortcode-private-content.php:42
+msgid "Login"
+msgstr "Anmelden"
+
+#: functions/mail-functions.php:39
+msgid "Verify your Account"
+msgstr "Verifiziere Dein Benutzerkonto"
+
+#: functions/mail-functions.php:48
+msgid "Reset Your Password"
+msgstr "Setze Dein Passwort zurück"
+
+#: functions/mail-functions.php:57
+msgid "Your profile has been removed!"
+msgstr "Dein Profil wurde entfernt!"
+
+#: functions/mail-functions.php:66
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Willkommen zu %s!"
+
+#: functions/mail-functions.php:83
+msgid "[UserPro] New User Registration"
+msgstr "[UserPro] Neue Benutzer-Registrierung"
+
+#: functions/mail-functions.php:90
+msgid "[UserPro] A profile has been removed!"
+msgstr "[UserPro] Ein Profil wurde entfernt!"
+
+#: functions/mail-functions.php:97
+msgid "[UserPro] A profile has been updated!"
+msgstr "[UserPro] Ein Profil wurde erneuert!"
+
+#: functions/memberlist-functions.php:239
+msgid "« Previous"
+msgstr "« Zurück"
+
+#: functions/memberlist-functions.php:240
+msgid "Next »"
+msgstr "Weiter »"
+
+#: functions/msg-functions.php:4
+msgid "Please log in to publish a new post."
+msgstr "Bitte melde Dich an, um einen neuen Beitrag zu veröffentlichen."
+
+#: functions/msg-functions.php:8
+msgid "Your account has been successfully activated!"
+msgstr "Dein Benutzerkonto wurde erfolgreich aktiviert!"
+
+#: functions/msg-functions.php:16
+msgid "Your profile has been saved."
+msgstr "Dein Profil wurde gespeichert."
+
+#: functions/msg-functions.php:20
+msgid "Thank you for registering. Please login to continue."
+msgstr "Vielen Dank für's Registrieren. Bitte melde Dich an um fortzufahren."
+
+#: functions/msg-functions.php:24
+msgid "Please login to view and manage your profile."
+msgstr ""
+"Bitte melde Dich an, um Dein Profil betrachten und bearbeiten zu können."
+
+#: functions/msg-functions.php:28
+msgid "Please login to view this user profile."
+msgstr "Bitte melde Dich an, um das Profil dieses Mitglieds sehen zu können."
+
+#: functions/msg-functions.php:32
+msgid ""
+"We'll email you a secret key. Once you obtain the key, you can use it to "
+"Change your Password."
+msgstr ""
+"Wir werden Dir einen Sicherheits-Schlüssel per E-Mail zukommen lassen. "
+"Diesen kannst Du dann dazu nutzen, um Dein Passwort zu ändern."
+
+#: functions/msg-functions.php:36
+msgid "A secret key has been sent successfully."
+msgstr "Ein Sicherheits-Schlüssel wurde erfolgreich gesendet."
+
+#: functions/msg-functions.php:40
+msgid "Your password has been changed successfully. Please login."
+msgstr "Dein Passwort wurde erfolgreich geändert. Bitte melde Dich an."
+
+#: functions/shortcode-main.php:31 functions/shortcode-private-content.php:21
+msgid "This field is required"
+msgstr "Dieses Feld muss ausgefüllt werden"
+
+#: functions/shortcode-main.php:32 functions/shortcode-private-content.php:22
+msgid "Your password is too short"
+msgstr "Das gewählte Passwort ist zu kurz"
+
+#: functions/shortcode-main.php:33 functions/shortcode-private-content.php:23
+msgid "Passwords do not match"
+msgstr "Die Passwörter stimmen nicht überein"
+
+#: functions/shortcode-main.php:34 functions/shortcode-private-content.php:24
+msgid "Password is not strong enough"
+msgstr "Das Passwort ist zu schwach"
+
+#: functions/shortcode-main.php:39 functions/shortcode-private-content.php:28
+msgid "Register an Account"
+msgstr "Registriere ein Benutzerkonto"
+
+#: functions/shortcode-main.php:40 functions/shortcode-private-content.php:29
+msgid "Already a member?"
+msgstr "Bereits Mitglied?"
+
+#: functions/shortcode-main.php:50 functions/shortcode-private-content.php:39
+msgid "Forgot your password?"
+msgstr "Passwort vergessen?"
+
+#: functions/shortcode-main.php:54 functions/shortcode-private-content.php:43
+msgid "Create an Account"
+msgstr "Benutzerkonto erstellen"
+
+#: functions/shortcode-main.php:59 functions/shortcode-private-content.php:48
+#: templates/edit.php:84 templates/view.php:78
+msgid "Delete Profile"
+msgstr "Profil löschen"
+
+#: functions/shortcode-main.php:60 functions/shortcode-private-content.php:49
+msgid "Undo, back to profile"
+msgstr "Rückgängig, zurück zum Profil"
+
+#: functions/shortcode-main.php:63 functions/shortcode-private-content.php:52
+#: templates/delete.php:23
+msgid "Confirm Deletion"
+msgstr "Bestätige die Löschung"
+
+#: functions/shortcode-main.php:64 functions/shortcode-private-content.php:53
+msgid "Back to Profile"
+msgstr "Zurück zum Profil"
+
+#: functions/shortcode-main.php:67 functions/shortcode-private-content.php:56
+msgid "Reset Password"
+msgstr "Passwort zurücksetzen"
+
+#: functions/shortcode-main.php:68 functions/shortcode-private-content.php:57
+msgid "Back to Login"
+msgstr "Zurück zur Anmeldung"
+
+#: functions/shortcode-main.php:71 functions/shortcode-private-content.php:60
+msgid "Request Secret Key"
+msgstr "Fordere einen Sicherheits-Schlüssel an"
+
+#: functions/shortcode-main.php:72 functions/shortcode-main.php:75
+#: functions/shortcode-private-content.php:61
+#: functions/shortcode-private-content.php:64
+msgid "Change your Password"
+msgstr "Ändere Dein Passwort"
+
+#: functions/shortcode-main.php:76 functions/shortcode-private-content.php:65
+msgid "Request New Key"
+msgstr "Fordere einen neuen Schlüssel an"
+
+#: functions/shortcode-main.php:79 functions/shortcode-private-content.php:68
+msgid "Change my Password"
+msgstr "Ändere mein Passwort"
+
+#: functions/shortcode-main.php:80 functions/shortcode-private-content.php:69
+msgid "Do not have a secret key?"
+msgstr "Du besitzt keinen Sicherheitsschlüssel?"
+
+#: functions/shortcode-main.php:83 functions/shortcode-private-content.php:72
+msgid "Latest Members"
+msgstr "Neuste Mitglieder"
+
+#: functions/shortcode-main.php:96
+msgid "Who is online now"
+msgstr "Wer ist derzeit online"
+
+#: functions/shortcode-main.php:117 functions/shortcode-private-content.php:94
+msgid "An error has occured"
+msgstr "Ein Fehler ist aufgetreten"
+
+#: functions/shortcode-main.php:149
+#: functions/shortcode-private-content.php:117
+msgid "Existing member? login"
+msgstr "Bereits Mitglied? Zur Anmeldung"
+
+#: functions/shortcode-main.php:159
+msgid "Add a New Post"
+msgstr "Füge einen neuen Beitrag hinzu"
+
+#: templates/card.php:3 templates/change.php:3 templates/delete.php:3
+#: templates/edit.php:3 templates/list.php:3 templates/login.php:3
+#: templates/logout.php:3 templates/online.php:3 templates/publish.php:3
+#: templates/register.php:3 templates/registration_closed.php:3
+#: templates/request_verify.php:3 templates/reset.php:3 templates/view.php:3
+msgid "Close"
+msgstr "Schließen"
+
+#: templates/card.php:12
+msgid "View Full Profile"
+msgstr "Betrachte das gesamte Profil"
+
+#: templates/change.php:21
+msgid "Your Secret Key"
+msgstr "Dein Sicherheits-Schlüssel"
+
+#: templates/change.php:24
+msgid ""
+"You need a secret key to change your account password. Do not have one? "
+"Click <a href=\"#\" data-template=\"reset\">here</a> to obtain a new key."
+msgstr ""
+"Du benötigst einen Sicherheitsschlüssel, um Dein Passwort ändern zu können. "
+"Du besitzt keinen? Dann klicke <a href=\"#\" data-template=\"reset\">hier</"
+"a> um einen anzufordern."
+
+#: templates/delete.php:24
+msgid "No, do not delete"
+msgstr "Nein, bitte nicht löschen."
+
+#: templates/delete.php:24
+msgid "Yes, delete this profile!"
+msgstr "Ja, dieses Profil löschen!"
+
+#: templates/delete.php:25
+msgid "This action cannot be UNDONE! It will delete all profile data."
+msgstr ""
+"Dieser Vorgang ist irreversibel. Er wird alle Profildaten unwiderruflich "
+"löschen!"
+
+#: templates/edit.php:15 templates/edit.php:17 templates/list.php:28
+#: templates/memberlist_v2.php:45 templates/online.php:32
+#: templates/online.php:55
+msgid "View Profile"
+msgstr "Profil betrachten"
+
+#: templates/edit.php:80 templates/view.php:74
+msgid "Request Verification"
+msgstr "Verifizierung anfragen"
+
+#: templates/logout.php:12
+msgid "View/manage your profile"
+msgstr "Dein Profil betrachten"
+
+#: templates/memberlist.php:9 templates/memberlist_v2.php:9
+msgid "Search for a user..."
+msgstr "Suche nach einem Mitglied ..."
+
+#: templates/memberlist.php:45 templates/memberlist_v2.php:52
+msgid "No users match your search. Please try again."
+msgstr ""
+"Leider konnten keine passenden Mitglieder gefunden werden. Bitte versuche es "
+"noch einmal."
+
+#: templates/memberlist_v2.php:42
+msgid "The user did not enter a description yet."
+msgstr "Dieses Mitglied hat bisher noch keine Beschreibung hinzugefügt."
+
+#: templates/not_authorized.php:12
+msgid "You are not authorized to access this profile."
+msgstr "Du besutzt nicht die Rechte, dieses Profil zu betrachten."
+
+#: templates/not_found.php:12
+msgid ""
+"The user profile you are trying to reach does not exist. It could have been "
+"removed."
+msgstr "Leider existiert das von Dir angefragte Profil nicht (mehr)."
+
+#: templates/online.php:17
+#, php-format
+msgid "There are %s users online on the site."
+msgstr "Derzeit sind %s Mitglieder online."
+
+#: templates/online.php:64
+msgid "No users are online now."
+msgstr "Derzeit sind keine Mitglieder online."
+
+#: templates/private.php:4
+msgid "Restricted Content / Members Only"
+msgstr "Privater Bereich / sichtbar nur für Mitglieder"
+
+#: templates/private.php:12
+#, php-format
+msgid ""
+"You cannot view this content because It is available to members only. Please "
+"<a href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">login</a> "
+"or <a href=\"%s\">register</a> to view this area."
+msgstr ""
+"Dieser Inhalt ist nur für Mitglieder sichtbar. Bitte <a href=\"#\" class="
+"\"popup-login\" data-force_redirect_uri=\"1\">melde Dich an</a> oder  <a "
+"href=\"%s\">registriere Dich,</a> um diesen Bereich einsehen zu können."
+
+#: templates/publish.php:21
+msgid "Enter post title here..."
+msgstr "Gib hier den Beitrags-Titel ein ..."
+
+#: templates/publish.php:25
+msgid "Post Type"
+msgstr "Beitrags-Typ"
+
+#: templates/publish.php:27
+msgid "Select Categories"
+msgstr "Wähle die Kategorien"
+
+#: templates/registration_closed.php:6
+msgid "Registration Closed"
+msgstr "Registrierung geschlossen"
+
+#: templates/registration_closed.php:17
+msgid "Registration is currently disabled. We apologize for any inconvenience."
+msgstr ""
+"Die Registrierung ist derzeit deaktiviert. Bitte entschuldige die "
+"Unannehmlichkeiten."
+
+#: templates/request_verify.php:6
+msgid "Your request is sent!"
+msgstr "Deine Anfrage wurde erfolgreich versendet!"
+
+#: templates/request_verify.php:14
+#, php-format
+msgid ""
+"Thanks, <strong>%s</strong>! Your request to get verified has been sent to "
+"the staff. A staff member will look at your application shortly and take the "
+"appropriate action."
+msgstr ""
+"Vielen Dank, <strong>%s</strong>! Deine Anfrage zur Verifizierung Deines "
+"Benutzerkontos wurde erfolgreich weitergeleitet. Wir kümmern uns schleunigst "
+"darum."
+
+#: templates/reset.php:21
+msgid "Username or Email"
+msgstr "Benutzername oder E-Mail"
+
+#: templates/restricted.php:4
+msgid "Access Denied"
+msgstr "Zugang verweigert"
+
+#: templates/restricted.php:12
+msgid ""
+"You do not have enough permissions or role to view this private content. We "
+"apologize for that."
+msgstr ""
+"Es tut uns leid, aber Du besitzt nicht genügend Rechte, um diesen Inhalt zu "
+"sehen."

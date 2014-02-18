@@ -1,0 +1,3109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UserPro v1.0.53\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-14 09:56:56+0000\n"
+"Last-Translator: alexus <alex-13-05@mail.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/admin-functions.php:26
+#@ userpro
+msgid "Displays the admin email that users can contact you at. You can configure it under Mail settings."
+msgstr ""
+
+#: admin/admin-functions.php:27
+#@ userpro
+msgid "Displays blog name"
+msgstr ""
+
+#: admin/admin-functions.php:28
+#@ userpro
+msgid "Displays the UserPro login page"
+msgstr ""
+
+#: admin/admin-functions.php:29
+#@ userpro
+msgid "Displays the Username of user"
+msgstr ""
+
+#: admin/admin-functions.php:30
+#@ userpro
+msgid "Displays the E-mail address of user"
+msgstr ""
+
+#: admin/admin-functions.php:31
+#@ userpro
+msgid "Displays the User Profile address"
+msgstr ""
+
+#: admin/admin-functions.php:37
+#@ userpro
+msgid "Custom Variable 1"
+msgstr ""
+
+#: admin/admin-functions.php:50
+#, php-format
+#@ userpro
+msgid "%s fields available"
+msgstr ""
+
+#: admin/admin-functions.php:83
+#@ userpro
+msgid "Edit Field"
+msgstr ""
+
+#: admin/admin-functions.php:85
+#@ userpro
+msgid "Delete Field"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:35
+#: addons/social/admin/panels/pages.php:48
+#: admin/admin-functions.php:241
+#: admin/admin-functions.php:275
+#: admin/panels/pages.php:55
+#: admin/panels/pages.php:68
+#: admin/panels/pages.php:81
+#: admin/panels/pages.php:94
+#: admin/panels/pages.php:107
+#: admin/panels/pages.php:120
+#@ userpro
+msgid "View Page"
+msgstr ""
+
+#: admin/admin-functions.php:243
+#: admin/admin-functions.php:278
+#@ userpro
+msgid "Reset"
+msgstr ""
+
+#: admin/admin-functions.php:244
+#: admin/admin-functions.php:279
+#: functions/custom-alerts.php:24
+#: functions/custom-alerts.php:33
+#@ userpro
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/admin-functions.php:296
+#@ userpro
+msgid "Label"
+msgstr ""
+
+#: admin/admin-functions.php:297
+#: admin/panels/fields.php:97
+#@ userpro
+msgid "Help Text"
+msgstr ""
+
+#: admin/admin-functions.php:300
+#@ userpro
+msgid "Heading Text"
+msgstr ""
+
+#: admin/admin-functions.php:301
+#@ userpro
+msgid "Collapsible Section"
+msgstr ""
+
+#: admin/admin-functions.php:302
+#@ userpro
+msgid "Collapsed"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:10
+#: addons/social/admin/panels/settings.php:25
+#: addons/social/admin/panels/settings.php:35
+#: admin/admin-functions.php:334
+#: admin/admin-functions.php:431
+#: admin/panels/mail.php:25
+#: admin/panels/mail.php:35
+#: admin/panels/mail.php:45
+#: admin/panels/mail.php:55
+#: admin/panels/settings.php:63
+#: admin/panels/settings.php:120
+#: admin/panels/settings.php:240
+#: admin/panels/settings.php:250
+#: admin/panels/settings.php:273
+#: admin/panels/settings.php:283
+#: admin/panels/settings.php:293
+#: admin/panels/settings.php:303
+#: admin/panels/settings.php:313
+#: admin/panels/settings.php:323
+#: admin/panels/settings.php:334
+#: admin/panels/settings.php:344
+#: admin/panels/settings.php:414
+#: admin/panels/settings.php:435
+#: admin/panels/settings.php:450
+#: admin/panels/settings.php:460
+#: admin/panels/settings.php:514
+#: admin/panels/settings.php:557
+#: admin/panels/settings.php:580
+#@ userpro
+msgid "Yes"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:11
+#: addons/social/admin/panels/settings.php:26
+#: addons/social/admin/panels/settings.php:36
+#: admin/admin-functions.php:335
+#: admin/admin-functions.php:432
+#: admin/panels/mail.php:26
+#: admin/panels/mail.php:36
+#: admin/panels/mail.php:46
+#: admin/panels/mail.php:56
+#: admin/panels/settings.php:64
+#: admin/panels/settings.php:121
+#: admin/panels/settings.php:241
+#: admin/panels/settings.php:251
+#: admin/panels/settings.php:274
+#: admin/panels/settings.php:284
+#: admin/panels/settings.php:294
+#: admin/panels/settings.php:304
+#: admin/panels/settings.php:314
+#: admin/panels/settings.php:324
+#: admin/panels/settings.php:335
+#: admin/panels/settings.php:345
+#: admin/panels/settings.php:415
+#: admin/panels/settings.php:436
+#: admin/panels/settings.php:451
+#: admin/panels/settings.php:461
+#: admin/panels/settings.php:515
+#: admin/panels/settings.php:558
+#: admin/panels/settings.php:581
+#@ userpro
+msgid "No"
+msgstr ""
+
+#: admin/admin-functions.php:414
+#@ userpro
+msgid "Add Seperator / Section"
+msgstr ""
+
+#: admin/admin-functions.php:417
+#@ userpro
+msgid "My Custom Heading"
+msgstr ""
+
+#: admin/admin-functions.php:467
+#@ userpro
+msgid "Broken page. Please rebuild plugin pages."
+msgstr ""
+
+#: admin/admin-functions.php:473
+#@ userpro
+msgid "Text Input"
+msgstr ""
+
+#: admin/admin-functions.php:474
+#@ userpro
+msgid "Photo Upload"
+msgstr ""
+
+#: admin/admin-functions.php:475
+#@ userpro
+msgid "File Upload"
+msgstr ""
+
+#: admin/admin-functions.php:476
+#@ userpro
+msgid "Textarea"
+msgstr ""
+
+#: admin/admin-functions.php:477
+#@ userpro
+msgid "Select Dropdown"
+msgstr ""
+
+#: admin/admin-functions.php:478
+#@ userpro
+msgid "Multiselect Box"
+msgstr ""
+
+#: admin/admin-functions.php:479
+#@ userpro
+msgid "Checkbox (floating)"
+msgstr ""
+
+#: admin/admin-functions.php:480
+#@ userpro
+msgid "Checkbox (full width)"
+msgstr ""
+
+#: admin/admin-functions.php:481
+#@ userpro
+msgid "Radio Choice (floating)"
+msgstr ""
+
+#: admin/admin-functions.php:482
+#@ userpro
+msgid "Radio Choice (full width)"
+msgstr ""
+
+#: admin/admin-functions.php:484
+#@ userpro
+msgid "Password Field"
+msgstr ""
+
+#: admin/admin-functions.php:485
+#@ userpro
+msgid "Password Strength Meter"
+msgstr ""
+
+#: admin/admin-functions.php:539
+#@ userpro
+msgid "Each field must have a title."
+msgstr ""
+
+#: admin/admin-functions.php:541
+#@ userpro
+msgid "Please enter a unique key or choose an existing usermeta."
+msgstr ""
+
+#: admin/admin-users.php:6
+#@ userpro
+msgid "Verified"
+msgstr ""
+
+#: admin/admin.php:26
+#@ userpro
+msgid "Customize Fields"
+msgstr ""
+
+#: admin/admin.php:27
+#@ userpro
+msgid "Global Options"
+msgstr ""
+
+#: admin/admin.php:30
+#@ userpro
+msgid "Restrict Content"
+msgstr ""
+
+#: admin/admin.php:32
+#@ userpro
+msgid "Role-based Fields"
+msgstr ""
+
+#: admin/admin.php:163
+#: admin/admin.php:166
+#@ userpro
+msgid "UserPro"
+msgstr ""
+
+#: addons/emd/admin/admin.php:109
+#: addons/redirects/admin/admin.php:117
+#: addons/social/admin/admin.php:110
+#: admin/admin.php:264
+#@ userpro
+msgid "Settings saved."
+msgstr ""
+
+#: addons/emd/admin/admin.php:115
+#: addons/redirects/admin/admin.php:123
+#: addons/social/admin/admin.php:116
+#: admin/admin.php:270
+#@ userpro
+msgid "Settings are reset to default."
+msgstr ""
+
+#: addons/emd/admin/admin.php:120
+#: addons/redirects/admin/admin.php:128
+#: addons/social/admin/admin.php:121
+#: admin/admin.php:275
+#@ userpro
+msgid "Your plugin pages have been rebuilt successfully."
+msgstr ""
+
+#: admin/panels/fieldroles.php:3
+#@ userpro
+msgid "Here you can set fields to be available for certain role(s) only. For example, If you wish to make a set of fields not visible to Subscriber role, or want to make other fields available only to a Customer role. This does the job for you."
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:44
+#: addons/social/admin/panels/pages.php:22
+#: addons/social/admin/panels/settings.php:60
+#: admin/panels/fieldroles.php:28
+#: admin/panels/mail.php:137
+#: admin/panels/pages.php:42
+#: admin/panels/restrict.php:76
+#: admin/panels/settings.php:621
+#: functions/shortcode-main.php:104
+#: functions/shortcode-private-content.php:104
+#@ userpro
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: addons/emd/admin/panels/settings.php:45
+#: addons/social/admin/panels/pages.php:23
+#: addons/social/admin/panels/settings.php:61
+#: admin/panels/fieldroles.php:29
+#: admin/panels/mail.php:138
+#: admin/panels/pages.php:43
+#: admin/panels/restrict.php:77
+#: admin/panels/settings.php:622
+#@ userpro
+msgid "Reset Options"
+msgstr ""
+
+#: admin/panels/fields.php:6
+#@ userpro
+msgid "How to edit the field settings?"
+msgstr ""
+
+#: admin/panels/fields.php:7
+#@ userpro
+msgid "This plugin uses small icons for quick ajax editing for a field. Each icon means something, this little guide will show you how to control each field quickly and instantly."
+msgstr ""
+
+#: admin/panels/fields.php:8
+#@ userpro
+msgid "A transparent icon means the setting is turned off. A full-color icon means the setting is turned on. Click on any icon to switch the state of it on and off."
+msgstr ""
+
+#: admin/panels/fields.php:11
+#@ userpro
+msgid "This removes the field from a selected group"
+msgstr ""
+
+#: admin/panels/fields.php:12
+#@ userpro
+msgid "Click that icon to edit field label and help text or other misc options"
+msgstr ""
+
+#: admin/panels/fields.php:13
+#@ userpro
+msgid "Make a field hideable from public by user"
+msgstr ""
+
+#: admin/panels/fields.php:14
+#@ userpro
+msgid "Make a field hidden from public by default if field is hideable"
+msgstr ""
+
+#: admin/panels/fields.php:15
+#@ userpro
+msgid "Lock a field so that user cannot edit, but admins can still edit all fields"
+msgstr ""
+
+#: admin/panels/fields.php:16
+#@ userpro
+msgid "Make a field private so that users cannot view or edit it, but admins will be able to view it"
+msgstr ""
+
+#: admin/panels/fields.php:17
+#@ userpro
+msgid "Make a field required"
+msgstr ""
+
+#: admin/panels/fields.php:18
+#@ userpro
+msgid "Allow HTML in a field. e.g. If the field is textarea"
+msgstr ""
+
+#: admin/panels/fields.php:35
+#@ userpro
+msgid "Groups & Fields"
+msgstr ""
+
+#: admin/panels/fields.php:35
+#@ userpro
+msgid "Reset All Groups"
+msgstr ""
+
+#: admin/panels/fields.php:47
+#@ userpro
+msgid "Drag & Drop your fields into Forms"
+msgstr ""
+
+#: admin/panels/fields.php:48
+#@ userpro
+msgid "Each field presents a bit of data or a meta key about the user. This allow you to drag any field to any form you want but be careful, not every field is suitable for any form. e.g. It makes no sense to add Country to your login shortcode."
+msgstr ""
+
+#: admin/panels/fields.php:53
+#@ userpro
+msgid "Add New Field / Add or Sync Existing Data"
+msgstr ""
+
+#: admin/panels/fields.php:54
+#@ userpro
+msgid "You can add any field to your forms such as City, Address, or anything else by clicking on <strong>Add New Field</strong> The plugin will automatically sync/recognize any meta key stored in your user database, so you could display the value of any existing meta data."
+msgstr ""
+
+#: admin/panels/fields.php:55
+#@ userpro
+msgid "Add New Field"
+msgstr ""
+
+#: admin/panels/fields.php:64
+#@ userpro
+msgid "Field Title"
+msgstr ""
+
+#: admin/panels/fields.php:66
+#@ userpro
+msgid "Enter title for this data. example: City, How did you hear about us, Twitter, Personal Website, etc."
+msgstr ""
+
+#: admin/panels/fields.php:70
+#@ userpro
+msgid "Field Type"
+msgstr ""
+
+#: admin/panels/fields.php:72
+#@ userpro
+msgid "The type of field or how a user is going to enter this data (via text, selecting a choice from dropdown, etc)"
+msgstr ""
+
+#: admin/panels/fields.php:76
+#@ userpro
+msgid "Allowed file extensions"
+msgstr ""
+
+#: admin/panels/fields.php:78
+#@ userpro
+msgid "A comma seperated list of allowed file types. If blank, default will be to zip, pdf, txt."
+msgstr ""
+
+#: admin/panels/fields.php:82
+#@ userpro
+msgid "Builtin Choice List"
+msgstr ""
+
+#: admin/panels/fields.php:85
+#@ userpro
+msgid "Countries List"
+msgstr ""
+
+#: admin/panels/fields.php:86
+#@ userpro
+msgid "Roles"
+msgstr ""
+
+#: admin/panels/fields.php:87
+#@ userpro
+msgid "You can also enter choices for this field manually below."
+msgstr ""
+
+#: admin/panels/fields.php:91
+#@ userpro
+msgid "Manual Choices / Options"
+msgstr ""
+
+#: admin/panels/fields.php:93
+#@ userpro
+msgid "Please enter one choice per line!"
+msgstr ""
+
+#: admin/panels/fields.php:99
+#@ userpro
+msgid "Help text will be displayed below field to guide users what to put in that field or show any relevant info."
+msgstr ""
+
+#: admin/panels/fields.php:103
+#@ userpro
+msgid "Custom Placeholder"
+msgstr ""
+
+#: admin/panels/fields.php:109
+#@ userpro
+msgid "Setting up the user meta key"
+msgstr ""
+
+#: admin/panels/fields.php:112
+#@ userpro
+msgid "Unique Field Key"
+msgstr ""
+
+#: admin/panels/fields.php:114
+#@ userpro
+msgid "Your field key must be unique for each field. It must be letters only with only underscore allowd between them."
+msgstr ""
+
+#: admin/panels/fields.php:117
+#@ userpro
+msgid "Or select/sync an existing meta field key"
+msgstr ""
+
+#: admin/panels/fields.php:119
+#@ userpro
+msgid "You can sync or use user meta from any other plugin directly and integrate it with UserPro. Unique key is not needed If you sync with existing field."
+msgstr ""
+
+#: admin/panels/fields.php:124
+#: functions/shortcode-main.php:165
+#: functions/shortcode-private-content.php:160
+#@ userpro
+msgid "Publish"
+msgstr ""
+
+#: admin/panels/fields.php:125
+#@ userpro
+msgid "Cancel"
+msgstr ""
+
+#: admin/panels/fields.php:138
+#@ userpro
+msgid "Restore Default Fields"
+msgstr ""
+
+#: admin/panels/mail.php:3
+#@ userpro
+msgid "Outgoing Mail Settings"
+msgstr ""
+
+#: admin/panels/mail.php:7
+#@ userpro
+msgid "The name that appears on mails sent by UserPro"
+msgstr ""
+
+#: admin/panels/mail.php:12
+#@ userpro
+msgid "The address that appears on mails sent by UserPro"
+msgstr ""
+
+#: admin/panels/mail.php:18
+#@ userpro
+msgid "Email Notifications"
+msgstr ""
+
+#: admin/panels/mail.php:42
+#@ userpro
+msgid "Send admin an e-mail when user updates profile"
+msgstr ""
+
+#: admin/panels/mail.php:52
+#@ userpro
+msgid "Send admin an e-mail when profile gets removed"
+msgstr ""
+
+#: admin/panels/mail.php:86
+#@ userpro
+msgid "Customize \"New Account/Welcome\" Mail"
+msgstr ""
+
+#: admin/panels/mail.php:70
+#: admin/panels/mail.php:80
+#: admin/panels/mail.php:90
+#: admin/panels/mail.php:100
+#: admin/panels/mail.php:110
+#: admin/panels/mail.php:120
+#: admin/panels/mail.php:130
+#@ userpro
+msgid "Email Content"
+msgstr ""
+
+#: admin/panels/mail.php:96
+#@ userpro
+msgid "Customize \"Reset Password\" Mail"
+msgstr ""
+
+#: admin/panels/mail.php:106
+#@ userpro
+msgid "Customize \"Account Removal\" Mail"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:3
+#: admin/panels/pages.php:3
+#@ userpro
+msgid "You must update your permalinks or Save Changes on your permalinks setup for the nice URLs to work fine."
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:5
+#: admin/panels/pages.php:5
+#@ userpro
+msgid "Manage Page Slugs"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:6
+#: admin/panels/pages.php:6
+#@ userpro
+msgid "For a better multi-language experience, UserPro allow you to edit the slugs of the official registration/profile pages here. You must rebuild pages If you changed your slugs for the new slugs to take effect."
+msgstr ""
+
+#: admin/panels/pages.php:10
+#@ userpro
+msgid "\"Profile\" Slug"
+msgstr ""
+
+#: admin/panels/pages.php:15
+#@ userpro
+msgid "\"Register\" Slug"
+msgstr ""
+
+#: admin/panels/pages.php:20
+#@ userpro
+msgid "\"Edit Profile\" Slug"
+msgstr ""
+
+#: admin/panels/pages.php:25
+#@ userpro
+msgid "\"Login\" Slug"
+msgstr ""
+
+#: admin/panels/pages.php:30
+#@ userpro
+msgid "\"Member Directory\" Slug"
+msgstr ""
+
+#: admin/panels/pages.php:46
+#@ userpro
+msgid "Check / Rebuild Profile Pages"
+msgstr ""
+
+#: admin/panels/pages.php:47
+#@ userpro
+msgid "By default, UserPro creates profile pages and front-end registration/login pages automatically. However if for some reason, these pages were removed or deleted you can rebuild them here."
+msgstr ""
+
+#: admin/panels/pages.php:51
+#@ userpro
+msgid "Profile Page"
+msgstr ""
+
+#: admin/panels/pages.php:64
+#@ userpro
+msgid "Registration Page"
+msgstr ""
+
+#: admin/panels/pages.php:77
+#@ userpro
+msgid "Edit Profile Page"
+msgstr ""
+
+#: admin/panels/pages.php:90
+#@ userpro
+msgid "Login Page"
+msgstr ""
+
+#: admin/panels/pages.php:103
+#@ userpro
+msgid "Member Directory Page"
+msgstr ""
+
+#: admin/panels/pages.php:131
+#@ userpro
+msgid "Rebuild UserPro Pages"
+msgstr ""
+
+#: admin/panels/restrict.php:3
+#@ userpro
+msgid "Mass restrict pages by allowing access to members only for full-content. Unlike the UserPro shortcode which hides the content you specify only. This will lock all content page until the user is logged in. You can also bulk block/allow any pages you want."
+msgstr ""
+
+#: admin/panels/restrict.php:8
+#@ userpro
+msgid "Make Restricted Pages accessible to"
+msgstr ""
+
+#: admin/panels/restrict.php:11
+#@ userpro
+msgid "Only Verified Members"
+msgstr ""
+
+#: admin/panels/restrict.php:12
+#@ userpro
+msgid "All Registered Members"
+msgstr ""
+
+#: admin/panels/restrict.php:18
+#@ userpro
+msgid "Choose one or more pages to restrict"
+msgstr ""
+
+#: admin/panels/settings.php:174
+#@ userpro
+msgid "Appearance and Look"
+msgstr ""
+
+#: admin/panels/settings.php:227
+#@ userpro
+msgid "Fields Layout"
+msgstr ""
+
+#: admin/panels/settings.php:230
+#@ userpro
+msgid "Float (field label on same line)"
+msgstr ""
+
+#: admin/panels/settings.php:231
+#@ userpro
+msgid "Block (field label on seperate line)"
+msgstr ""
+
+#: admin/panels/settings.php:266
+#@ userpro
+msgid "Profile Settings"
+msgstr ""
+
+#: admin/panels/settings.php:270
+#@ userpro
+msgid "Allow guests to view other profiles"
+msgstr ""
+
+#: admin/panels/settings.php:280
+#@ userpro
+msgid "Allow members to view other member profiles"
+msgstr ""
+
+#: admin/panels/settings.php:300
+#@ userpro
+msgid "Allow users to delete their profiles"
+msgstr ""
+
+#: admin/panels/settings.php:352
+#@ userpro
+msgid "Redirection Settings (Hiding Dashboard)"
+msgstr ""
+
+#: admin/panels/settings.php:353
+#@ userpro
+msgid "These settings help you hide the backend from normal users. You can control backend redirection precisely, these settings will not affect administrators."
+msgstr ""
+
+#: admin/panels/settings.php:357
+#@ userpro
+msgid "Redirect backend to front-end"
+msgstr ""
+
+#: admin/panels/settings.php:360
+#@ userpro
+msgid "Redirect to front-end profile view"
+msgstr ""
+
+#: admin/panels/settings.php:361
+#: admin/panels/settings.php:374
+#: admin/panels/settings.php:386
+#: admin/panels/settings.php:398
+#@ userpro
+msgid "Redirect to custom URL"
+msgstr ""
+
+#: admin/panels/settings.php:362
+#: admin/panels/settings.php:375
+#: admin/panels/settings.php:387
+#: admin/panels/settings.php:399
+#@ userpro
+msgid "Do not redirect"
+msgstr ""
+
+#: admin/panels/settings.php:364
+#@ userpro
+msgid "If you choose cutom URL for this redirect"
+msgstr ""
+
+#: admin/panels/settings.php:365
+#@ userpro
+msgid "You can redirect users to the built-in front-end pages by the plugin to hide backend access from them."
+msgstr ""
+
+#: admin/panels/settings.php:370
+#@ userpro
+msgid "Redirect backend profile to front-end"
+msgstr ""
+
+#: admin/panels/settings.php:373
+#@ userpro
+msgid "Redirect to front-end profile edit"
+msgstr ""
+
+#: admin/panels/settings.php:377
+#: admin/panels/settings.php:389
+#: admin/panels/settings.php:401
+#@ userpro
+msgid "If you choose custom URL for this redirect"
+msgstr ""
+
+#: admin/panels/settings.php:382
+#@ userpro
+msgid "Redirect backend registration to front-end"
+msgstr ""
+
+#: admin/panels/settings.php:385
+#@ userpro
+msgid "Redirect to front-end registration"
+msgstr ""
+
+#: admin/panels/settings.php:394
+#@ userpro
+msgid "Redirect backend login to front-end"
+msgstr ""
+
+#: admin/panels/settings.php:397
+#@ userpro
+msgid "Redirect to front-end login"
+msgstr ""
+
+#: admin/panels/settings.php:407
+#@ userpro
+msgid "Login Settings"
+msgstr ""
+
+#: admin/panels/settings.php:411
+#: admin/panels/settings.php:447
+#@ userpro
+msgid "Show logout If user is logged in already"
+msgstr ""
+
+#: admin/panels/settings.php:421
+#@ userpro
+msgid "After a successful login"
+msgstr ""
+
+#: admin/panels/settings.php:424
+#: admin/panels/settings.php:470
+#@ userpro
+msgid "Refresh page only"
+msgstr ""
+
+#: admin/panels/settings.php:425
+#: admin/panels/settings.php:471
+#@ userpro
+msgid "Redirect user to front-end profile"
+msgstr ""
+
+#: admin/panels/settings.php:427
+#@ userpro
+msgid "You can also redirect users to custom URL by passing <code>login_redirect</code> valid URL in your shortcode."
+msgstr ""
+
+#: admin/panels/settings.php:432
+#@ userpro
+msgid "Redirect admins to dashboard always"
+msgstr ""
+
+#: admin/panels/settings.php:443
+#@ userpro
+msgid "Registration Settings"
+msgstr ""
+
+#: admin/panels/settings.php:457
+#@ userpro
+msgid "Auto-Login users after registration"
+msgstr ""
+
+#: admin/panels/settings.php:467
+#@ userpro
+msgid "After a successful registration"
+msgstr ""
+
+#: admin/panels/settings.php:473
+#@ userpro
+msgid "You can also redirect users to custom URL by passing <code>register_redirect</code> valid URL in your shortcode."
+msgstr ""
+
+#: admin/panels/settings.php:478
+#@ userpro
+msgid "Default Role for New Users"
+msgstr ""
+
+#: admin/panels/settings.php:480
+#: admin/panels/settings.php:481
+#@ userpro
+msgid "No Role"
+msgstr ""
+
+#: admin/panels/settings.php:490
+#@ userpro
+msgid "New users will be assigned to this role automatically If you do not allow them to choose role."
+msgstr ""
+
+#: admin/panels/settings.php:495
+#@ userpro
+msgid "Allowed Roles during Registration"
+msgstr ""
+
+#: admin/panels/settings.php:497
+#@ userpro
+msgid "Select roles"
+msgstr ""
+
+#: admin/panels/settings.php:506
+#@ userpro
+msgid "If you enable users to select their role, this option can limit allowed roles for user."
+msgstr ""
+
+#: admin/panels/settings.php:565
+#@ userpro
+msgid "Facebook Integration"
+msgstr ""
+
+#: admin/panels/settings.php:569
+#@ userpro
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/panels/settings.php:572
+#@ userpro
+msgid "Open <a href=\"https://developers.facebook.com/apps\">https://developers.facebook.com/apps</a> create a new app and edit its settings to make it work on your domain. In App Settings, please paste the App ID or API Key into this field."
+msgstr ""
+
+#: admin/panels/settings.php:577
+#@ userpro
+msgid "Allow Facebook Social Connect"
+msgstr ""
+
+#: functions/ajax.php:112
+#@ userpro
+msgid "Nothing was deleted. You must choose yes to confirm deletion."
+msgstr ""
+
+#: functions/ajax.php:114
+#@ userpro
+msgid "For security reasons, admin accounts cannot be deleted."
+msgstr ""
+
+#: functions/ajax.php:116
+#@ userpro
+msgid "You cannot remove test accounts from frontend!"
+msgstr ""
+
+#: functions/ajax.php:138
+#@ userpro
+msgid "This account has been deleted successfully."
+msgstr ""
+
+#: functions/ajax.php:150
+#@ userpro
+msgid "You did not provide a secret key."
+msgstr ""
+
+#: functions/ajax.php:152
+#: functions/ajax.php:498
+#@ userpro
+msgid "The secret key you entered is invalid."
+msgstr ""
+
+#: functions/ajax.php:168
+#: functions/ajax.php:506
+#@ userpro
+msgid "The secret key is invalid or expired."
+msgstr ""
+
+#: functions/ajax.php:190
+#: functions/ajax.php:234
+#@ userpro
+msgid "You should provide your email or username."
+msgstr ""
+
+#: functions/ajax.php:199
+#@ userpro
+msgid "There is not such user in our system."
+msgstr ""
+
+#: functions/ajax.php:237
+#@ userpro
+msgid "You should provide your password."
+msgstr ""
+
+#: functions/ajax.php:258
+#@ userpro
+msgid "Invalid email or username entered"
+msgstr "Неверный e-mail или имя пользователя"
+
+#: functions/ajax.php:260
+#@ userpro
+msgid "The password you entered is incorrect"
+msgstr ""
+
+#: functions/ajax.php:482
+#@ userpro
+msgid "Username already taken."
+msgstr "Занято"
+
+#: functions/ajax.php:490
+#@ userpro
+msgid "Please enter a valid email."
+msgstr "Пожалуйста, введите верный e-mail."
+
+#: functions/ajax.php:492
+#@ userpro
+msgid "Email is taken. Is that you? Try to <a href=\"#\" data-template=\"login\">login</a>"
+msgstr ""
+
+#: functions/badge-functions.php:76
+#: functions/badge-functions.php:78
+#@ userpro
+msgid "Verified Account"
+msgstr "Автор"
+
+#: functions/badge-functions.php:83
+#@ userpro
+msgid "Facebook Linked"
+msgstr ""
+
+#: addons/social/functions/api.php:16
+#: functions/defaults.php:48
+#: functions/defaults.php:55
+#: functions/defaults.php:62
+#: functions/defaults.php:72
+#: functions/defaults.php:77
+#: functions/defaults.php:82
+#: functions/defaults.php:87
+#: functions/defaults.php:93
+#: functions/defaults.php:97
+#@ userpro
+#@ default
+msgid "Hi there,"
+msgstr ""
+
+#: functions/defaults.php:49
+#@ userpro
+msgid "You or someone else has requested to change password for this account."
+msgstr ""
+
+#: functions/defaults.php:50
+#@ userpro
+msgid "The following key was generated to you to be able to change your passsword. Login to our site and attempt to Change your Password and use that key to change your password successfully."
+msgstr "Используйте этот ключ чтобы изменить пароль."
+
+#: functions/defaults.php:51
+#@ userpro
+msgid "Secret Key: {VAR1}"
+msgstr ""
+
+#: functions/defaults.php:52
+#: functions/defaults.php:59
+#: functions/defaults.php:69
+#@ userpro
+msgid "If you have any problems, please contact us at {USERPRO_ADMIN_EMAIL}."
+msgstr ""
+
+#: functions/defaults.php:53
+#: functions/defaults.php:60
+#: functions/defaults.php:70
+#: functions/defaults.php:75
+#: functions/defaults.php:80
+#: functions/defaults.php:85
+#@ userpro
+msgid "Best Regards!"
+msgstr ""
+
+#: functions/defaults.php:63
+#@ userpro
+msgid "Thanks for registering. Your account is now active."
+msgstr ""
+
+#: functions/defaults.php:64
+#@ userpro
+msgid "To login please visit the following URL:"
+msgstr "Чтобы войти перейдите по ссылке:"
+
+#: functions/defaults.php:66
+#@ userpro
+msgid "Your account e-mail: {USERPRO_EMAIL}"
+msgstr ""
+
+#: functions/defaults.php:67
+#@ userpro
+msgid "Your account username: {USERPRO_USERNAME}"
+msgstr ""
+
+#: functions/defaults.php:68
+#@ userpro
+msgid "Your account password: {VAR1}"
+msgstr ""
+
+#: functions/defaults.php:73
+#@ userpro
+msgid "Your account has been deleted from {USERPRO_BLOGNAME}."
+msgstr ""
+
+#: functions/defaults.php:74
+#: functions/defaults.php:79
+#: functions/defaults.php:84
+#@ userpro
+msgid "If you have any further questions, please contact us at {USERPRO_ADMIN_EMAIL}."
+msgstr ""
+
+#: functions/defaults.php:94
+#@ userpro
+msgid "{USERPRO_USERNAME}'s profile has been just deleted from {USERPRO_BLOGNAME}."
+msgstr ""
+
+#: addons/social/functions/api.php:21
+#: functions/defaults.php:91
+#: functions/defaults.php:95
+#: functions/defaults.php:101
+#@ userpro
+msgid "This is an automated notification that was sent to you by UserPro. No further action is needed."
+msgstr ""
+
+#: functions/defaults.php:98
+#@ userpro
+msgid "{USERPRO_USERNAME} has just updated their profile at {USERPRO_BLOGNAME}."
+msgstr ""
+
+#: functions/defaults.php:99
+#@ userpro
+msgid "To view his/her profile:"
+msgstr ""
+
+#: functions/defaults.php:197
+#@ userpro
+msgid "&mdash; Select account role &mdash;"
+msgstr ""
+
+#: functions/fields-functions.php:334
+#: functions/fields-functions.php:351
+#@ userpro
+msgid "No file has been uploaded."
+msgstr "Файл не был выбран"
+
+#: functions/fields-functions.php:419
+#@ userpro
+msgid "Upload photo"
+msgstr "Выбрать картинку"
+
+#: addons/redirects/admin/admin-functions.php:72
+#: addons/redirects/admin/admin-functions.php:82
+#: functions/fields-functions.php:207
+#: functions/fields-functions.php:420
+#: functions/fields-functions.php:423
+#: functions/fields-functions.php:430
+#: functions/fields-functions.php:433
+#@ userpro
+msgid "Remove"
+msgstr "Удалить"
+
+#: functions/fields-functions.php:429
+#@ userpro
+msgid "Upload file"
+msgstr ""
+
+#: functions/fields-functions.php:448
+#: functions/fields-functions.php:477
+#: functions/fields-functions.php:533
+#@ userpro
+msgid "Make this field hidden from public"
+msgstr "Скрыть от остальных"
+
+#: functions/fields-functions.php:487
+#@ userpro
+msgid "Password Strength"
+msgstr "Надежность пароля"
+
+#: functions/fields-functions.php:791
+#, php-format
+#@ userpro
+msgid "(Your %s will not be visible to public)"
+msgstr ""
+
+#: functions/fields-setup.php:129
+#: functions/fields-setup.php:172
+#@ userpro
+msgid "Account Details"
+msgstr ""
+
+#: functions/fields-setup.php:136
+#: functions/fields-setup.php:157
+#@ userpro
+msgid "Profile Details"
+msgstr ""
+
+#: functions/initial-setup.php:37
+#@ userpro
+msgid "Member Directory"
+msgstr ""
+
+#: functions/initial-setup.php:51
+#@ userpro
+msgid "My Profile"
+msgstr ""
+
+#: functions/initial-setup.php:65
+#: templates/view.php:16
+#: templates/view.php:18
+#: templates/viewwid.php:20
+#: templates/viewwid.php:22
+#@ userpro
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+#: functions/initial-setup.php:80
+#: functions/shortcode-main.php:45
+#: functions/shortcode-private-content.php:45
+#@ userpro
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: functions/initial-setup.php:95
+#: functions/shortcode-main.php:46
+#: functions/shortcode-main.php:50
+#: functions/shortcode-main.php:54
+#: functions/shortcode-private-content.php:46
+#: functions/shortcode-private-content.php:50
+#: functions/shortcode-private-content.php:54
+#@ userpro
+msgid "Login"
+msgstr "Войти"
+
+#: functions/mail-functions.php:48
+#@ userpro
+msgid "Reset Your Password"
+msgstr "Сбросить пароль. Reset Your Password."
+
+#: functions/mail-functions.php:57
+#@ userpro
+msgid "Your profile has been removed!"
+msgstr ""
+
+#: functions/mail-functions.php:84
+#, php-format
+#@ userpro
+msgid "Welcome to %s!"
+msgstr "Добро пожаловать в мир %s! Welcome to %s!"
+
+#: functions/mail-functions.php:101
+#@ userpro
+msgid "[UserPro] New User Registration"
+msgstr ""
+
+#: functions/mail-functions.php:108
+#@ userpro
+msgid "[UserPro] A profile has been removed!"
+msgstr ""
+
+#: functions/mail-functions.php:115
+#@ userpro
+msgid "[UserPro] A profile has been updated!"
+msgstr ""
+
+#: functions/memberlist-functions.php:293
+#@ userpro
+msgid "« Previous"
+msgstr ""
+
+#: functions/memberlist-functions.php:294
+#@ userpro
+msgid "Next »"
+msgstr " » "
+
+#: functions/msg-functions.php:20
+#@ userpro
+msgid "Your profile has been saved."
+msgstr "Профиль сохранен."
+
+#: functions/msg-functions.php:24
+#@ userpro
+msgid "Thank you for registering. Please login to continue."
+msgstr ""
+
+#: functions/msg-functions.php:28
+#@ userpro
+msgid "Please login to view and manage your profile."
+msgstr ""
+
+#: functions/msg-functions.php:32
+#@ userpro
+msgid "Please login to view this user profile."
+msgstr ""
+
+#: functions/msg-functions.php:36
+#@ userpro
+msgid "We'll email you a secret key. Once you obtain the key, you can use it to Change your Password."
+msgstr "Вам на e-mail будет отправлено письмо."
+
+#: functions/msg-functions.php:40
+#@ userpro
+msgid "A secret key has been sent successfully."
+msgstr "Ключ был отправлен Вам на почту"
+
+#: functions/msg-functions.php:44
+#@ userpro
+msgid "Your password has been changed successfully. Please login."
+msgstr ""
+
+#: functions/shortcode-main.php:31
+#: functions/shortcode-private-content.php:31
+#@ userpro
+msgid "This field is required"
+msgstr "Это поле нужно заполнить"
+
+#: functions/shortcode-main.php:32
+#: functions/shortcode-private-content.php:32
+#@ userpro
+msgid "Your password is too short"
+msgstr "Пароль слишком короткий"
+
+#: functions/shortcode-main.php:33
+#: functions/shortcode-private-content.php:33
+#@ userpro
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+#: functions/shortcode-main.php:34
+#: functions/shortcode-private-content.php:34
+#@ userpro
+msgid "Password is not strong enough"
+msgstr "Пароль не достаточно надежный"
+
+#: functions/shortcode-main.php:41
+#: functions/shortcode-private-content.php:41
+#@ userpro
+msgid "Register an Account"
+msgstr "Зарегистрироваться"
+
+#: functions/shortcode-main.php:42
+#: functions/shortcode-private-content.php:42
+#@ userpro
+msgid "Already a member?"
+msgstr "Уже зарегистрированы?"
+
+#: functions/shortcode-main.php:51
+#: functions/shortcode-private-content.php:51
+#@ userpro
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: functions/shortcode-main.php:55
+#: functions/shortcode-private-content.php:55
+#@ userpro
+msgid "Create an Account"
+msgstr "Зарегистрироваться"
+
+#: functions/shortcode-main.php:59
+#: functions/shortcode-private-content.php:59
+#: templates/edit.php:84
+#: templates/view.php:78
+#: templates/viewwid.php:72
+#@ userpro
+msgid "Delete Profile"
+msgstr ""
+
+#: functions/shortcode-main.php:60
+#: functions/shortcode-private-content.php:60
+#@ userpro
+msgid "Undo, back to profile"
+msgstr ""
+
+#: functions/shortcode-main.php:63
+#: functions/shortcode-private-content.php:63
+#: templates/delete.php:23
+#@ userpro
+msgid "Confirm Deletion"
+msgstr ""
+
+#: functions/shortcode-main.php:64
+#: functions/shortcode-private-content.php:64
+#@ userpro
+msgid "Back to Profile"
+msgstr ""
+
+#: functions/shortcode-main.php:67
+#: functions/shortcode-private-content.php:67
+#@ userpro
+msgid "Reset Password"
+msgstr "Запросить ключ для сброса"
+
+#: functions/shortcode-main.php:68
+#: functions/shortcode-private-content.php:68
+#@ userpro
+msgid "Back to Login"
+msgstr "Войти"
+
+#: functions/shortcode-main.php:71
+#: functions/shortcode-private-content.php:71
+#@ userpro
+msgid "Request Secret Key"
+msgstr "Запросить ключ для сброса"
+
+#: functions/shortcode-main.php:72
+#: functions/shortcode-main.php:75
+#: functions/shortcode-private-content.php:72
+#: functions/shortcode-private-content.php:75
+#@ userpro
+msgid "Change your Password"
+msgstr "Сменить пароль"
+
+#: functions/shortcode-main.php:76
+#: functions/shortcode-private-content.php:76
+#@ userpro
+msgid "Request New Key"
+msgstr "Запросить новый ключ"
+
+#: functions/shortcode-main.php:79
+#: functions/shortcode-private-content.php:79
+#@ userpro
+msgid "Change my Password"
+msgstr "Сменить пароль"
+
+#: functions/shortcode-main.php:80
+#: functions/shortcode-private-content.php:80
+#@ userpro
+msgid "Do not have a secret key?"
+msgstr "Нет ключа?"
+
+#: functions/shortcode-main.php:83
+#: functions/shortcode-private-content.php:83
+#@ userpro
+msgid "Latest Members"
+msgstr ""
+
+#: functions/shortcode-main.php:119
+#: functions/shortcode-private-content.php:114
+#@ userpro
+msgid "An error has occured"
+msgstr ""
+
+#: functions/initial-setup.php:23
+#: functions/user-functions.php:26
+#: templates/logout.php:17
+#: updates/userpro_1.0.24.php:15
+#@ userpro
+msgid "Logout"
+msgstr "Выйти"
+
+#: addons/social/templates/activity.php:3
+#: addons/social/templates/followers.php:3
+#: addons/social/templates/following.php:3
+#: templates/card.php:3
+#: templates/change.php:3
+#: templates/delete.php:3
+#: templates/edit.php:3
+#: templates/list.php:3
+#: templates/login.php:3
+#: templates/logout.php:3
+#: templates/online.php:3
+#: templates/publish.php:3
+#: templates/register.php:3
+#: templates/registration_closed.php:3
+#: templates/request_verify.php:3
+#: templates/reset.php:3
+#: templates/view.php:3
+#: templates/viewwid.php:3
+#@ userpro
+msgid "Close"
+msgstr "Закрыть"
+
+#: addons/emd/templates/emd.php:42
+#: templates/card.php:12
+#@ userpro
+msgid "View Full Profile"
+msgstr ""
+
+#: templates/change.php:21
+#@ userpro
+msgid "Your Secret Key"
+msgstr "Ключ"
+
+#: templates/change.php:24
+#@ userpro
+msgid "You need a secret key to change your account password. Do not have one? Click <a href=\"#\" data-template=\"reset\">here</a> to obtain a new key."
+msgstr "Введите ключ, чтобы изменить пароль. Если его нет, то перейдите по <a href=\"#\" data-template=\"reset\">ссылке</a>."
+
+#: templates/delete.php:24
+#@ userpro
+msgid "No, do not delete"
+msgstr ""
+
+#: templates/delete.php:24
+#@ userpro
+msgid "Yes, delete this profile!"
+msgstr ""
+
+#: templates/delete.php:25
+#@ userpro
+msgid "This action cannot be UNDONE! It will delete all profile data."
+msgstr ""
+
+#: addons/social/functions/api.php:41
+#: addons/social/functions/api.php:51
+#: addons/social/functions/api.php:67
+#: addons/social/functions/api.php:83
+#: addons/social/functions/api.php:96
+#: addons/social/functions/api.php:114
+#: addons/social/functions/api.php:124
+#: addons/social/templates/followers.php:15
+#: addons/social/templates/followers.php:55
+#: addons/social/templates/following.php:15
+#: addons/social/templates/following.php:55
+#: templates/edit.php:15
+#: templates/edit.php:17
+#: templates/list.php:28
+#: templates/logout.php:16
+#: templates/memberlist_v2.php:51
+#: templates/online.php:32
+#: templates/online.php:55
+#@ userpro
+msgid "View Profile"
+msgstr "Посмотреть профиль"
+
+#: templates/logout.php:13
+#@ userpro
+msgid "View/manage your profile"
+msgstr ""
+
+#: templates/memberlist.php:9
+#: templates/memberlist_v2.php:9
+#@ userpro
+msgid "Search for a user..."
+msgstr "Поиск среди пользователей..."
+
+#: templates/memberlist.php:47
+#: templates/memberlist_v2.php:58
+#@ userpro
+msgid "No users match your search. Please try again."
+msgstr ""
+
+#: templates/not_authorized.php:12
+#@ userpro
+msgid "You are not authorized to access this profile."
+msgstr ""
+
+#: templates/not_found.php:12
+#@ userpro
+msgid "The user profile you are trying to reach does not exist. It could have been removed."
+msgstr ""
+
+#: templates/private.php:4
+#@ userpro
+msgid "Restricted Content / Members Only"
+msgstr "Страница для авторов"
+
+#: templates/private.php:12
+#, php-format
+#@ userpro
+msgid "You cannot view this content because It is available to members only. Please <a href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">login</a> or <a href=\"%s\">register</a> to view this area."
+msgstr "<a href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">Войдите</a> чтобы увидеть страницу."
+
+#: templates/reset.php:21
+#@ userpro
+msgid "Username or Email"
+msgstr "Имя пользователя или E-mail"
+
+#: templates/restricted.php:4
+#@ userpro
+msgid "Access Denied"
+msgstr ""
+
+#: templates/restricted.php:12
+#@ userpro
+msgid "You do not have enough permissions or role to view this private content. We apologize for that."
+msgstr ""
+
+#: admin/admin-shortcodes.php:6
+#@ userpro
+msgid "UserPro Shortcodes"
+msgstr ""
+
+#: admin/panels/settings.php:310
+#@ userpro
+msgid "Use default gravatars until users upload a custom avatar for this site"
+msgstr ""
+
+#: admin/panels/settings.php:550
+#@ userpro
+msgid "Password Settings"
+msgstr ""
+
+#: admin/panels/settings.php:554
+#@ userpro
+msgid "Allow password to be reset for Admin Accounts"
+msgstr ""
+
+#: functions/ajax.php:201
+#@ userpro
+msgid "Resetting admin password is not permitted!"
+msgstr ""
+
+#: templates/request_verify.php:6
+#@ userpro
+msgid "Your request is sent!"
+msgstr ""
+
+#: templates/request_verify.php:14
+#, php-format
+#@ userpro
+msgid "Thanks, <strong>%s</strong>! Your request to get verified has been sent to the staff. A staff member will look at your application shortly and take the appropriate action."
+msgstr ""
+
+#: templates/edit.php:80
+#: templates/view.php:74
+#: templates/viewwid.php:68
+#@ userpro
+msgid "Request Verification"
+msgstr "Стать автором"
+
+#: admin/admin-functions.php:298
+#@ userpro
+msgid "Placeholder"
+msgstr ""
+
+#: admin/admin-functions.php:313
+#@ userpro
+msgid "Drag fields / sections into this area"
+msgstr ""
+
+#: admin/admin-functions.php:553
+#@ userpro
+msgid "This existing usermeta already exists in your fields list below."
+msgstr ""
+
+#: admin/admin-functions.php:555
+#@ userpro
+msgid "This unique key already exists in your fields list below."
+msgstr ""
+
+#: admin/panels/settings.php:290
+#@ userpro
+msgid "Allow users to request verified status"
+msgstr ""
+
+#: functions/defaults.php:88
+#@ userpro
+msgid "{USERPRO_USERNAME} has just created a new account at {USERPRO_BLOGNAME}."
+msgstr ""
+
+#: functions/defaults.php:89
+#@ userpro
+msgid "You can check his profile via the following link:"
+msgstr "Посмотреть его профиль перейдя по ссылке:"
+
+#: addons/social/admin/admin.php:28
+#: admin/admin.php:33
+#@ userpro
+msgid "Page Setup"
+msgstr ""
+
+#: admin/panels/settings.php:71
+#@ userpro
+msgid "General"
+msgstr ""
+
+#: admin/panels/settings.php:162
+#@ userpro
+msgid "External Profile Pictures"
+msgstr ""
+
+#: admin/admin-functions.php:32
+#@ userpro
+msgid "Outputs all profile fields in the e-mail"
+msgstr ""
+
+#: admin/admin.php:31
+#@ userpro
+msgid "Emails & Notifications"
+msgstr ""
+
+#: admin/admin.php:159
+#, php-format
+#@ userpro
+msgid "%d new verification requests"
+msgstr ""
+
+#: admin/admin.php:161
+#, php-format
+#@ userpro
+msgid "UserPro %s"
+msgstr ""
+
+#: admin/panels/mail.php:63
+#@ userpro
+msgid "Variables you can use to build your mail templates"
+msgstr ""
+
+#: admin/panels/mail.php:64
+#@ userpro
+msgid "The variables in {CURLY BRACKETS} are used to present data and info in email. You can use them to customize your email template."
+msgstr ""
+
+#: admin/panels/mail.php:66
+#@ userpro
+msgid "Customize the New Registration e-mail sent to Admin"
+msgstr ""
+
+#: admin/panels/pages.php:35
+#@ userpro
+msgid "\"Logout\" Slug"
+msgstr ""
+
+#: admin/panels/pages.php:116
+#@ userpro
+msgid "Logout Page"
+msgstr ""
+
+#: admin/panels/settings.php:75
+#@ userpro
+msgid "Membership"
+msgstr ""
+
+#: admin/panels/settings.php:78
+#@ userpro
+msgid "Anyone can register"
+msgstr ""
+
+#: admin/panels/settings.php:79
+#@ userpro
+msgid "Disable registration"
+msgstr ""
+
+#: admin/panels/settings.php:96
+#@ userpro
+msgid "Profile Permalink Structure"
+msgstr ""
+
+#: admin/panels/settings.php:99
+#@ userpro
+msgid "User ID"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:67
+#: addons/redirects/admin/admin-functions.php:77
+#: admin/panels/settings.php:100
+#@ userpro
+msgid "Username"
+msgstr ""
+
+#: admin/panels/settings.php:101
+#@ userpro
+msgid "Full Name"
+msgstr ""
+
+#: admin/panels/settings.php:104
+#@ userpro
+msgid "User profiles permalink structure setting e.g. /profile/34 or /profile/Username or /profile/FirstName+LastName If you have a problem with permalink structure, you can try to change this setting."
+msgstr ""
+
+#: admin/panels/settings.php:194
+#@ userpro
+msgid "Plugin Default Width"
+msgstr ""
+
+#: admin/panels/settings.php:197
+#@ userpro
+msgid "A pixel or % width. If you want to make the plugin default width take 100% of its parent, just change this setting to 100% (It will take as much space as possible from the parent element). This option can be customized also via shortcode option <code>max_width</code>."
+msgstr ""
+
+#: admin/panels/settings.php:320
+#@ userpro
+msgid "Allow admins to set custom notice on user accounts"
+msgstr ""
+
+#: admin/panels/settings.php:326
+#@ userpro
+msgid "e.g. Set a custom warning to any user profile for example: This account is for test purposes only, etc."
+msgstr ""
+
+#: admin/panels/settings.php:331
+#@ userpro
+msgid "Show custom user notice to the logged-in user"
+msgstr ""
+
+#: admin/panels/settings.php:341
+#@ userpro
+msgid "Show custom user notice to the public"
+msgstr ""
+
+#: admin/panels/settings.php:527
+#@ userpro
+msgid "Logout Page Settings"
+msgstr ""
+
+#: admin/panels/settings.php:531
+#@ userpro
+msgid "After User Logout"
+msgstr ""
+
+#: admin/panels/settings.php:534
+#@ userpro
+msgid "Redirect to Homepage"
+msgstr ""
+
+#: admin/panels/settings.php:535
+#@ userpro
+msgid "Redirect to Login Page"
+msgstr ""
+
+#: admin/panels/settings.php:536
+#@ userpro
+msgid "Redirect to Custom Page (enter below)"
+msgstr ""
+
+#: admin/panels/settings.php:542
+#@ userpro
+msgid "Custom Logout Redirect"
+msgstr ""
+
+#: functions/ajax.php:550
+#@ userpro
+msgid "No custom notice is set for this account."
+msgstr ""
+
+#: functions/shortcode-main.php:151
+#: functions/shortcode-private-content.php:146
+#@ userpro
+msgid "Existing member? login"
+msgstr ""
+
+#: templates/registration_closed.php:6
+#@ userpro
+msgid "Registration Closed"
+msgstr ""
+
+#: templates/registration_closed.php:17
+#@ userpro
+msgid "Registration is currently disabled. We apologize for any inconvenience."
+msgstr ""
+
+#: admin/admin-functions.php:33
+#@ userpro
+msgid "The account validation URL that user receives after signing up (If you enable e-mail validation feature)"
+msgstr ""
+
+#: admin/panels/mail.php:76
+#@ userpro
+msgid "Customize \"Email Validation\" Mail"
+msgstr ""
+
+#: admin/panels/settings.php:85
+#@ userpro
+msgid "New User Approval"
+msgstr ""
+
+#: admin/panels/settings.php:88
+#@ userpro
+msgid "Auto Approve"
+msgstr ""
+
+#: admin/panels/settings.php:89
+#@ userpro
+msgid "Require E-mail Activation"
+msgstr ""
+
+#: functions/ajax.php:268
+#: functions/msg-functions.php:12
+#@ userpro
+msgid "Your email is pending verification. Please activate your account."
+msgstr ""
+
+#: functions/api.php:466
+#@ userpro
+msgid "Found <span>1</span> Member"
+msgstr ""
+
+#: functions/api.php:468
+#, php-format
+#@ userpro
+msgid "Found <span>%s</span> Members"
+msgstr ""
+
+#: functions/api.php:1063
+#@ userpro
+msgid "No available information"
+msgstr ""
+
+#: functions/defaults.php:56
+#@ userpro
+msgid "Thanks for signing up at {USERPRO_BLOGNAME}. You must confirm/validate your account before logging in."
+msgstr ""
+
+#: functions/defaults.php:57
+#@ userpro
+msgid "Please click on the following link to successfully activate your account:"
+msgstr ""
+
+#: functions/mail-functions.php:39
+#@ userpro
+msgid "Verify your Account"
+msgstr ""
+
+#: functions/msg-functions.php:8
+#@ userpro
+msgid "Your account has been successfully activated!"
+msgstr ""
+
+#: functions/shortcode-main.php:96
+#: functions/shortcode-private-content.php:96
+#@ userpro
+msgid "Who is online now"
+msgstr ""
+
+#: templates/memberlist_v2.php:44
+#@ userpro
+msgid "The user did not enter a description yet."
+msgstr ""
+
+#: templates/online.php:17
+#, php-format
+#@ userpro
+msgid "There are %s users online on the site."
+msgstr ""
+
+#: templates/online.php:64
+#@ userpro
+msgid "No users are online now."
+msgstr ""
+
+#: admin/admin-functions.php:219
+#: admin/admin-functions.php:261
+#@ userpro
+msgid "Registration Fields"
+msgstr ""
+
+#: admin/admin-functions.php:220
+#: admin/admin-functions.php:262
+#@ userpro
+msgid "Edit Profile Fields"
+msgstr ""
+
+#: admin/admin-functions.php:221
+#: admin/admin-functions.php:263
+#@ userpro
+msgid "Login Fields"
+msgstr ""
+
+#: admin/admin-functions.php:222
+#: admin/admin-functions.php:264
+#@ userpro
+msgid "Social Fields"
+msgstr ""
+
+#: admin/admin-functions.php:299
+#@ userpro
+msgid "Ajax Check Callback (advanced)"
+msgstr ""
+
+#: admin/admin.php:282
+#@ userpro
+msgid "You did not specify a group name."
+msgstr ""
+
+#: admin/admin.php:289
+#@ userpro
+msgid "This group exists already."
+msgstr ""
+
+#: admin/admin.php:293
+#@ userpro
+msgid "Group created."
+msgstr ""
+
+#: admin/panels/settings.php:109
+#@ userpro
+msgid "Fields to hide completely from profile view"
+msgstr ""
+
+#: admin/panels/settings.php:112
+#@ userpro
+msgid "A comma seperated list of custom fields to hide from profile view anyway."
+msgstr ""
+
+#: admin/panels/settings.php:202
+#@ userpro
+msgid "Default Skin"
+msgstr ""
+
+#: functions/ajax.php:40
+#@ userpro
+msgid "You must enter a post title."
+msgstr ""
+
+#: functions/ajax.php:44
+#@ userpro
+msgid "You must enter some content."
+msgstr ""
+
+#: functions/ajax.php:65
+#, php-format
+#@ userpro
+msgid "Your post has been published. You can view it %s."
+msgstr ""
+
+#: functions/ajax.php:72
+#@ userpro
+msgid "Your post has been sent for review. It will be checked by our staff."
+msgstr ""
+
+#: functions/custom-alerts.php:23
+#: functions/custom-alerts.php:32
+#@ userpro
+msgid "Set custom note..."
+msgstr ""
+
+#: functions/fields-setup.php:142
+#: functions/fields-setup.php:166
+#@ userpro
+msgid "Social Profiles"
+msgstr ""
+
+#: functions/msg-functions.php:4
+#@ userpro
+msgid "Please log in to publish a new post."
+msgstr ""
+
+#: functions/shortcode-main.php:164
+#: functions/shortcode-private-content.php:159
+#@ userpro
+msgid "Add a New Post"
+msgstr ""
+
+#: templates/publish.php:21
+#@ userpro
+msgid "Enter post title here..."
+msgstr ""
+
+#: templates/publish.php:27
+#@ userpro
+msgid "Post Type"
+msgstr ""
+
+#: templates/publish.php:29
+#@ userpro
+msgid "Select Categories"
+msgstr ""
+
+#: addons/emd/admin/admin.php:27
+#: addons/social/admin/admin.php:27
+#@ userpro
+msgid "Extension Settings"
+msgstr ""
+
+#: addons/emd/admin/admin.php:61
+#@ userpro
+msgid "Enhanced Member Directory"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:3
+#@ userpro
+msgid "Global Layout Settings"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:4
+#@ userpro
+msgid "All settings can be overriden using shortcode options."
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:9
+#@ userpro
+msgid "Number of results per page"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:16
+#@ userpro
+msgid "Result Column Width"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:19
+#@ userpro
+msgid "A percentage (%) or pixel value. This decides how many columns the plugin will attempt to display relative to 100% width. Example: 30% means there will be max of 3 users per column."
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:24
+#@ userpro
+msgid "Result Column Margin"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:27
+#@ userpro
+msgid "Left margin applied to the result column, which leaves a gap so that whole width is close to 100% including the column widths."
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:32
+#@ userpro
+msgid "Results Layout"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:35
+#@ userpro
+msgid "Masonry"
+msgstr ""
+
+#: addons/emd/admin/panels/settings.php:36
+#@ userpro
+msgid "Grid / Fit Columns"
+msgstr ""
+
+#: addons/emd/functions/api.php:180
+#@ userpro
+msgid "Previous"
+msgstr ""
+
+#: addons/emd/functions/api.php:181
+#@ userpro
+msgid "Next"
+msgstr ""
+
+#: addons/emd/functions/api.php:257
+#@ userpro
+msgid "No preference"
+msgstr ""
+
+#: addons/emd/functions/api.php:258
+#@ userpro
+msgid "Only members with photo"
+msgstr ""
+
+#: addons/emd/functions/api.php:259
+#@ userpro
+msgid "Only members without photo"
+msgstr ""
+
+#: addons/emd/functions/api.php:264
+#@ userpro
+msgid "All accounts"
+msgstr ""
+
+#: addons/emd/functions/api.php:265
+#@ userpro
+msgid "Only verified accounts"
+msgstr ""
+
+#: addons/emd/functions/api.php:306
+#: addons/emd/functions/api.php:336
+#@ userpro
+msgid "All"
+msgstr ""
+
+#: addons/emd/functions/api.php:355
+#, php-format
+#@ userpro
+msgid "Select %s"
+msgstr ""
+
+#: addons/emd/templates/emd.php:9
+#@ userpro
+msgid "Customize your Search"
+msgstr ""
+
+#: addons/emd/templates/emd.php:13
+#@ userpro
+msgid "Filter Search"
+msgstr ""
+
+#: addons/emd/templates/emd.php:77
+#@ userpro
+msgid "No users are matching your search criteria."
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:18
+#@ userpro
+msgid "Map All Users"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:68
+#: addons/redirects/admin/admin-functions.php:78
+#@ userpro
+msgid "Role"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:69
+#: addons/redirects/admin/admin-functions.php:79
+#@ userpro
+msgid "Custom Field"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:70
+#: addons/redirects/admin/admin-functions.php:80
+#@ userpro
+msgid "Field Value"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:71
+#: addons/redirects/admin/admin-functions.php:81
+#: addons/redirects/admin/panels/login_redirects.php:30
+#: addons/redirects/admin/panels/register_redirects.php:30
+#@ userpro
+msgid "Redirection URL"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:98
+#@ userpro
+msgid "Remove Rule"
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:113
+#@ userpro
+msgid "You did not specify a redirection URL."
+msgstr ""
+
+#: addons/redirects/admin/admin-functions.php:115
+#@ userpro
+msgid "You did not specify any custom condition (e.g. specific user) for this redirection."
+msgstr ""
+
+#: addons/redirects/admin/admin.php:27
+#@ userpro
+msgid "Login Redirects"
+msgstr ""
+
+#: addons/redirects/admin/admin.php:28
+#@ userpro
+msgid "Registration Redirects"
+msgstr ""
+
+#: addons/redirects/admin/admin.php:29
+#@ userpro
+msgid "Help"
+msgstr ""
+
+#: addons/redirects/admin/admin.php:69
+#@ userpro
+msgid "Advanced Redirection"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:3
+#: addons/redirects/admin/panels/register_redirects.php:3
+#@ userpro
+msgid "Add New Redirection Rule"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:4
+#: addons/redirects/admin/panels/register_redirects.php:4
+#@ userpro
+msgid "The top rules always have higher priority. So any new rule you add will be higher in priority and checked first in the redirection rules during login or registering (depending on where you set the redirection)."
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:5
+#: addons/redirects/admin/panels/register_redirects.php:5
+#@ userpro
+msgid "You can setup a rule for a specific role, or a specific user, or perhaps redirect all users who choose United States as country to be redirected to a custom page. This addon also supports automatic mapping. Please check the help tab for examples and help."
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:11
+#: addons/redirects/admin/panels/register_redirects.php:11
+#@ userpro
+msgid "&mdash; For a specific role &mdash;"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:16
+#: addons/redirects/admin/panels/register_redirects.php:16
+#@ userpro
+msgid "&mdash; For a user / all users &mdash;"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:21
+#: addons/redirects/admin/panels/register_redirects.php:21
+#@ userpro
+msgid "&mdash; For a custom field &mdash;"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:26
+#: addons/redirects/admin/panels/register_redirects.php:26
+#@ userpro
+msgid "If you want redirection based on specific <strong>custom field value</strong> enter the value here: (e.g. country or city) This is helpful if you wish to redirect users who have a specific city in profile, be redirected to a custom page after their login. If you wish to <strong>auto-map</strong> or redirect users automatically based on the custom field value you could use wildcards like this: <strong>{your_custom_field}</strong> in the redirection URL. The wildcard will also work on {username}"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:27
+#: addons/redirects/admin/panels/register_redirects.php:27
+#@ userpro
+msgid "Enter field value"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:31
+#: addons/redirects/admin/panels/register_redirects.php:31
+#@ userpro
+msgid "You can use wildcards for automated mapping. For example, if you enter {username} that will be replaced automatically by the username in redirection url. If you want to map a custom field <strong>country</strong> then use the wildcart {country} to map the user to his country automatically. If you use wildcards, the field value is not required."
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:32
+#: addons/redirects/admin/panels/register_redirects.php:32
+#@ userpro
+msgid "Enter redirection URL here."
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:34
+#: addons/redirects/admin/panels/register_redirects.php:34
+#@ userpro
+msgid "Submit New Rule"
+msgstr ""
+
+#: addons/redirects/admin/panels/login_redirects.php:49
+#@ userpro
+msgid "Existing Login Redirects"
+msgstr ""
+
+#: addons/redirects/admin/panels/register_redirects.php:49
+#@ userpro
+msgid "Existing Register Redirects"
+msgstr ""
+
+#: addons/social/admin/admin.php:62
+#@ userpro
+msgid "Social Extension"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:10
+#@ userpro
+msgid "\"Following\" Slug"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:15
+#@ userpro
+msgid "\"Followers\" Slug"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:26
+#@ userpro
+msgid "Check / Rebuild Extension Pages"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:27
+#@ userpro
+msgid "By default, the extension creates frontend pages automatically. However if for some reason, these pages were removed or deleted you can rebuild them here."
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:31
+#@ userpro
+msgid "Following Page"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:44
+#@ userpro
+msgid "Followers Page"
+msgstr ""
+
+#: addons/social/admin/panels/pages.php:59
+#@ userpro
+msgid "Rebuild Pages"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:3
+#@ userpro
+msgid "E-mail Notifications"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:7
+#@ userpro
+msgid "Send e-mail notification when someone follow another user"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:18
+#@ userpro
+msgid "Activity Stream"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:22
+#@ userpro
+msgid "Make public activity visible to guests"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:32
+#@ userpro
+msgid "Exclude admin activity from wall"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:42
+#@ userpro
+msgid "No. of activities per page"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:45
+#@ userpro
+msgid "The number of items in activity stream to load per page."
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:50
+#@ userpro
+msgid "Exclude these post types from activity"
+msgstr ""
+
+#: addons/social/admin/panels/settings.php:53
+#@ userpro
+msgid "A comma seperated list of post types to hide from activity."
+msgstr ""
+
+#: addons/social/functions/api.php:15
+#, php-format
+#@ userpro
+msgid "%s is now following you!"
+msgstr "%s подписался на Ваши новости!"
+
+#: addons/social/functions/api.php:17
+#, php-format
+#@ userpro
+msgid "%s is now following you on %s! You can click the following link to view his/her profile:"
+msgstr "%s подписался на Ваши новости на сайте %s! Вы можете перейти по ссылке чтобы увидеть его/её профиль:"
+
+#: addons/social/functions/api.php:19
+#@ userpro
+msgid "Or view your profile at:"
+msgstr ""
+
+#: addons/social/functions/api.php:43
+#@ userpro
+msgid "is now a verified account."
+msgstr ""
+
+#: addons/social/functions/api.php:54
+#, php-format
+#@ userpro
+msgid "has published a <a href=\"%s\">new %s</a>."
+msgstr ""
+
+#: addons/social/functions/api.php:70
+#, php-format
+#@ userpro
+msgid "has updated a <a href=\"%s\">%s</a>."
+msgstr ""
+
+#: addons/social/functions/api.php:85
+#@ userpro
+msgid "has posted a new comment on:"
+msgstr ""
+
+#: addons/social/functions/api.php:98
+#, php-format
+#@ userpro
+msgid "has started following <a href=\"%s\">%s</a>"
+msgstr "подписался на новости <a href=\"%s\">%s</a>"
+
+#: addons/social/functions/api.php:116
+#, php-format
+#@ userpro
+msgid "has stopped following <a href=\"%s\">%s</a>"
+msgstr "отписался от новостей <a href=\"%s\">%s</a>"
+
+#: addons/social/functions/api.php:126
+#@ userpro
+msgid "has just registered!"
+msgstr ""
+
+#: addons/social/functions/api.php:150
+#: addons/social/functions/api.php:170
+#@ userpro
+msgid "you"
+msgstr ""
+
+#: addons/social/functions/api.php:215
+#, php-format
+#@ userpro
+msgid "<span>%s</span> following"
+msgstr "<span>%s</span> подписан"
+
+#: addons/social/functions/api.php:239
+#, php-format
+#@ userpro
+msgid "<span>%s</span> followers"
+msgstr "<span>%s</span> подписчиков"
+
+#: addons/social/functions/api.php:291
+#: addons/social/functions/api.php:293
+#@ userpro
+msgid "Follow"
+msgstr "Подписаться"
+
+#: addons/social/functions/api.php:291
+#: addons/social/functions/api.php:293
+#@ userpro
+msgid "Unfollow"
+msgstr "Отписаться"
+
+#: addons/social/functions/api.php:291
+#: addons/social/functions/api.php:293
+#: addons/social/functions/initial-setup.php:19
+#: addons/social/functions/shortcode-main.php:6
+#@ userpro
+msgid "Following"
+msgstr "Подписан"
+
+#: addons/social/functions/initial-setup.php:33
+#: addons/social/functions/shortcode-main.php:7
+#@ userpro
+msgid "Followers"
+msgstr "Подписчиков"
+
+#: addons/social/functions/shortcode-main.php:8
+#@ userpro
+msgid "Recent Activity"
+msgstr ""
+
+#: addons/social/templates/activity.php:39
+#@ userpro
+msgid "View more activity"
+msgstr ""
+
+#: addons/social/templates/activity.php:47
+#@ userpro
+msgid "There is no recent activity from the users you follow yet."
+msgstr ""
+
+#: addons/social/templates/activity.php:49
+#@ userpro
+msgid "There is no public activity to display yet."
+msgstr ""
+
+#: addons/social/templates/followers.php:75
+#@ userpro
+msgid "You do not have anyone who started following you yet."
+msgstr "У Вас ещё нет подписчиков."
+
+#: addons/social/templates/followers.php:77
+#@ userpro
+msgid "This user does not have anyone who started following him/her yet."
+msgstr "У пользователя нет подписчиков."
+
+#: addons/social/templates/following.php:75
+#@ userpro
+msgid "You have not started following anyone yet."
+msgstr "Вы ни на кого не подписаны."
+
+#: addons/social/templates/following.php:77
+#@ userpro
+msgid "This user have not started following anyone yet."
+msgstr "Пользователь ни на кого не подписан."
+
+#: admin/admin-functions.php:303
+#@ userpro
+msgid "Upload Button Text"
+msgstr ""
+
+#: admin/admin-functions.php:304
+#@ userpro
+msgid "MailChimp List ID"
+msgstr ""
+
+#: admin/admin-functions.php:305
+#@ userpro
+msgid "MailChimp Subscribe Text"
+msgstr ""
+
+#: admin/admin-functions.php:483
+#@ userpro
+msgid "MailChimp Newsletter Subscription"
+msgstr ""
+
+#: admin/admin.php:28
+#, php-format
+#@ userpro
+msgid "%s Pending Requests"
+msgstr ""
+
+#: admin/admin.php:29
+#@ userpro
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/admin.php:212
+#, php-format
+#@ userpro
+msgid "%s files deleted."
+msgstr ""
+
+#: admin/admin.php:225
+#, php-format
+#@ userpro
+msgid "%s unused folders deleted."
+msgstr ""
+
+#: admin/admin.php:229
+#@ userpro
+msgid "Online users data is reset."
+msgstr ""
+
+#: admin/admin.php:233
+#@ userpro
+msgid "Activity stream has been reset."
+msgstr ""
+
+#: admin/admin.php:301
+#@ userpro
+msgid "WooCommerce fields have been added."
+msgstr ""
+
+#: admin/admin.php:306
+#@ userpro
+msgid "WooCommerce fields have been removed."
+msgstr ""
+
+#: admin/admin.php:315
+#@ userpro
+msgid "UserPro has been reset to factory settings. REFRESH this page twice!"
+msgstr ""
+
+#: admin/panels/fields.php:28
+#@ userpro
+msgid "Before resetting, please remove all UserPro pages from your Pages."
+msgstr ""
+
+#: admin/panels/fields.php:29
+#@ userpro
+msgid "Re-Install UserPro (Warning: This will reset all fields and settings)"
+msgstr ""
+
+#: admin/panels/mail.php:22
+#@ userpro
+msgid "Send an e-mail when user is verified"
+msgstr ""
+
+#: admin/panels/mail.php:32
+#@ userpro
+msgid "Send an e-mail when user is unverified"
+msgstr ""
+
+#: admin/panels/mail.php:116
+#@ userpro
+msgid "Customize \"Account Verified\" Mail"
+msgstr ""
+
+#: admin/panels/mail.php:126
+#@ userpro
+msgid "Customize \"Account Un-verified\" Mail"
+msgstr ""
+
+#: admin/panels/requests.php:1
+#@ userpro
+msgid "Users requesting verified status"
+msgstr ""
+
+#: admin/panels/requests.php:14
+#@ userpro
+msgid "Verify"
+msgstr ""
+
+#: admin/panels/requests.php:15
+#@ userpro
+msgid "Reject"
+msgstr ""
+
+#: admin/panels/requests.php:21
+#@ userpro
+msgid "No users are requesting verification badge."
+msgstr ""
+
+#: admin/panels/requests.php:24
+#@ userpro
+msgid "Users awaiting manual review"
+msgstr ""
+
+#: admin/panels/requests.php:45
+#@ userpro
+msgid "Approve"
+msgstr ""
+
+#: admin/panels/requests.php:46
+#: admin/panels/requests.php:83
+#@ userpro
+msgid "Delete user"
+msgstr ""
+
+#: admin/panels/requests.php:55
+#: admin/panels/requests.php:92
+#@ userpro
+msgid "No users are pending email confirmation yet."
+msgstr ""
+
+#: admin/panels/requests.php:61
+#@ userpro
+msgid "Users awaiting/have not verified e-mail"
+msgstr ""
+
+#: admin/panels/requests.php:82
+#: admin/panels/settings.php:43
+#: admin/panels/settings.php:53
+#: admin/panels/settings.php:154
+#@ userpro
+msgid "Activate"
+msgstr ""
+
+#: admin/panels/settings.php:3
+#@ userpro
+msgid "Quick Maintenance"
+msgstr ""
+
+#: admin/panels/settings.php:7
+#@ userpro
+msgid "Clear unused Junk"
+msgstr ""
+
+#: admin/panels/settings.php:9
+#@ userpro
+msgid "Clear un-used uploads"
+msgstr ""
+
+#: admin/panels/settings.php:14
+#: admin/panels/settings.php:16
+#@ userpro
+msgid "Clear deleted users stuff"
+msgstr ""
+
+#: admin/panels/settings.php:21
+#@ userpro
+msgid "Purge online users data"
+msgstr ""
+
+#: admin/panels/settings.php:23
+#@ userpro
+msgid "Reset online users"
+msgstr ""
+
+#: admin/panels/settings.php:28
+#@ userpro
+msgid "Clear activity stream"
+msgstr ""
+
+#: admin/panels/settings.php:30
+#@ userpro
+msgid "Delete all activity"
+msgstr ""
+
+#: admin/panels/settings.php:36
+#@ userpro
+msgid "Module Settings"
+msgstr ""
+
+#: admin/panels/settings.php:40
+#@ userpro
+msgid "Social Features"
+msgstr ""
+
+#: admin/panels/settings.php:44
+#: admin/panels/settings.php:54
+#@ userpro
+msgid "Deactivate"
+msgstr ""
+
+#: admin/panels/settings.php:50
+#@ userpro
+msgid "Online/Offline Status"
+msgstr ""
+
+#: admin/panels/settings.php:60
+#@ userpro
+msgid "Show Offline Icon"
+msgstr ""
+
+#: admin/panels/settings.php:90
+#@ userpro
+msgid "Require Admin Approval"
+msgstr ""
+
+#: admin/panels/settings.php:102
+#@ userpro
+msgid "Display Name"
+msgstr ""
+
+#: admin/panels/settings.php:117
+#@ userpro
+msgid "Unverify Verified accounts automatically if they change display name"
+msgstr ""
+
+#: admin/panels/settings.php:127
+#@ userpro
+msgid "Verified Badge Link"
+msgstr ""
+
+#: admin/panels/settings.php:130
+#@ userpro
+msgid "Should the verified badge link to a specific page?"
+msgstr ""
+
+#: admin/panels/settings.php:136
+#@ userpro
+msgid "Compatibility Settings"
+msgstr ""
+
+#: admin/panels/settings.php:140
+#@ userpro
+msgid "Path Compatibility"
+msgstr ""
+
+#: admin/panels/settings.php:143
+#@ userpro
+msgid "Use Relative URIs"
+msgstr ""
+
+#: admin/panels/settings.php:144
+#@ userpro
+msgid "Use Full Paths (including domain)"
+msgstr ""
+
+#: admin/panels/settings.php:146
+#: admin/panels/settings.php:157
+#@ userpro
+msgid "If you use CDN or have a problem with thumbnails, try switching this option."
+msgstr ""
+
+#: admin/panels/settings.php:151
+#@ userpro
+msgid "URL Encoding"
+msgstr ""
+
+#: admin/panels/settings.php:155
+#@ userpro
+msgid "Disable"
+msgstr ""
+
+#: admin/panels/settings.php:165
+#@ userpro
+msgid "Save them to my server"
+msgstr ""
+
+#: admin/panels/settings.php:166
+#@ userpro
+msgid "Use the external source"
+msgstr ""
+
+#: admin/panels/settings.php:168
+#@ userpro
+msgid "If your host experience some problems when saving an external picture to your uploads directory, try to use the external method."
+msgstr ""
+
+#: admin/panels/settings.php:178
+#@ userpro
+msgid "Use a Google Web Font"
+msgstr ""
+
+#: admin/panels/settings.php:181
+#@ userpro
+msgid "To use a Google Web Font for UserPro plugin, enter the font family name here."
+msgstr ""
+
+#: admin/panels/settings.php:186
+#@ userpro
+msgid "Use an installed font"
+msgstr ""
+
+#: admin/panels/settings.php:189
+#@ userpro
+msgid "To override Google font and force plugin to use theme font, or another built in font please enter font face here (e.g. Open Sans, Arial, etc)"
+msgstr ""
+
+#: admin/panels/settings.php:214
+#@ userpro
+msgid "Thumbnail Style"
+msgstr ""
+
+#: admin/panels/settings.php:217
+#@ userpro
+msgid "Default"
+msgstr ""
+
+#: admin/panels/settings.php:218
+#@ userpro
+msgid "Rounded"
+msgstr ""
+
+#: admin/panels/settings.php:219
+#@ userpro
+msgid "A bit rounded"
+msgstr ""
+
+#: admin/panels/settings.php:220
+#@ userpro
+msgid "Square"
+msgstr ""
+
+#: admin/panels/settings.php:222
+#@ userpro
+msgid "This controls the style of your profile thumbnails globally. If you let it default, these settings will be taken from your active skin."
+msgstr ""
+
+#: admin/panels/settings.php:237
+#@ userpro
+msgid "Enable Field Icons"
+msgstr ""
+
+#: admin/panels/settings.php:247
+#@ userpro
+msgid "Hide Top Bar from Non-Admins"
+msgstr ""
+
+#: admin/panels/settings.php:257
+#@ userpro
+msgid "Light Heading Option"
+msgstr ""
+
+#: admin/panels/settings.php:260
+#@ userpro
+msgid "For translation compatibility, enter you \"Light\" heading color option here."
+msgstr ""
+
+#: admin/panels/settings.php:511
+#@ userpro
+msgid "Allow Terms & Conditions Text Before Registration"
+msgstr ""
+
+#: admin/panels/settings.php:521
+#@ userpro
+msgid "Terms & Conditions Text/HTML"
+msgstr ""
+
+#: admin/panels/settings.php:588
+#@ userpro
+msgid "MailChimp Settings"
+msgstr ""
+
+#: admin/panels/settings.php:592
+#@ userpro
+msgid "MailChimp API Key"
+msgstr ""
+
+#: admin/panels/settings.php:595
+#@ userpro
+msgid "Enter your MailChimp API key here to allow integration with MailChimp subscription."
+msgstr ""
+
+#: admin/panels/settings.php:601
+#@ userpro
+msgid "Envato Settings"
+msgstr ""
+
+#: admin/panels/settings.php:605
+#@ userpro
+msgid "Envato API Key"
+msgstr ""
+
+#: admin/panels/settings.php:612
+#@ userpro
+msgid "Envato Username"
+msgstr ""
+
+#: admin/panels/woo.php:3
+#@ userpro
+msgid "Auto Sync Fields with WooCommerce"
+msgstr ""
+
+#: admin/panels/woo.php:4
+#@ userpro
+msgid "Click on the next button to automatically add WooCommerce profile fields to UserPro fields and make users manage their WooCommerce profile data from one place, their UserPro profile!"
+msgstr ""
+
+#: admin/panels/woo.php:10
+#@ userpro
+msgid "Rebuild WooCommerce Sync"
+msgstr ""
+
+#: admin/panels/woo.php:11
+#@ userpro
+msgid "Remove WooCommerce Sync"
+msgstr ""
+
+#: admin/panels/woo.php:15
+#@ userpro
+msgid "Start WooCommerce Sync"
+msgstr ""
+
+#: functions/ajax.php:270
+#: functions/msg-functions.php:16
+#@ userpro
+msgid "Your account is currently being reviewed. Thanks for your patience."
+msgstr ""
+
+#: functions/ajax.php:468
+#@ userpro
+msgid "Invalid purchase code or Envato API is down."
+msgstr ""
+
+#: functions/ajax.php:476
+#@ userpro
+msgid "The display name is already in use."
+msgstr ""
+
+#: functions/ajax.php:484
+#@ userpro
+msgid "Illegal characters are not allowed in username."
+msgstr ""
+
+#: functions/badge-functions.php:67
+#@ userpro
+msgid "User is online :)"
+msgstr ""
+
+#: functions/badge-functions.php:71
+#@ userpro
+msgid "User is offline :("
+msgstr ""
+
+#: functions/badge-functions.php:87
+#@ userpro
+msgid "Verified Customer"
+msgstr ""
+
+#: functions/defaults.php:78
+#@ userpro
+msgid "Your account is now verified at {USERPRO_BLOGNAME}."
+msgstr ""
+
+#: functions/defaults.php:83
+#@ userpro
+msgid "We apologize. Your account is no longer verified at {USERPRO_BLOGNAME}."
+msgstr ""
+
+#: functions/defaults.php:169
+#@ userpro
+msgid "To complete registration, you must read and agree to our <a href=\"#\">terms and conditions</a>. This text can be custom."
+msgstr ""
+
+#: functions/fields-functions.php:206
+#@ userpro
+msgid "No featured image was set."
+msgstr ""
+
+#: functions/fields-functions.php:208
+#@ userpro
+msgid "Set Featured Image"
+msgstr ""
+
+#: functions/fields-functions.php:457
+#, php-format
+#@ userpro
+msgid "Answer: %s + %s"
+msgstr "Сколько будет: %s + %s?"
+
+#: functions/fields-functions.php:590
+#@ userpro
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: functions/fields-functions.php:596
+#@ userpro
+msgid "You are currently subscribed to this newsletter."
+msgstr ""
+
+#: functions/fields-functions.php:599
+#@ userpro
+msgid "Unsubscribe from this newsletter"
+msgstr ""
+
+#: functions/fields-hooks.php:12
+#, php-format
+#@ userpro
+msgid "<strong>Warning!</strong> Your account is %s verified. If you change your display name, <em>you will lose your verification status.</em>"
+msgstr ""
+
+#: functions/global-actions.php:24
+#@ userpro
+msgid "Incorrect answer. please try again."
+msgstr ""
+
+#: functions/mail-functions.php:66
+#@ userpro
+msgid "Your account is now verified!"
+msgstr ""
+
+#: functions/mail-functions.php:75
+#@ userpro
+msgid "Your account is no longer verified!"
+msgstr ""
+
+#: functions/terms-agreement.php:14
+#@ userpro
+msgid "You must accept our terms and conditions"
+msgstr ""
+
+#: templates/memberlist_v2.php:13
+#@ userpro
+msgid "Search"
+msgstr ""
+
+#: templates/memberlist_v2.php:15
+#@ userpro
+msgid "Clear your Search"
+msgstr ""
+

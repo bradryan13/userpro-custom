@@ -1,0 +1,1765 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-08 20:00+0200\n"
+"PO-Revision-Date: 2013-12-10 15:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __ngettext:1,2;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-functions.php:8
+msgid ""
+"Displays the admin email that users can contact you at. You can configure it "
+"under Mail settings."
+msgstr ""
+"Kullanıcıların size ulaşabileceği yönetici e-postası görüntüler. Posta "
+"ayarlarını yapılandırabilirsiniz."
+
+#: admin/admin-functions.php:9
+msgid "Displays blog name"
+msgstr "Blog adını görüntüler"
+
+#: admin/admin-functions.php:10
+msgid "Displays the UserPro login page"
+msgstr "Giriş sayfasını görüntüler"
+
+#: admin/admin-functions.php:11
+msgid "Displays the Username of user"
+msgstr "Üyenin Kullanıcı Adını görüntüler"
+
+#: admin/admin-functions.php:12
+msgid "Displays the E-mail address of user"
+msgstr "Üyenin e-posta adresini görüntüler"
+
+#: admin/admin-functions.php:13
+msgid "Displays the User Profile address"
+msgstr "Kullanıcı Üye Bilgileri adresini görüntüler"
+
+#: admin/admin-functions.php:14
+msgid "Outputs all profile fields in the e-mail"
+msgstr "Üyenin bütün üye bilgileri alanlarını e-postada dışarı çıkartır"
+
+#: admin/admin-functions.php:15
+msgid ""
+"The account validation URL that user receives after signing up (If you "
+"enable e-mail validation feature)"
+msgstr ""
+"Üye kayıt olduktan sonra aldığı üyeliği aktif hale getirme linki (Eğer e-"
+"posta ile aktifleştirme seçeneği kullanılıyorsa)"
+
+#: admin/admin-functions.php:19
+msgid "Custom Variable 1"
+msgstr "Özel Değişken 1"
+
+#: admin/admin-functions.php:32
+#, php-format
+msgid "%s fields available"
+msgstr "%s alan kullanılabilir"
+
+#: admin/admin-functions.php:65
+msgid "Edit Field"
+msgstr "Alanı Düzenle"
+
+#: admin/admin-functions.php:67
+msgid "Delete Field"
+msgstr "Alanı Sil"
+
+#: admin/admin-functions.php:192 admin/admin-functions.php:234
+msgid "Registration Fields"
+msgstr "Kayıt Alanları"
+
+#: admin/admin-functions.php:193 admin/admin-functions.php:235
+msgid "Edit Profile Fields"
+msgstr "Üye Bilgileri Düzenleme Alanları"
+
+#: admin/admin-functions.php:194 admin/admin-functions.php:236
+msgid "Login Fields"
+msgstr "Giriş Alanları"
+
+#: admin/admin-functions.php:195 admin/admin-functions.php:237
+msgid "Social Fields"
+msgstr "Sosyal Ağ Alanları"
+
+#: admin/admin-functions.php:214 admin/admin-functions.php:248
+#: admin/panels/pages.php:55 admin/panels/pages.php:68
+#: admin/panels/pages.php:81 admin/panels/pages.php:94
+#: admin/panels/pages.php:107 admin/panels/pages.php:120
+msgid "View Page"
+msgstr "Sayfayı Gör"
+
+#: admin/admin-functions.php:216 admin/admin-functions.php:251
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: admin/admin-functions.php:217 admin/admin-functions.php:252
+#: functions/custom-alerts.php:24 functions/custom-alerts.php:33
+msgid "Save"
+msgstr "Kaydet"
+
+#: admin/admin-functions.php:269
+msgid "Label"
+msgstr "Etiket"
+
+#: admin/admin-functions.php:270 admin/panels/fields.php:104
+msgid "Help Text"
+msgstr "Yardım Metni"
+
+#: admin/admin-functions.php:271
+msgid "Placeholder"
+msgstr "Yer Tutucu"
+
+#: admin/admin-functions.php:272
+msgid "Ajax Check Callback (advanced)"
+msgstr "Ajax Kontrol Referansı (gelişmiş)"
+
+#: admin/admin-functions.php:273
+msgid "Heading Text"
+msgstr "Başlık Metni"
+
+#: admin/admin-functions.php:274
+msgid "Collapsible Section"
+msgstr "Açılıp Kapanabilir Bölüm"
+
+#: admin/admin-functions.php:275
+msgid "Collapsed"
+msgstr "Daraltılmış"
+
+#: admin/admin-functions.php:283
+msgid "Drag fields / sections into this area"
+msgstr "Alanları / Bölmeleri buraya sürükleyin"
+
+#: admin/admin-functions.php:304 admin/admin-functions.php:397
+#: admin/panels/mail.php:25 admin/panels/mail.php:35
+#: admin/panels/settings.php:101 admin/panels/settings.php:111
+#: admin/panels/settings.php:121 admin/panels/settings.php:131
+#: admin/panels/settings.php:141 admin/panels/settings.php:151
+#: admin/panels/settings.php:162 admin/panels/settings.php:172
+#: admin/panels/settings.php:242 admin/panels/settings.php:263
+#: admin/panels/settings.php:278 admin/panels/settings.php:288
+#: admin/panels/settings.php:370 admin/panels/settings.php:393
+#: admin/panels/settings.php:424 admin/panels/settings.php:434
+msgid "Yes"
+msgstr "Evet"
+
+#: admin/admin-functions.php:305 admin/admin-functions.php:398
+#: admin/panels/mail.php:26 admin/panels/mail.php:36
+#: admin/panels/settings.php:102 admin/panels/settings.php:112
+#: admin/panels/settings.php:122 admin/panels/settings.php:132
+#: admin/panels/settings.php:142 admin/panels/settings.php:152
+#: admin/panels/settings.php:163 admin/panels/settings.php:173
+#: admin/panels/settings.php:243 admin/panels/settings.php:264
+#: admin/panels/settings.php:279 admin/panels/settings.php:289
+#: admin/panels/settings.php:371 admin/panels/settings.php:394
+#: admin/panels/settings.php:425 admin/panels/settings.php:435
+msgid "No"
+msgstr "Hayır"
+
+#: admin/admin-functions.php:380
+msgid "Add Seperator / Section"
+msgstr "Ayırıcı / Bölüm Ekle"
+
+#: admin/admin-functions.php:383
+msgid "My Custom Heading"
+msgstr "Özel Başlığım"
+
+#: admin/admin-functions.php:433
+msgid "Broken page. Please rebuild plugin pages."
+msgstr "Bozuk sayfa. Lütfen eklenti sayfalarınıı yeniden yapılandırın."
+
+#: admin/admin-functions.php:439
+msgid "Text Input"
+msgstr "Metin Girişi"
+
+#: admin/admin-functions.php:440
+msgid "Photo Upload"
+msgstr "Resim Yükle"
+
+#: admin/admin-functions.php:441
+msgid "File Upload"
+msgstr "Dosya Yükle"
+
+#: admin/admin-functions.php:442
+msgid "Textarea"
+msgstr "Uzun Metin Alanı"
+
+#: admin/admin-functions.php:443
+msgid "Select Dropdown"
+msgstr "Açılır Liste Seç"
+
+#: admin/admin-functions.php:444
+msgid "Multiselect Box"
+msgstr "Çoklu Seçim Kutusu"
+
+#: admin/admin-functions.php:445
+msgid "Checkbox (floating)"
+msgstr "Onay Kutusu (gezer)"
+
+#: admin/admin-functions.php:446
+msgid "Checkbox (full width)"
+msgstr "Onay Kutusu (tam geniş)"
+
+#: admin/admin-functions.php:447
+msgid "Radio Choice (floating)"
+msgstr "Radyo Düğmesi (gezer)"
+
+#: admin/admin-functions.php:448
+msgid "Radio Choice (full width)"
+msgstr "Radyo Düğmesi (tam geniş)"
+
+#: admin/admin-functions.php:449
+msgid "Password Field"
+msgstr "Şifre Alanı"
+
+#: admin/admin-functions.php:450
+msgid "Password Strength Meter"
+msgstr "Şifre Göstergesi"
+
+#: admin/admin-functions.php:504
+msgid "Each field must have a title."
+msgstr "Her alanın bir başlığı olmalıdır."
+
+#: admin/admin-functions.php:506
+msgid "Please enter a unique key or choose an existing usermeta."
+msgstr ""
+"Lütfen benzersiz bir anahtar girin veya varolan kullanıcı metasını seçin."
+
+#: admin/admin-functions.php:518
+msgid "This existing usermeta already exists in your fields list below."
+msgstr "Mevcut üye metası aşağıdaki alan listenizde zaten var."
+
+#: admin/admin-functions.php:520
+msgid "This unique key already exists in your fields list below."
+msgstr "Bu benzersiz anahtar aşağıdaki alan listenizde zaten var."
+
+#: admin/admin-users.php:6
+msgid "Verified"
+msgstr "Doğrulanmış"
+
+#: admin/admin.php:26
+msgid "Customize Fields"
+msgstr "Alanları Özelleştir"
+
+#: admin/admin.php:27
+msgid "Global Options"
+msgstr "Genel Seçenekler"
+
+#: admin/admin.php:28
+msgid "Restrict Content"
+msgstr "İçerik Kısıtlama"
+
+#: admin/admin.php:29
+msgid "Role-based Fields"
+msgstr "Üyelik Tipi Bazlı Alanlar"
+
+#: admin/admin.php:30
+msgid "Emails & Notifications"
+msgstr "E-Posta & Bildirimler"
+
+#: admin/admin.php:31
+msgid "Page Setup"
+msgstr "Sayfa Ayarları"
+
+#: admin/admin.php:32
+#, php-format
+msgid "%s Pending Verification"
+msgstr "% s Bekleyen Doğrulama"
+
+#: admin/admin.php:104
+#, php-format
+msgid "%d new verification requests"
+msgstr ""
+
+#: admin/admin.php:106
+#, php-format
+msgid "UserPro %s"
+msgstr ""
+
+#: admin/admin.php:108 admin/admin.php:111
+msgid "UserPro"
+msgstr ""
+
+#: admin/admin.php:173
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+#: admin/admin.php:179
+msgid "Settings are reset to default."
+msgstr "Ayarlar varsayılana sıfırlandı."
+
+#: admin/admin.php:184
+msgid "Your plugin pages have been rebuilt successfully."
+msgstr "Eklenti sayfalarınız başarıyla yeniden oluşturuldu."
+
+#: admin/admin.php:191
+msgid "You did not specify a group name."
+msgstr ""
+
+#: admin/admin.php:198
+msgid "This group exists already."
+msgstr "Bu grup zaten mevcut."
+
+#: admin/admin.php:202
+msgid "Group created."
+msgstr "Grup oluşturuldu."
+
+#: admin/panels/fieldroles.php:3
+msgid ""
+"Here you can set fields to be available for certain role(s) only. For "
+"example, If you wish to make a set of fields not visible to Subscriber role, "
+"or want to make other fields available only to a Customer role. This does "
+"the job for you."
+msgstr ""
+"Burada belirli üyelik tipi/leri için alanlar oluşturabilirsiniz. Örneğin, "
+"üyelik tipi \"Abone\" için alan kümesini görünmez yapmak isterseniz veya "
+"sadece \"özel\" üyelik tipine diğer alanları geçerli kılmak isterseniz bu "
+"sizin işinizi yapar."
+
+#: admin/panels/fieldroles.php:28 admin/panels/mail.php:97
+#: admin/panels/pages.php:42 admin/panels/restrict.php:76
+#: admin/panels/settings.php:443 functions/shortcode-main.php:104
+#: functions/shortcode-private-content.php:84
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: admin/panels/fieldroles.php:29 admin/panels/mail.php:98
+#: admin/panels/pages.php:43 admin/panels/restrict.php:77
+#: admin/panels/settings.php:444
+msgid "Reset Options"
+msgstr "Ayarları Sıfırla"
+
+#: admin/panels/fields.php:6
+msgid "How to edit the field settings?"
+msgstr "Alan ayarları nasıl düzenlenir?"
+
+#: admin/panels/fields.php:7
+msgid ""
+"This plugin uses small icons for quick ajax editing for a field. Each icon "
+"means something, this little guide will show you how to control each field "
+"quickly and instantly."
+msgstr ""
+"Bu eklenti küçük ikonlar kulanarak alanlar için hızlı ajax düzenlemeleri "
+"yapar. Her bir ikon bir anlama gelir, bu küçük klavuz size her alanın nasıl "
+"anında ve hızlıca kullanılacağını gösterir"
+
+#: admin/panels/fields.php:8
+msgid ""
+"A transparent icon means the setting is turned off. A full-color icon means "
+"the setting is turned on. Click on any icon to switch the state of it on and "
+"off."
+msgstr ""
+"Şeffaf ikon ayarın kapalı olduğunu ifade eder. Tam renkli ikon ayarın açık "
+"olduğunu ifade eder. İkonun kapalı açık durumunu değiştirmek için tıklanması "
+"yeterlidir."
+
+#: admin/panels/fields.php:11
+msgid "This removes the field from a selected group"
+msgstr "Bu eylem alanı seçili gruptan kaldırır"
+
+#: admin/panels/fields.php:12
+msgid "Click that icon to edit field label and help text or other misc options"
+msgstr "Alan etiketi yardım metni ve diğer düzenlemeler için bu ikonu tıklayın"
+
+#: admin/panels/fields.php:13
+msgid "Make a field hideable from public by user"
+msgstr "Bu alanı üyelerin gizleyebileceği hale getir"
+
+#: admin/panels/fields.php:14
+msgid "Make a field hidden from public by default if field is hideable"
+msgstr "Alan eğer gizlenebiliyorsa, varsayılan olarak tüm üyelerden sakla"
+
+#: admin/panels/fields.php:15
+msgid ""
+"Lock a field so that user cannot edit, but admins can still edit all fields"
+msgstr ""
+"Alanı üyenin düzenleyememesi için kilitleyin, fakat yöneticiler tüm alanları "
+"hala düzenleyebilir."
+
+#: admin/panels/fields.php:16
+msgid ""
+"Make a field private so that users cannot view or edit it, but admins will "
+"be able to view it"
+msgstr ""
+"Üyelerin görememesi ve düzenleyememesi için alanı özel yapar, fakat "
+"yöneticiler tüm alanları hala görebilir."
+
+#: admin/panels/fields.php:17
+msgid "Make a field required"
+msgstr "Bu alanı zorunlu hale getir"
+
+#: admin/panels/fields.php:18
+msgid "Allow HTML in a field. e.g. If the field is textarea"
+msgstr "Eğer alan metin alanı ise HTML girişine izin ver"
+
+#: admin/panels/fields.php:29
+msgid "Groups & Fields"
+msgstr "Gruplar & Alanlar"
+
+#: admin/panels/fields.php:29
+msgid "Reset All Groups"
+msgstr "Tüm Grupları Sıfırla"
+
+#: admin/panels/fields.php:54
+msgid "Drag & Drop your fields into Forms"
+msgstr "Alanları formlara sürükleyin & bırakın"
+
+#: admin/panels/fields.php:55
+msgid ""
+"Each field presents a bit of data or a meta key about the user. This allow "
+"you to drag any field to any form you want but be careful, not every field "
+"is suitable for any form. e.g. It makes no sense to add Country to your "
+"login shortcode."
+msgstr ""
+"Her bir alan kullanıcı hakkında bir meta anahtarı veya veriler sunar. Bu "
+"herhangi bir forma alanları sürüklemenizi sağlar ama dikkatli olun, her alan "
+"her form için uygun değildir. Örneğin, ülke alanını giriş formuna yazmak bir "
+"anlam taşımaz."
+
+#: admin/panels/fields.php:60
+msgid "Add New Field / Add or Sync Existing Data"
+msgstr "Yeni Alan Ekle / Mevcut Veriyi Ekle yada Eşleştir"
+
+#: admin/panels/fields.php:61
+msgid ""
+"You can add any field to your forms such as City, Address, or anything else "
+"by clicking on <strong>Add New Field</strong> The plugin will automatically "
+"sync/recognize any meta key stored in your user database, so you could "
+"display the value of any existing meta data."
+msgstr ""
+"Formlarınıza şehir, adres veya herhangi bir alanı <strong>Yeni Alan Ekle</"
+"strong> düğmesine tıklayarak ekleyebilirsiniz. Bu eklenti üye tablosunda "
+"bulunan meta anahtarını otomatik olarak tanır veya uyarlar, ve böylece "
+"varolan herhangi bir veriyi görüntüleyebilirsiniz."
+
+#: admin/panels/fields.php:62
+msgid "Add New Field"
+msgstr "Yeni Alan Ekle"
+
+#: admin/panels/fields.php:71
+msgid "Field Title"
+msgstr "Alan Başlığı"
+
+#: admin/panels/fields.php:73
+msgid ""
+"Enter title for this data. example: City, How did you hear about us, "
+"Twitter, Personal Website, etc."
+msgstr ""
+"Bu veri için bir başlık girin. Örneğin: Şehir, Bizi nasıl duydunuz, Twitter, "
+"Kişisel Web Sitesi vs."
+
+#: admin/panels/fields.php:77
+msgid "Field Type"
+msgstr "Alan Tipi"
+
+#: admin/panels/fields.php:79
+msgid ""
+"The type of field or how a user is going to enter this data (via text, "
+"selecting a choice from dropdown, etc)"
+msgstr ""
+"Alanın türü veya üyenin veriyi nasıl gireceği (Metin, açılır kutu "
+"seçenekleri vs.)"
+
+#: admin/panels/fields.php:83
+msgid "Allowed file extensions"
+msgstr "İzin verilen dosya uzantıları"
+
+#: admin/panels/fields.php:85
+msgid ""
+"A comma seperated list of allowed file types. If blank, default will be to "
+"zip, pdf, txt."
+msgstr ""
+"İzin verilen dosya uzantılarının virgülle ayrılmış listesi. Eğer boşsa "
+"varsayılan zip, pdf, txt dosya uzantılarıdır."
+
+#: admin/panels/fields.php:89
+msgid "Builtin Choice List"
+msgstr "Gömülü Seçenek Listesi"
+
+#: admin/panels/fields.php:92
+msgid "Countries List"
+msgstr "Ülke Listesi"
+
+#: admin/panels/fields.php:93
+msgid "Roles"
+msgstr "Üyelik Tipleri"
+
+#: admin/panels/fields.php:94
+msgid "You can also enter choices for this field manually below."
+msgstr "Bu alan için seçenekleri elle de girebilirsiniz."
+
+#: admin/panels/fields.php:98
+msgid "Manual Choices / Options"
+msgstr "Elle Girilen Seçimler / Ayarlar"
+
+#: admin/panels/fields.php:100
+msgid "Please enter one choice per line!"
+msgstr "Lütfen her satır için bir seçenek girin!"
+
+#: admin/panels/fields.php:106
+msgid ""
+"Help text will be displayed below field to guide users what to put in that "
+"field or show any relevant info."
+msgstr ""
+"Alana ait yardım metinlerini girerek kullanıcıları yönlendirebilir, bilgi "
+"verebilirsiniz. "
+
+#: admin/panels/fields.php:110
+msgid "Custom Placeholder"
+msgstr "Özel Yer Tutucu"
+
+#: admin/panels/fields.php:116
+msgid "Setting up the user meta key"
+msgstr "Üye meta alanı oluştur"
+
+#: admin/panels/fields.php:119
+msgid "Unique Field Key"
+msgstr "Benzersiz Alan Anahtarı"
+
+#: admin/panels/fields.php:121
+msgid ""
+"Your field key must be unique for each field. It must be letters only with "
+"only underscore allowd between them."
+msgstr ""
+"Alan anahtarı her alan için benzersiz olmalıdır. Sadece harfler ve alt çizgi "
+"olmalıdır."
+
+#: admin/panels/fields.php:124
+msgid "Or select/sync an existing meta field key"
+msgstr "Veya var olan meta alan anahtarını seç/eşleştir"
+
+#: admin/panels/fields.php:126
+msgid ""
+"You can sync or use user meta from any other plugin directly and integrate "
+"it with UserPro. Unique key is not needed If you sync with existing field."
+msgstr ""
+"Herhangi başka bir eklentiden gelen metasını ile doğrudan uyarlayabilir veya "
+"kullanabilirsiniz, ayrıca bunu UserPro ile entegre edebilirsiniz.  Mevcut "
+"alan ile eşleştirirseniz benzersiz alan anahtarı gerekmez."
+
+#: admin/panels/fields.php:131 functions/shortcode-main.php:160
+msgid "Publish"
+msgstr "Yayınla"
+
+#: admin/panels/fields.php:132
+msgid "Cancel"
+msgstr "İptal"
+
+#: admin/panels/fields.php:145
+msgid "Restore Default Fields"
+msgstr "Varsayılan Alanlara Geri Dön"
+
+#: admin/panels/mail.php:3
+msgid "Outgoing Mail Settings"
+msgstr "Giden Posta Ayarları"
+
+#: admin/panels/mail.php:7
+msgid "The name that appears on mails sent by UserPro"
+msgstr "UserPro tarafından gönderilen e-postalarda görünen ad"
+
+#: admin/panels/mail.php:12
+msgid "The address that appears on mails sent by UserPro"
+msgstr ""
+
+#: admin/panels/mail.php:18
+msgid "Email Notifications"
+msgstr "Posta Bildirimleri"
+
+#: admin/panels/mail.php:22
+msgid "Send admin an e-mail when user updates profile"
+msgstr "Üye bilgilerini güncellediğinde yöneticiye e-posta gönder"
+
+#: admin/panels/mail.php:32
+msgid "Send admin an e-mail when profile gets removed"
+msgstr "Üye bilgilerini kaldırdığında yöneticiye e-posta gönder"
+
+#: admin/panels/mail.php:43
+msgid "Variables you can use to build your mail templates"
+msgstr "E-Posta şablonlarını olşturmak için kullanabileceğiniz değişkenler"
+
+#: admin/panels/mail.php:44
+msgid ""
+"The variables in {CURLY BRACKETS} are used to present data and info in "
+"email. You can use them to customize your email template."
+msgstr ""
+"{CURLY BRACKETS} Küme parantezi arasındaki değişkenler e-postadaki veri ve "
+"bilgileri sunmak için kullanılır. Siz bunları e-posta şablonlarını "
+"özelleştirmek için kullanabilirsiniz."
+
+#: admin/panels/mail.php:46
+msgid "Customize the New Registration e-mail sent to Admin"
+msgstr "Yöneticiye gelen Yeni Üyelik Kaydı e-postalarını özelleştir"
+
+#: admin/panels/mail.php:50 admin/panels/mail.php:60 admin/panels/mail.php:70
+#: admin/panels/mail.php:80 admin/panels/mail.php:90
+msgid "Email Content"
+msgstr "E-posta İçeriği"
+
+#: admin/panels/mail.php:56
+msgid "Customize \"Email Validation\" Mail"
+msgstr "\"E-Posta Doğrulama\" Postasını Özelleştirme"
+
+#: admin/panels/mail.php:66
+msgid "Customize \"New Account/Welcome\" Mail"
+msgstr "\"Yeni Üyelik/Hoşgeldin\" Postasını Özelleştirme"
+
+#: admin/panels/mail.php:76
+msgid "Customize \"Reset Password\" Mail"
+msgstr "\"Şifre Sıfırlama\" Postasını Özelleştirme"
+
+#: admin/panels/mail.php:86
+msgid "Customize \"Account Removal\" Mail"
+msgstr "\"Üyelik Silme\" Postasını Özelleştirme"
+
+#: admin/panels/pages.php:3
+msgid ""
+"You must update your permalinks or Save Changes on your permalinks setup for "
+"the nice URLs to work fine."
+msgstr ""
+"URL lerin iyi çalışması için kalıcı bağlantıları güncellemeniz veya "
+"ayarlarını kaydetmeniz gerekir."
+
+#: admin/panels/pages.php:5
+msgid "Manage Page Slugs"
+msgstr "Kalıcı Bağlantı Sayfalarını Yönet"
+
+#: admin/panels/pages.php:6
+msgid ""
+"For a better multi-language experience, UserPro allow you to edit the slugs "
+"of the official registration/profile pages here. You must rebuild pages If "
+"you changed your slugs for the new slugs to take effect."
+msgstr ""
+
+#: admin/panels/pages.php:10
+msgid "\"Profile\" Slug"
+msgstr "\"Üye Bilgileri\" Kalıcı Bağlantısı"
+
+#: admin/panels/pages.php:15
+msgid "\"Register\" Slug"
+msgstr "\"Kaydol\" Kalıcı Bağlantısı"
+
+#: admin/panels/pages.php:20
+msgid "\"Edit Profile\" Slug"
+msgstr "\"Üye Bilgileri Düzenleme\" Kalıcı Bağlantısı"
+
+#: admin/panels/pages.php:25
+msgid "\"Login\" Slug"
+msgstr "\"Giriş\" Kalıcı Bağlantısı"
+
+#: admin/panels/pages.php:30
+msgid "\"Member Directory\" Slug"
+msgstr "\"Üyeler\" Kalıcı Bağlantısı"
+
+#: admin/panels/pages.php:35
+msgid "\"Logout\" Slug"
+msgstr "\"Çıkış\" Kalıcı Bağlantısı"
+
+#: admin/panels/pages.php:46
+msgid "Check / Rebuild Profile Pages"
+msgstr "Üye Bilgileri Sayfalarını Kontrol Et / Yeniden Yapılandır"
+
+#: admin/panels/pages.php:47
+msgid ""
+"By default, UserPro creates profile pages and front-end registration/login "
+"pages automatically. However if for some reason, these pages were removed or "
+"deleted you can rebuild them here."
+msgstr ""
+
+#: admin/panels/pages.php:51
+msgid "Profile Page"
+msgstr "Üye Bilgileri Sayfası"
+
+#: admin/panels/pages.php:64
+msgid "Registration Page"
+msgstr "Kayıt Sayfası"
+
+#: admin/panels/pages.php:77
+msgid "Edit Profile Page"
+msgstr "Üye Bilgileri Düzenleme Sayfası"
+
+#: admin/panels/pages.php:90
+msgid "Login Page"
+msgstr "Giriş Sayfası"
+
+#: admin/panels/pages.php:103
+msgid "Member Directory Page"
+msgstr "Üyeler Sayfası"
+
+#: admin/panels/pages.php:116
+msgid "Logout Page"
+msgstr "Çıkış Sayfası"
+
+#: admin/panels/pages.php:131
+msgid "Rebuild UserPro Pages"
+msgstr "UserPro Sayfalarını Yeniden Yapılandır"
+
+#: admin/panels/restrict.php:3
+msgid ""
+"Mass restrict pages by allowing access to members only for full-content. "
+"Unlike the UserPro shortcode which hides the content you specify only. This "
+"will lock all content page until the user is logged in. You can also bulk "
+"block/allow any pages you want."
+msgstr ""
+
+#: admin/panels/restrict.php:8
+msgid "Make Restricted Pages accessible to"
+msgstr "Kısıtlanmış sayfalara ulaşabilenler"
+
+#: admin/panels/restrict.php:11
+msgid "Only Verified Members"
+msgstr "Sadece Onaylı Üyeler"
+
+#: admin/panels/restrict.php:12
+msgid "All Registered Members"
+msgstr "Tüm Kayıtlı Üyeler"
+
+#: admin/panels/restrict.php:18
+msgid "Choose one or more pages to restrict"
+msgstr "Bir veya daha fazla sayfayı kısıtlayın"
+
+#: admin/panels/settings.php:3
+msgid "General"
+msgstr "Genel"
+
+#: admin/panels/settings.php:7
+msgid "Membership"
+msgstr "Üyeler"
+
+#: admin/panels/settings.php:10
+msgid "Anyone can register"
+msgstr ""
+
+#: admin/panels/settings.php:11
+msgid "Disable registration"
+msgstr "Üye Kaydı Pasif"
+
+#: admin/panels/settings.php:17
+msgid "New User Approval"
+msgstr "Yeni Üye Onayı"
+
+#: admin/panels/settings.php:20
+msgid "Auto Approve"
+msgstr "Otomatik Onay"
+
+#: admin/panels/settings.php:21
+msgid "Require E-mail Activation"
+msgstr ""
+
+#: admin/panels/settings.php:27
+msgid "Profile Permalink Structure"
+msgstr "Üye Bilgileri Kalıcı Bağlantı Yapısı"
+
+#: admin/panels/settings.php:30
+msgid "User ID"
+msgstr "Kullanıcı NO"
+
+#: admin/panels/settings.php:31
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: admin/panels/settings.php:32
+msgid "Full Name"
+msgstr ""
+
+#: admin/panels/settings.php:34
+msgid ""
+"User profiles permalink structure setting e.g. /profile/34 or /profile/"
+"Username or /profile/FirstName+LastName If you have a problem with permalink "
+"structure, you can try to change this setting."
+msgstr ""
+
+#: admin/panels/settings.php:39
+msgid "External Profile Pictures"
+msgstr "Harici Resimler"
+
+#: admin/panels/settings.php:42
+msgid "Save the picture internally"
+msgstr "Resimleri dahili olarak kaydet"
+
+#: admin/panels/settings.php:43
+msgid "Use External Image"
+msgstr "Harici Resimleri Kullan"
+
+#: admin/panels/settings.php:45
+msgid ""
+"If your host experience some problems when saving an external picture, try "
+"to use the external method."
+msgstr ""
+"Harici resimleri kaydederken hostunuzda problem yaşanırsa, harici metodu "
+"kullanmayı deneyin."
+
+#: admin/panels/settings.php:50
+msgid "Fields to hide completely from profile view"
+msgstr "Üye Bilgileri görünümünden tamamen gizlenen alanlar"
+
+#: admin/panels/settings.php:53
+msgid ""
+"A comma seperated list of custom fields to hide from profile view anyway."
+msgstr ""
+
+#: admin/panels/settings.php:59
+msgid "Appearance and Look"
+msgstr "Görünüm ve Bakış"
+
+#: admin/panels/settings.php:63
+msgid "Plugin Default Width"
+msgstr "Eklenti Varsayılan Genişliği"
+
+#: admin/panels/settings.php:66
+msgid ""
+"A pixel or % width. If you want to make the plugin default width take 100% "
+"of its parent, just change this setting to 100% (It will take as much space "
+"as possible from the parent element). This option can be customized also via "
+"shortcode option <code>max_width</code>."
+msgstr ""
+
+#: admin/panels/settings.php:71
+msgid "Default Skin"
+msgstr "Varsayılan Stil"
+
+#: admin/panels/settings.php:83
+msgid "Fields Layout"
+msgstr "Alan Yerleşimi"
+
+#: admin/panels/settings.php:86
+msgid "Float (field label on same line)"
+msgstr "Yüzer (alan ve etiket aynı satırda)"
+
+#: admin/panels/settings.php:87
+msgid "Block (field label on seperate line)"
+msgstr "Blok (alan ve etiket ayrılmış satırda)"
+
+#: admin/panels/settings.php:94
+msgid "Profile Settings"
+msgstr "Üye Bilgieleri Ayarları"
+
+#: admin/panels/settings.php:98
+msgid "Allow guests to view other profiles"
+msgstr ""
+"Giriş yapmamış olan kullanıcıların diğer üyelerin bilgilerini görmesine izin "
+"ver"
+
+#: admin/panels/settings.php:108
+msgid "Allow members to view other member profiles"
+msgstr "Üyelerin diğer üyelerin bilgilerini görmesine izin ver"
+
+#: admin/panels/settings.php:118
+msgid "Allow users to request verified status"
+msgstr "Üyelerin onay durumuna izin ver"
+
+#: admin/panels/settings.php:128
+msgid "Allow users to delete their profiles"
+msgstr "Üyelerin üyeliğini silmesine izin ver"
+
+#: admin/panels/settings.php:138
+msgid "Use default gravatars until users upload a custom avatar for this site"
+msgstr ""
+"Kullanıcılar siteye özel avatar yükleyinceye kadar varsayılan gravatar kullan"
+
+#: admin/panels/settings.php:148
+msgid "Allow admins to set custom notice on user accounts"
+msgstr ""
+
+#: admin/panels/settings.php:154
+msgid ""
+"e.g. Set a custom warning to any user profile for example: This account is "
+"for test purposes only, etc."
+msgstr ""
+
+#: admin/panels/settings.php:159
+msgid "Show custom user notice to the logged-in user"
+msgstr ""
+
+#: admin/panels/settings.php:169
+msgid "Show custom user notice to the public"
+msgstr ""
+
+#: admin/panels/settings.php:180
+msgid "Redirection Settings (Hiding Dashboard)"
+msgstr "Yönlendirme Ayarları (Kontol Panelini Gizleme)"
+
+#: admin/panels/settings.php:181
+msgid ""
+"These settings help you hide the backend from normal users. You can control "
+"backend redirection precisely, these settings will not affect administrators."
+msgstr ""
+"Bu ayarlar normal kullanıcılardan yönetim panelini gizler. Yönetici paneli "
+"yönlendirmelerini kesin olarak kontrol edersiniz, bu ayarlar site "
+"yöneticisini etkilemez."
+
+#: admin/panels/settings.php:185
+msgid "Redirect backend to front-end"
+msgstr "Yönetim Panelinden siteye yeniden yönlendir"
+
+#: admin/panels/settings.php:188
+msgid "Redirect to front-end profile view"
+msgstr "Site üye bilgileri görünümüne yeniden yönlendir."
+
+#: admin/panels/settings.php:189 admin/panels/settings.php:202
+#: admin/panels/settings.php:214 admin/panels/settings.php:226
+msgid "Redirect to custom URL"
+msgstr "Özel URL'ye yönlendir"
+
+#: admin/panels/settings.php:190 admin/panels/settings.php:203
+#: admin/panels/settings.php:215 admin/panels/settings.php:227
+msgid "Do not redirect"
+msgstr "Yönlendirme yapma"
+
+#: admin/panels/settings.php:192
+msgid "If you choose cutom URL for this redirect"
+msgstr "Eğer özel yönlendirmeyi seçtiyseniz URL yi buraya yazın."
+
+#: admin/panels/settings.php:193
+msgid ""
+"You can redirect users to the built-in front-end pages by the plugin to hide "
+"backend access from them."
+msgstr ""
+
+#: admin/panels/settings.php:198
+msgid "Redirect backend profile to front-end"
+msgstr "Yönetici profilini siteye yönlendir"
+
+#: admin/panels/settings.php:201
+msgid "Redirect to front-end profile edit"
+msgstr "Site üye bilgileri düzenlemesine yeniden yönlendir."
+
+#: admin/panels/settings.php:205 admin/panels/settings.php:217
+#: admin/panels/settings.php:229
+msgid "If you choose custom URL for this redirect"
+msgstr "Eğer özel yönlendirme seçtiyseniz URL yi buraya yazın"
+
+#: admin/panels/settings.php:210
+msgid "Redirect backend registration to front-end"
+msgstr "Yönetim panelinden kaydı siteye yeniden yönlendir."
+
+#: admin/panels/settings.php:213
+msgid "Redirect to front-end registration"
+msgstr "Site kayıt sayfasına yeniden yönlendir"
+
+#: admin/panels/settings.php:222
+msgid "Redirect backend login to front-end"
+msgstr "Yönetim Paneli girişini siteye yönlendir"
+
+#: admin/panels/settings.php:225
+msgid "Redirect to front-end login"
+msgstr "Site Girişine yeniden yönlendir. "
+
+#: admin/panels/settings.php:235
+msgid "Login Settings"
+msgstr "Giriş Ayarları"
+
+#: admin/panels/settings.php:239 admin/panels/settings.php:275
+msgid "Show logout If user is logged in already"
+msgstr "Üye eğer zaten giriş yapmışsa çıkışı göster"
+
+#: admin/panels/settings.php:249
+msgid "After a successful login"
+msgstr "Başarılı bir üye girişinden sonra"
+
+#: admin/panels/settings.php:252 admin/panels/settings.php:298
+msgid "Refresh page only"
+msgstr "Sadece sayfayı tazele"
+
+#: admin/panels/settings.php:253 admin/panels/settings.php:299
+msgid "Redirect user to front-end profile"
+msgstr "Üyeyi site üye bilgilerine yeniden yönlendir. "
+
+#: admin/panels/settings.php:255
+msgid ""
+"You can also redirect users to custom URL by passing <code>login_redirect</"
+"code> valid URL in your shortcode."
+msgstr ""
+"Üyeleri özel URL ye yeniden yönlendirmek için<code>login_redirect</code> "
+"kısa koddaki geçerli URL."
+
+#: admin/panels/settings.php:260
+msgid "Redirect admins to dashboard always"
+msgstr "Yöneticileri daima kontrol paneline yönlendir"
+
+#: admin/panels/settings.php:271
+msgid "Registration Settings"
+msgstr "Kayıt Ayarları"
+
+#: admin/panels/settings.php:285
+msgid "Auto-Login users after registration"
+msgstr "Üyeler kaydolduktan sonra üyelere otomatik giriş yaptır."
+
+#: admin/panels/settings.php:295
+msgid "After a successful registration"
+msgstr "Başarlı bir üye kaydından sonra"
+
+#: admin/panels/settings.php:301
+msgid ""
+"You can also redirect users to custom URL by passing "
+"<code>register_redirect</code> valid URL in your shortcode."
+msgstr ""
+"Üyeleri özel URL ye yeniden yönlendirmek için<code>register_redirect</code> "
+"kısa koddaki geçerli URL."
+
+#: admin/panels/settings.php:306
+msgid "Default Role for New Users"
+msgstr "Yeni Üyeler için Varsayılan Üyelik Tipi"
+
+#: admin/panels/settings.php:308 admin/panels/settings.php:309
+msgid "No Role"
+msgstr "Üyelik Tipi Yok"
+
+#: admin/panels/settings.php:318
+msgid ""
+"New users will be assigned to this role automatically If you do not allow "
+"them to choose role."
+msgstr ""
+
+#: admin/panels/settings.php:323
+msgid "Allowed Roles during Registration"
+msgstr "Kayıt Esnasında izin verilen Üyelik Tipleri"
+
+#: admin/panels/settings.php:325
+msgid "Select roles"
+msgstr "Üyelik Tiplerini seçin"
+
+#: admin/panels/settings.php:334
+msgid ""
+"If you enable users to select their role, this option can limit allowed "
+"roles for user."
+msgstr ""
+"Eğer üyelerin kendi üyelik tiplerini seçmelerini sağlarsanız bu ayar üyeler "
+"için izin verilen üyelik tiplerini sınırlar."
+
+#: admin/panels/settings.php:340
+msgid "Logout Page Settings"
+msgstr "Çıkış Sayfası Ayarları"
+
+#: admin/panels/settings.php:344
+msgid "After User Logout"
+msgstr ""
+
+#: admin/panels/settings.php:347
+msgid "Redirect to Homepage"
+msgstr ""
+
+#: admin/panels/settings.php:348
+msgid "Redirect to Login Page"
+msgstr ""
+
+#: admin/panels/settings.php:349
+msgid "Redirect to Custom Page (enter below)"
+msgstr ""
+
+#: admin/panels/settings.php:355
+msgid "Custom Logout Redirect"
+msgstr ""
+
+#: admin/panels/settings.php:363
+msgid "Password Settings"
+msgstr "Şifre Ayarları"
+
+#: admin/panels/settings.php:367
+msgid "Allow password to be reset for Admin Accounts"
+msgstr "Yönetici Hesapları için şifreleri sıfırlamaya izin ver"
+
+#: admin/panels/settings.php:378
+msgid "Facebook Integration"
+msgstr "Facebook Entegrasyonu"
+
+#: admin/panels/settings.php:382
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: admin/panels/settings.php:385
+msgid ""
+"Open <a href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a> create a new app and edit its settings to make it work "
+"on your domain. In App Settings, please paste the App ID or API Key into "
+"this field."
+msgstr ""
+
+#: admin/panels/settings.php:390
+msgid "Allow Facebook Social Connect"
+msgstr "Facebook Sosyal Ağına İzin Ver"
+
+#: admin/panels/settings.php:401
+msgid "reCAPTCHA Settings"
+msgstr "reCAPTCHA Ayarları"
+
+#: admin/panels/settings.php:405
+msgid "reCAPTCHA Public API Key"
+msgstr "reCAPTCHA Genel API Anahtarı"
+
+#: admin/panels/settings.php:408 admin/panels/settings.php:416
+msgid ""
+"You can obtain reCAPTCHA API keys from <a href=\"http://www.google.com/"
+"recaptcha\">http://www.google.com/recaptcha</a> they are required to "
+"activate reCAPTCHA verification on your forms."
+msgstr ""
+
+#: admin/panels/settings.php:413
+msgid "reCAPTCHA Private API Key"
+msgstr "reCAPTCHA Özel API Anahtarı"
+
+#: admin/panels/settings.php:421
+msgid "Enable reCAPTCHA on login by default"
+msgstr "reCAPTCHA'yı girişte varsayılan olarak aktifleştir"
+
+#: admin/panels/settings.php:431
+msgid "Enable reCAPTCHA on registration by default"
+msgstr "reCAPTCHA'yı kayıtta varsayılan olarak aktifleştir"
+
+#: functions/ajax.php:40
+msgid "You must enter a post title."
+msgstr "Yazıya bir başlık girmelisiniz."
+
+#: functions/ajax.php:44
+msgid "You must enter some content."
+msgstr "Yazıya içerik girmelisiniz."
+
+#: functions/ajax.php:65
+#, php-format
+msgid "Your post has been published. You can view it %s."
+msgstr ""
+
+#: functions/ajax.php:72
+msgid "Your post has been sent for review. It will be checked by our staff."
+msgstr ""
+
+#: functions/ajax.php:107
+msgid "Nothing was deleted. You must choose yes to confirm deletion."
+msgstr "Hiçbir şey silinmedi. Silmek için eveti seçmelisiniz."
+
+#: functions/ajax.php:109
+msgid "For security reasons, admin accounts cannot be deleted."
+msgstr "Güvenliğiniz için yönetici bilgileri silinemez."
+
+#: functions/ajax.php:111
+msgid "You cannot remove test accounts from frontend!"
+msgstr "Siteden test üyeliğini kaldıramazsınız!"
+
+#: functions/ajax.php:117
+msgid "This account has been deleted successfully."
+msgstr "Bu üyelik başarıyla silindi."
+
+#: functions/ajax.php:129
+msgid "You did not provide a secret key."
+msgstr "Güvenlik kodu girmediniz."
+
+#: functions/ajax.php:131 functions/ajax.php:426
+msgid "The secret key you entered is invalid."
+msgstr "Girdiğiniz güvenlik kodu geçersiz."
+
+#: functions/ajax.php:139 functions/ajax.php:434
+msgid "The secret key is invalid or expired."
+msgstr "Güvenlik kodu geçersiz veya süresi dolmuş."
+
+#: functions/ajax.php:159 functions/ajax.php:196
+msgid "You should provide your email or username."
+msgstr "E-Posta veya kullanıcı adı girin."
+
+#: functions/ajax.php:168
+msgid "There is not such user in our system."
+msgstr "Sistemimizde böyle bir üye yoktur."
+
+#: functions/ajax.php:170
+msgid "Resetting admin password is not permitted!"
+msgstr "Yönetici şifresini sıfırlama izniniz yoktur!"
+
+#: functions/ajax.php:199
+msgid "You should provide your password."
+msgstr "Şifrenizi girin."
+
+#: functions/ajax.php:215 functions/ajax.php:314
+msgid "The reCAPTCHA wasn't entered correctly. Please try again."
+msgstr "reCAPTCHA doğru girilmemiştir. Lütfen tekrar deneyin."
+
+#: functions/ajax.php:228
+msgid "Invalid email or username entered"
+msgstr "Geçersiz e-posta veya kullancı adı"
+
+#: functions/ajax.php:230
+msgid "The password you entered is incorrect"
+msgstr "Girdiğiniz şifre hatalı"
+
+#: functions/ajax.php:237 functions/msg-functions.php:12
+msgid "Your email is pending verification. Please activate your account."
+msgstr ""
+
+#: functions/ajax.php:412
+msgid "Username already taken."
+msgstr "Kullanıcı adı zaten alınmış."
+
+#: functions/ajax.php:414
+msgid "Dashes not allowed in username."
+msgstr ""
+
+#: functions/ajax.php:419
+msgid "Please enter a valid email."
+msgstr "Geçerli bir e-posta girin."
+
+#: functions/ajax.php:421
+msgid ""
+"Email is taken. Is that you? Try to <a href=\"#\" data-template=\"login"
+"\">login</a>"
+msgstr ""
+"E-Posta alınmıştır. Bu siz misiniz? Yeniden deneyin <a href=\"#\" data-"
+"template=\"login\">Giriş</a>"
+
+#: functions/ajax.php:477
+msgid "No custom notice is set for this account."
+msgstr ""
+
+#: functions/api.php:194
+msgid "Found <span>1</span> Member"
+msgstr "<span>1</span> Üye Bulundu"
+
+#: functions/api.php:196
+#, php-format
+msgid "Found <span>%s</span> Members"
+msgstr "<span>%s</span> Üye Bulundu"
+
+#: functions/api.php:737
+msgid "No available information"
+msgstr "Kullanılabilir bilgi yok"
+
+#: functions/badge-functions.php:38 functions/badge-functions.php:65
+msgid "Verified Account"
+msgstr "Doğrulanmış Üyelik"
+
+#: functions/badge-functions.php:41
+msgid "Facebook Linked"
+msgstr "Facebook Bağlantısı"
+
+#: functions/badge-functions.php:65
+msgid "Click to unverify"
+msgstr "Doğrulamayı iptal etmek için tıklayın"
+
+#: functions/badge-functions.php:68
+msgid "Unverified Account"
+msgstr "Doğrulanmamış Üyelik"
+
+#: functions/badge-functions.php:68
+msgid "Click to verify"
+msgstr "Doğrulamak için tıklayın"
+
+#: functions/custom-alerts.php:23 functions/custom-alerts.php:32
+msgid "Set custom note..."
+msgstr ""
+
+#: functions/defaults.php:48 functions/defaults.php:55
+#: functions/defaults.php:62 functions/defaults.php:72
+#: functions/defaults.php:77 functions/defaults.php:83
+#: functions/defaults.php:87
+msgid "Hi there,"
+msgstr "Merhaba,"
+
+#: functions/defaults.php:49
+msgid "You or someone else has requested to change password for this account."
+msgstr "Siz ya da başka birisi bu üyelik için şifre değişikliği talep etti."
+
+#: functions/defaults.php:50
+msgid ""
+"The following key was generated to you to be able to change your passsword. "
+"Login to our site and attempt to Change your Password and use that key to "
+"change your password successfully."
+msgstr ""
+"Aşağıda şifrenizi değiştirmeniz için güvenlik kodu oluşturuldu. Sitemize "
+"giriş yapın ve şifrenizi değiştirmeyi deneyin ve bu güvenlik kodu ile "
+"şifrenizi başarılı bir şekilde değiştirin."
+
+#: functions/defaults.php:51
+msgid "Secret Key: {VAR1}"
+msgstr "Güvenlik Kodu: {VAR1}"
+
+#: functions/defaults.php:52 functions/defaults.php:59
+#: functions/defaults.php:69
+msgid "If you have any problems, please contact us at {USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Bir sorunla karşılaşırsanız, lütfen iletişime geçin {USERPRO_ADMIN_EMAIL}."
+
+#: functions/defaults.php:53 functions/defaults.php:60
+#: functions/defaults.php:70 functions/defaults.php:75
+msgid "Best Regards!"
+msgstr "Saygılar!"
+
+#: functions/defaults.php:56
+msgid ""
+"Thanks for signing up at {USERPRO_BLOGNAME}. You must confirm/validate your "
+"account before logging in."
+msgstr ""
+"{USERPRO_BLOGNAME} Kayıt olduğunuz için teşekkür ederiz. Giriş yapmadan önce "
+"üyeliğinizi aktifleştirmelisiniz."
+
+#: functions/defaults.php:57
+msgid ""
+"Please click on the following link to successfully activate your account:"
+msgstr "Lütfen üyelik kaydınızı aktifleştirmek için aşağıdaki linke tıklayın:"
+
+#: functions/defaults.php:63
+msgid "Thanks for registering. Your account is now active."
+msgstr "Kaydolduğunuz için teşekkürler. Hesabınız aktif hale getirilmiştir."
+
+#: functions/defaults.php:64
+msgid "To login please visit the following URL:"
+msgstr "Siteye giriş yapmak için verilen adrese tıklayın."
+
+#: functions/defaults.php:66
+msgid "Your account e-mail: {USERPRO_EMAIL}"
+msgstr "Üyelğinize ait e-posta: {USERPRO_EMAIL}"
+
+#: functions/defaults.php:67
+msgid "Your account username: {USERPRO_USERNAME}"
+msgstr "Üyeliğinizdeki kullanıcı adınız: {USERPRO_USERNAME}"
+
+#: functions/defaults.php:68
+msgid "Your account password: {VAR1}"
+msgstr "Üyelik Şifreniz: {VAR1}"
+
+#: functions/defaults.php:73
+msgid "Your account has been deleted from {USERPRO_BLOGNAME}."
+msgstr "{USERPRO_BLOGNAME} üyeliğiniz silinmiştir."
+
+#: functions/defaults.php:74
+msgid ""
+"If you have any further questions, please contact us at "
+"{USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Daha fazla sorunuz varsa, lütfen iletişime geçin {USERPRO_ADMIN_EMAIL}."
+
+#: functions/defaults.php:78
+msgid ""
+"{USERPRO_USERNAME} has just created a new account at {USERPRO_BLOGNAME}."
+msgstr ""
+"{USERPRO_USERNAME} kullanıcı adı ile yeni üyelik alınmıştır "
+"{USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:79
+msgid "You can check his profile via the following link:"
+msgstr ""
+"Yeni üyenin bilgilerini aşağıdaki linke tıklayarak kontrol edebilirsiniz:"
+
+#: functions/defaults.php:81 functions/defaults.php:85
+#: functions/defaults.php:91
+msgid ""
+"This is an automated notification that was sent to you by UserPro. No "
+"further action is needed."
+msgstr "Bu otomatik bir bildirimdir. Daha fazla bir şey yapmanıza gerek yok."
+
+#: functions/defaults.php:84
+msgid ""
+"{USERPRO_USERNAME}'s profile has been just deleted from {USERPRO_BLOGNAME}."
+msgstr "{USERPRO_USERNAME} üyeliğiniz silinmiştir {USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:88
+msgid ""
+"{USERPRO_USERNAME} has just updated their profile at {USERPRO_BLOGNAME}."
+msgstr ""
+"{USERPRO_USERNAME} üye bilgileriniz güncellenmiştir {USERPRO_BLOGNAME}."
+
+#: functions/defaults.php:89
+msgid "To view his/her profile:"
+msgstr "Üyenin bilgilerini görüntülemek için:"
+
+#: functions/defaults.php:167
+msgid "&mdash; Select account role &mdash;"
+msgstr "&mdash; Üyelik tipinizi seçin &mdash;"
+
+#: functions/fields-functions.php:302 functions/fields-functions.php:310
+msgid "No file has been uploaded."
+msgstr "Hiçbir dosya yüklenmedi."
+
+#: functions/fields-functions.php:373
+msgid "Upload photo"
+msgstr "Resim yükle"
+
+#: functions/fields-functions.php:374 functions/fields-functions.php:377
+#: functions/fields-functions.php:384 functions/fields-functions.php:387
+msgid "Remove"
+msgstr "Kaldır"
+
+#: functions/fields-functions.php:383
+msgid "Upload file"
+msgstr "Dosya yükle"
+
+#: functions/fields-functions.php:402 functions/fields-functions.php:421
+#: functions/fields-functions.php:475
+msgid "Make this field hidden from public"
+msgstr "Üyelerden Gizle"
+
+#: functions/fields-functions.php:431
+msgid "Password Strength"
+msgstr "Şifre Göstergesi"
+
+#: functions/fields-functions.php:671
+#, php-format
+msgid "(Your %s will not be visible to public)"
+msgstr "(%s alanını gizlediniz)"
+
+#: functions/fields-setup.php:129 functions/fields-setup.php:172
+msgid "Account Details"
+msgstr "Üyelik Bilgileri"
+
+#: functions/fields-setup.php:136 functions/fields-setup.php:157
+msgid "Profile Details"
+msgstr "Kişisel Bilgiler"
+
+#: functions/fields-setup.php:142 functions/fields-setup.php:166
+msgid "Social Profiles"
+msgstr "Sosyal Ağ Bilgileri"
+
+#: functions/initial-setup.php:23 functions/user-functions.php:26
+#: templates/logout.php:15 updates/userpro_1.0.24.php:15
+msgid "Logout"
+msgstr "Çıkış"
+
+#: functions/initial-setup.php:37
+msgid "Member Directory"
+msgstr "Üyeler"
+
+#: functions/initial-setup.php:51
+msgid "My Profile"
+msgstr "Üye Bilgilerim"
+
+#: functions/initial-setup.php:65 templates/view.php:16 templates/view.php:18
+msgid "Edit Profile"
+msgstr "Üye Bilgilerini Düzenle"
+
+#: functions/initial-setup.php:80 functions/shortcode-main.php:43
+#: functions/shortcode-private-content.php:32
+msgid "Register"
+msgstr "Kayıt"
+
+#: functions/initial-setup.php:95 functions/shortcode-main.php:44
+#: functions/shortcode-main.php:49 functions/shortcode-main.php:53
+#: functions/shortcode-private-content.php:33
+#: functions/shortcode-private-content.php:38
+#: functions/shortcode-private-content.php:42
+msgid "Login"
+msgstr "Giriş"
+
+#: functions/mail-functions.php:39
+msgid "Verify your Account"
+msgstr ""
+
+#: functions/mail-functions.php:48
+msgid "Reset Your Password"
+msgstr "Şifremi Sıfırla"
+
+#: functions/mail-functions.php:57
+msgid "Your profile has been removed!"
+msgstr "Üyeliğiniz sonlandırıldı!"
+
+#: functions/mail-functions.php:66
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Hoşgeldin %s!"
+
+#: functions/mail-functions.php:83
+msgid "[UserPro] New User Registration"
+msgstr "[UserPro] Yeni Üye Kaydı"
+
+#: functions/mail-functions.php:90
+msgid "[UserPro] A profile has been removed!"
+msgstr "[UserPro] Bir üye silindi!"
+
+#: functions/mail-functions.php:97
+msgid "[UserPro] A profile has been updated!"
+msgstr "[UserPro] Bir üyenin bilgileri güncellendi!"
+
+#: functions/memberlist-functions.php:239
+msgid "« Previous"
+msgstr "« Önceki"
+
+#: functions/memberlist-functions.php:240
+msgid "Next »"
+msgstr "Sonraki »"
+
+#: functions/msg-functions.php:4
+msgid "Please log in to publish a new post."
+msgstr "Yeni yazı göndermek için lütfen giriş yapın."
+
+#: functions/msg-functions.php:8
+msgid "Your account has been successfully activated!"
+msgstr ""
+
+#: functions/msg-functions.php:16
+msgid "Your profile has been saved."
+msgstr "Bilgileriniz kaydedildi."
+
+#: functions/msg-functions.php:20
+msgid "Thank you for registering. Please login to continue."
+msgstr "Kayıt için teşekkür ederiz. Devam etmek için lütfen giriş yapın."
+
+#: functions/msg-functions.php:24
+msgid "Please login to view and manage your profile."
+msgstr "Bilgilerinizi görüntülemek ve yönetmek için giriş yapın."
+
+#: functions/msg-functions.php:28
+msgid "Please login to view this user profile."
+msgstr "Bu üyenin profilini görmek için giriş yapın."
+
+#: functions/msg-functions.php:32
+msgid ""
+"We'll email you a secret key. Once you obtain the key, you can use it to "
+"Change your Password."
+msgstr ""
+"Güvenlik kodunuz e-postanıza gönderilecektir. Size ulaşan güvenlik kodunu "
+"kullanarak Şifrenizi Değiştirebilirsiniz."
+
+#: functions/msg-functions.php:36
+msgid "A secret key has been sent successfully."
+msgstr "Bir güvenlik kodu başarıyla gönderildi."
+
+#: functions/msg-functions.php:40
+msgid "Your password has been changed successfully. Please login."
+msgstr "Şifreniz başarıyla değiştirildi. Lütfen giriş yapın."
+
+#: functions/shortcode-main.php:31 functions/shortcode-private-content.php:21
+msgid "This field is required"
+msgstr "Bu alan boş bırakılamaz"
+
+#: functions/shortcode-main.php:32 functions/shortcode-private-content.php:22
+msgid "Your password is too short"
+msgstr "Şifreniz çok kısa"
+
+#: functions/shortcode-main.php:33 functions/shortcode-private-content.php:23
+msgid "Passwords do not match"
+msgstr "Şifreler uyuşmuyor"
+
+#: functions/shortcode-main.php:34 functions/shortcode-private-content.php:24
+msgid "Password is not strong enough"
+msgstr "Şifre yeteri kadar güçlü değil"
+
+#: functions/shortcode-main.php:39 functions/shortcode-private-content.php:28
+msgid "Register an Account"
+msgstr "Yeni Üyelik Oluşturun"
+
+#: functions/shortcode-main.php:40 functions/shortcode-private-content.php:29
+msgid "Already a member?"
+msgstr "Zaten üye misiniz?"
+
+#: functions/shortcode-main.php:50 functions/shortcode-private-content.php:39
+msgid "Forgot your password?"
+msgstr "Şifremi unuttum!"
+
+#: functions/shortcode-main.php:54 functions/shortcode-private-content.php:43
+msgid "Create an Account"
+msgstr "Yeni Üyelik Oluştur"
+
+#: functions/shortcode-main.php:59 functions/shortcode-private-content.php:48
+#: templates/edit.php:84 templates/view.php:78
+msgid "Delete Profile"
+msgstr "Üye Bilgilerini Sil"
+
+#: functions/shortcode-main.php:60 functions/shortcode-private-content.php:49
+msgid "Undo, back to profile"
+msgstr "Gerial, üye bilgilerine geri dön"
+
+#: functions/shortcode-main.php:63 functions/shortcode-private-content.php:52
+#: templates/delete.php:23
+msgid "Confirm Deletion"
+msgstr "Silme Onayı"
+
+#: functions/shortcode-main.php:64 functions/shortcode-private-content.php:53
+msgid "Back to Profile"
+msgstr "Üye Bilgilerine Geri Dön"
+
+#: functions/shortcode-main.php:67 functions/shortcode-private-content.php:56
+msgid "Reset Password"
+msgstr "Şifre Sıfırlama"
+
+#: functions/shortcode-main.php:68 functions/shortcode-private-content.php:57
+msgid "Back to Login"
+msgstr "Giriş Sayfasına Dön"
+
+#: functions/shortcode-main.php:71 functions/shortcode-private-content.php:60
+msgid "Request Secret Key"
+msgstr "Güvenlik Kodu Talebi"
+
+#: functions/shortcode-main.php:72 functions/shortcode-main.php:75
+#: functions/shortcode-private-content.php:61
+#: functions/shortcode-private-content.php:64
+msgid "Change your Password"
+msgstr "Şifrenizi Değiştirin"
+
+#: functions/shortcode-main.php:76 functions/shortcode-private-content.php:65
+msgid "Request New Key"
+msgstr "Güvenlik Kodu Girişi"
+
+#: functions/shortcode-main.php:79 functions/shortcode-private-content.php:68
+msgid "Change my Password"
+msgstr "Şifremi Değiştir"
+
+#: functions/shortcode-main.php:80 functions/shortcode-private-content.php:69
+msgid "Do not have a secret key?"
+msgstr "Güvenlik kodunuz yok mu?"
+
+#: functions/shortcode-main.php:83 functions/shortcode-private-content.php:72
+msgid "Latest Members"
+msgstr "Son Üyeler"
+
+#: functions/shortcode-main.php:96
+msgid "Who is online now"
+msgstr "Kimler Çevrimiçi"
+
+#: functions/shortcode-main.php:117 functions/shortcode-private-content.php:94
+msgid "An error has occured"
+msgstr "Bir hata oluştu"
+
+#: functions/shortcode-main.php:149
+#: functions/shortcode-private-content.php:117
+msgid "Existing member? login"
+msgstr ""
+
+#: functions/shortcode-main.php:159
+msgid "Add a New Post"
+msgstr "Yeni Yazı Ekle"
+
+#: templates/card.php:3 templates/change.php:3 templates/delete.php:3
+#: templates/edit.php:3 templates/list.php:3 templates/login.php:3
+#: templates/logout.php:3 templates/online.php:3 templates/publish.php:3
+#: templates/register.php:3 templates/registration_closed.php:3
+#: templates/request_verify.php:3 templates/reset.php:3 templates/view.php:3
+msgid "Close"
+msgstr "Kapat"
+
+#: templates/card.php:12
+msgid "View Full Profile"
+msgstr "Üye Bilgilerinin Tamamını Görüntüle"
+
+#: templates/change.php:21
+msgid "Your Secret Key"
+msgstr "Güvenlik Kodunuz"
+
+#: templates/change.php:24
+msgid ""
+"You need a secret key to change your account password. Do not have one? "
+"Click <a href=\"#\" data-template=\"reset\">here</a> to obtain a new key."
+msgstr ""
+"Şifrenizi değiştirmek için güvenlik kodu gereklidir. Güvenlik kodunuz yok "
+"mu? <a href=\"#\" data-template=\"reset\">Bu linke tıklayarak</a> yeni bir "
+"güvenlik kodu alabilirsiniz."
+
+#: templates/delete.php:24
+msgid "No, do not delete"
+msgstr "Hayır, silme"
+
+#: templates/delete.php:24
+msgid "Yes, delete this profile!"
+msgstr "Evet, bu üyelik bilgilerini silin!"
+
+#: templates/delete.php:25
+msgid "This action cannot be UNDONE! It will delete all profile data."
+msgstr ""
+"Bu eylem geri alınamaz! Üyelik bilgilerine ait tüm veriler silinecektir."
+
+#: templates/edit.php:15 templates/edit.php:17 templates/list.php:28
+#: templates/memberlist_v2.php:45 templates/online.php:32
+#: templates/online.php:55
+msgid "View Profile"
+msgstr "Üye Bilgilerini Görüntüle"
+
+#: templates/edit.php:80 templates/view.php:74
+msgid "Request Verification"
+msgstr "İstek Doğrulama"
+
+#: templates/logout.php:12
+msgid "View/manage your profile"
+msgstr "Üye Bilgilerini Görüntüle/Yönet"
+
+#: templates/memberlist.php:9 templates/memberlist_v2.php:9
+msgid "Search for a user..."
+msgstr "Bir üye arayın..."
+
+#: templates/memberlist.php:45 templates/memberlist_v2.php:52
+msgid "No users match your search. Please try again."
+msgstr "Arama sonucunda üye bulunamadı. Lütfen tekrar deneyin."
+
+#: templates/memberlist_v2.php:42
+msgid "The user did not enter a description yet."
+msgstr "Üye hakkında henüz bir bilgi girmemiş."
+
+#: templates/not_authorized.php:12
+msgid "You are not authorized to access this profile."
+msgstr "Bu üye bilgisine erişme yetkiniz yoktur."
+
+#: templates/not_found.php:12
+msgid ""
+"The user profile you are trying to reach does not exist. It could have been "
+"removed."
+msgstr ""
+"Ulaşmaya çalıştığınız üye mevcut değildir. Sistemden kaldırılmış olabilir."
+
+#: templates/online.php:17
+#, php-format
+msgid "There are %s users online on the site."
+msgstr ""
+
+#: templates/online.php:64
+msgid "No users are online now."
+msgstr "Şu an çevrimiçi üye yok."
+
+#: templates/private.php:4
+msgid "Restricted Content / Members Only"
+msgstr "Sınırlı İçerik / Sadece Üyeler"
+
+#: templates/private.php:12
+#, php-format
+msgid ""
+"You cannot view this content because It is available to members only. Please "
+"<a href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">login</a> "
+"or <a href=\"%s\">register</a> to view this area."
+msgstr ""
+"Bu içeriği görüntüleyemezsiniz. Sadece üyeler görebilir. Bu bölümü görmek "
+"için lütfen <a href=\"#\" class=\"popup-login\" data-force_redirect_uri="
+"\"1\">giriş yapın</a> veya <a href=\"%s\">kaydolun</a>"
+
+#: templates/publish.php:21
+msgid "Enter post title here..."
+msgstr "Başlığı buraya girin..."
+
+#: templates/publish.php:25
+msgid "Post Type"
+msgstr "Gönderi Tipi"
+
+#: templates/publish.php:27
+msgid "Select Categories"
+msgstr "Kategorileri Seç"
+
+#: templates/registration_closed.php:6
+msgid "Registration Closed"
+msgstr "Üyelik Kaydı Kapalı"
+
+#: templates/registration_closed.php:17
+msgid "Registration is currently disabled. We apologize for any inconvenience."
+msgstr ""
+
+#: templates/request_verify.php:6
+msgid "Your request is sent!"
+msgstr "Talebiniz gönderildi!"
+
+#: templates/request_verify.php:14
+#, php-format
+msgid ""
+"Thanks, <strong>%s</strong>! Your request to get verified has been sent to "
+"the staff. A staff member will look at your application shortly and take the "
+"appropriate action."
+msgstr ""
+
+#: templates/reset.php:21
+msgid "Username or Email"
+msgstr "Kullanıcı adı / e-posta"
+
+#: templates/restricted.php:4
+msgid "Access Denied"
+msgstr "Erişim Engellendi"
+
+#: templates/restricted.php:12
+msgid ""
+"You do not have enough permissions or role to view this private content. We "
+"apologize for that."
+msgstr "Bu özel içeriği görüntüleyebilmek için yetkiniz yoktur. Özür dileriz."
